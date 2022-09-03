@@ -51,7 +51,7 @@ class Mech:
     corp: str
     source: str = Sources.CORE
     author: str = Authors.MASSIF
-    image_path: str = None
+    image_path: str | list[str] = None
 
     def __str__(self):
         return self.name
@@ -112,15 +112,56 @@ class Mechs:
         image_path="https://external-preview.redd.it/uiHVNTr51s5O7LdbPLLwI-BkRrvRmbPZx_XW4m2jH1U.jpg?auto=webp&s=51e7c6a99d745f9c9a5e213a848219cfc2682382",
     )
 
-    BLACK_WITCH = Mech(name="black_witch", corp=Corps.SSC)
-    DUSK_WING = Mech(name="dusk_wing", corp=Corps.SSC)
-    MONARCH = Mech(name="monarch", corp=Corps.SSC)
-    DEATHS_HEAD = Mech(name="death's head", corp=Corps.SSC)
-    SWALLOWTAIL_RANGER = Mech(name="swallowtail_ranger", corp=Corps.SSC)
-    METALMARK = Mech(name="metalmark", corp=Corps.SSC)
-    MOURNING_CLOAK = Mech(name="mourning_cloak", corp=Corps.SSC)
-    SWALLOWTAIL = Mech(name="swallowtail", corp=Corps.SSC)
-    ATLAS = Mech(name="atlas", corp=Corps.SSC, source=Sources.LONG_RIM)
+    BLACK_WITCH = Mech(
+        name="black_witch",
+        corp=Corps.SSC,
+        image_path="https://static.wikia.nocookie.net/lancer/images/4/47/Blackwitch1.jpeg/revision/latest?cb=20210510124208",
+    )
+    DUSK_WING = Mech(
+        name="dusk_wing",
+        corp=Corps.SSC,
+        image_path="https://pbs.twimg.com/media/D28PCW3WsAIGZuU.jpg:large",
+    )
+    MONARCH = Mech(
+        name="monarch",
+        corp=Corps.SSC,
+        image_path="https://pbs.twimg.com/media/D0SvXINX4AEcN1Z.jpg:large",
+    )
+    DEATHS_HEAD = Mech(
+        name="death's head",
+        corp=Corps.SSC,
+        image_path="https://pbs.twimg.com/media/D3AyF5pXgAIM3t_.jpg:large",
+    )
+    SWALLOWTAIL = Mech(
+        name="swallowtail",
+        corp=Corps.SSC,
+        image_path="https://external-preview.redd.it/4ts71UdtaOTzZJOYApRc6U-m5G_CgzyTx9PGVqAKvn8.jpg?auto=webp&s=f54bcc86818f54f4e3008ceee2c50842201e93fa",
+    )
+    SWALLOWTAIL_RANGER = Mech(
+        name="swallowtail_ranger",
+        corp=Corps.SSC,
+        image_path="https://cdnb.artstation.com/p/assets/images/images/035/138/645/large/theotime-gm-ranger-variant-web.jpg?1614191125",
+    )
+    METALMARK = Mech(
+        name="metalmark",
+        corp=Corps.SSC,
+        image_path="https://static.wikia.nocookie.net/lancer/images/b/ba/Metalmark.jpeg/revision/latest?cb=20210510130854",
+    )
+    MOURNING_CLOAK = Mech(
+        name="mourning_cloak",
+        corp=Corps.SSC,
+        image_path="https://static.wikia.nocookie.net/lancer/images/1/15/MourningCloak.jpg/revision/latest?cb=20200509101339",
+    )
+
+    ATLAS = Mech(
+        name="atlas",
+        corp=Corps.SSC,
+        source=Sources.LONG_RIM,
+        image_path=[
+            "https://pbs.twimg.com/media/D55kqK-WwAAMyND?format=jpg&name=large",
+            "https://pbs.twimg.com/media/EMXOad_WwAMMkZM?format=jpg&name=large",
+        ],
+    )
     WHITE_WITCH = Mech(
         name="white_witch", corp=Corps.SSC, source=Sources.KARRAKIN_TRADE_BARONIES
     )
@@ -643,9 +684,12 @@ def _generate_mech_readme_from_group_name_to_content(
         f"Author: {mech.author}\n",
     ]
     if mech.image_path:
-        lines.append(
-            f'<img src="{mech.image_path}" width="500"/>\n',
-        )
+        if not isinstance(mech.image_path, list):
+            mech.image_path = [mech.image_path]
+        for image_path in mech.image_path:
+            lines.append(
+                f'<img src="{image_path}" width="500"/>\n',
+            )
 
     for name, content in content_groups.items():
         if not name or not content:
