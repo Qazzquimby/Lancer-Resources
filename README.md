@@ -269,6 +269,10 @@ Source: Long Rim
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D55kqK-WwAAMyND?format=jpg&name=large" width="500"/>
+
+<img src="https://pbs.twimg.com/media/EMXOad_WwAMMkZM?format=jpg&name=large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=P6ihnobmJqk&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=30
 - https://youtu.be/EcJUGtXKt0Q?t=27
@@ -354,6 +358,8 @@ Corp: SSC
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://static.wikia.nocookie.net/lancer/images/4/47/Blackwitch1.jpeg/revision/latest?cb=20210510124208" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=rqVa7qQSY8s&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=3
@@ -463,6 +469,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D3AyF5pXgAIM3t_.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=3b2LcyaCEZE&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=25
 #### Lancer Custom Werks, lancer builds
@@ -486,7 +494,7 @@ Source: Core Book
 
 Author: Massif Press
 
-<img src='https://static.wikia.nocookie.net/lancer/images/6/62/Drake.jpg/revision/latest' width='500'/>
+<img src="https://static.wikia.nocookie.net/lancer/images/6/62/Drake.jpg/revision/latest?cb=20200509100716" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=uUAaAbnssi0&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=20&
@@ -514,6 +522,8 @@ Corp: SSC
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/D28PCW3WsAIGZuU.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=Fo3peXAoC1M&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=21
@@ -949,6 +959,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://static.wikia.nocookie.net/lancer/images/b/ba/Metalmark.jpeg/revision/latest?cb=20210510130854" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=OpQzi9b8-os&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=27&
 #### Lancer Custom Werks, lancer builds
@@ -987,6 +999,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D0SvXINX4AEcN1Z.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=zxitMCtKC3E&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=9
 #### Lancer Custom Werks, lancer builds
@@ -1014,6 +1028,8 @@ Corp: SSC
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://static.wikia.nocookie.net/lancer/images/1/15/MourningCloak.jpg/revision/latest?cb=20200509101339" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=JBEWs7WCZ4E&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=17
@@ -1264,6 +1280,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://external-preview.redd.it/4ts71UdtaOTzZJOYApRc6U-m5G_CgzyTx9PGVqAKvn8.jpg?auto=webp&s=f54bcc86818f54f4e3008ceee2c50842201e93fa" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=lbiaGCdcClI&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=12&
 #### Lancer Custom Werks, lancer builds
@@ -1291,6 +1309,8 @@ Corp: SSC
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://cdnb.artstation.com/p/assets/images/images/035/138/645/large/theotime-gm-ranger-variant-web.jpg?1614191125" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=dPh19Z_jj8I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=39&
