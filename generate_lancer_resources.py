@@ -51,6 +51,7 @@ class Mech:
     corp: str
     source: str = Sources.CORE
     author: str = Authors.MASSIF
+    image_path: str = None
 
     def __str__(self):
         return self.name
@@ -63,15 +64,53 @@ class Mechs:
     EVEREST = Mech(name="everest", corp=Corps.GMS)
     SAGARMATHA = Mech(name="sagarmatha", corp=Corps.GMS, source=Sources.WALLFLOWER)
 
-    BLACKBEARD = Mech(name="blackbeard", corp=Corps.IPSN)
-    DRAKE = Mech(name="drake", corp=Corps.IPSN)
-    LANCASTER = Mech(name="lancaster", corp=Corps.IPSN)
-    KIDD = Mech(name="kidd", corp=Corps.IPSN, source=Sources.WALLFLOWER)
-    NELSON = Mech(name="nelson", corp=Corps.IPSN)
-    RALEIGH = Mech(name="raleigh", corp=Corps.IPSN)
-    TORTUGA = Mech(name="tortuga", corp=Corps.IPSN)
-    VLAD = Mech(name="vlad", corp=Corps.IPSN)
-    CALIBAN = Mech("caliban", corp=Corps.IPSN, source=Sources.LONG_RIM)
+    BLACKBEARD = Mech(
+        name="blackbeard",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/a/a1/Blackbeard.jpg/revision/latest?cb=20200509100622",
+    )
+    DRAKE = Mech(
+        name="drake",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/6/62/Drake.jpg/revision/latest?cb=20200509100716",
+    )
+    LANCASTER = Mech(
+        name="lancaster",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/2/2c/Lancaster.jpg/revision/latest?cb=20200509101034",
+    )
+    KIDD = Mech(
+        name="kidd",
+        corp=Corps.IPSN,
+        source=Sources.WALLFLOWER,
+        image_path="https://pbs.twimg.com/media/EfE34JxXoAEWdnT.jpg:large",
+    )
+    NELSON = Mech(
+        name="nelson",
+        corp=Corps.IPSN,
+        image_path="https://pbs.twimg.com/media/D0da5CUWwAAwpO0.jpg:large",
+    )
+    RALEIGH = Mech(
+        name="raleigh",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/6/69/Raleigh.jpg/revision/latest?cb=20200509101441",
+    )
+    TORTUGA = Mech(
+        name="tortuga",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/0/03/Tortuga.jpg/revision/latest?cb=20200509101655",
+    )
+    VLAD = Mech(
+        name="vlad",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/d/d1/Vlad.jpg/revision/latest?cb=20200509101717",
+    )
+    CALIBAN = Mech(
+        "caliban",
+        corp=Corps.IPSN,
+        source=Sources.LONG_RIM,
+        image_path="https://external-preview.redd.it/uiHVNTr51s5O7LdbPLLwI-BkRrvRmbPZx_XW4m2jH1U.jpg?auto=webp&s=51e7c6a99d745f9c9a5e213a848219cfc2682382",
+    )
 
     BLACK_WITCH = Mech(name="black_witch", corp=Corps.SSC)
     DUSK_WING = Mech(name="dusk_wing", corp=Corps.SSC)
@@ -143,7 +182,7 @@ class Image:
             else:
                 lines.append(f"Source: {self.source}\n")
         else:
-            lines.append("Source: Unknown. Please message me if you know the artist.\n")
+            lines.append("Source: Unknown.\n")
         return "\n".join(lines)
 
 
@@ -336,6 +375,46 @@ RESOURCE_GROUPS: list[ResourceGroup] = [
         )
     ),
     ResourceGroup(
+        resources=get_image_resources_with_source(
+            source="https://theogm.artstation.com/projects/DxrJnG",
+            mechs_to_paths={
+                Mechs.MOURNING_CLOAK: "https://cdna.artstation.com/p/assets/images/images/026/564/190/large/theotime-galmiche-marchofrobots-13.jpg?1589125642",
+                Mechs.DRAKE: "https://cdna.artstation.com/p/assets/images/images/026/564/214/large/theotime-galmiche-marchofrobots-15.jpg?1589125715",
+                Mechs.GORGON: "https://cdnb.artstation.com/p/assets/images/images/026/564/235/large/theotime-galmiche-marchofrobots-16.jpg?1589125740",
+                Mechs.DEATHS_HEAD: "https://cdnb.artstation.com/p/assets/images/images/026/564/247/large/theotime-galmiche-marchofrobots-17.jpg?1589125765",
+                Mechs.RALEIGH: "https://cdna.artstation.com/p/assets/images/images/026/564/266/large/theotime-galmiche-marchofrobots-18.jpg?1589125797",
+            },
+        )
+    ),
+    ResourceGroup(
+        resources=get_image_resources_with_source(
+            source="https://theogm.artstation.com/projects/A9ABe5?album_id=5224111",
+            mechs_to_paths={
+                Mechs.METALMARK: "https://cdna.artstation.com/p/assets/images/images/026/562/104/large/theotime-galmiche-marchofrobots-03.jpg?1589121322",
+                Mechs.MANTICORE: "https://cdnb.artstation.com/p/assets/images/images/026/562/117/large/theotime-galmiche-marchofrobots-04.jpg?1589121355",
+                Mechs.BLACK_WITCH: "https://cdna.artstation.com/p/assets/images/images/026/562/129/large/theotime-galmiche-marchofrobots-05.jpg?1589121387",
+            },
+        )
+    ),
+    ResourceGroup(
+        resources=get_image_resources_with_source(
+            source="https://theogm.artstation.com/projects/qAqzGD?album_id=5224111",
+            mechs_to_paths={
+                Mechs.TORTUGA: "https://cdna.artstation.com/p/assets/images/images/026/562/498/large/theotime-galmiche-marchofrobots-11.jpg?1589122243",
+                Mechs.SALADIN: "https://cdnb.artstation.com/p/assets/images/images/026/562/515/large/theotime-galmiche-marchofrobots-12.jpg?1589122268",
+            },
+        )
+    ),
+    ResourceGroup(
+        resources=get_image_resources_with_source(
+            source="https://theogm.artstation.com/projects/8XqzGK?album_id=5224111",
+            mechs_to_paths={
+                Mechs.TOKUGAWA: "https://cdnb.artstation.com/p/assets/images/images/026/565/041/large/theotime-galmiche-marchofrobots-19.jpg?1589127024",
+                Mechs.NELSON: "https://cdnb.artstation.com/p/assets/images/images/026/564/691/large/theotime-galmiche-marchofrobots-22.jpg?1589126440",
+            },
+        )
+    ),
+    ResourceGroup(
         resources={
             Mechs.EVEREST: [
                 Image(
@@ -439,6 +518,58 @@ RESOURCE_GROUPS: list[ResourceGroup] = [
                     path="https://media.discordapp.net/attachments/561000253608820737/842344434054070282/sketchbook_scribbles2c.png?width=571&height=580",
                 ),
             ],
+            Mechs.BALOR: [
+                Image(
+                    path="https://cdnb.artstation.com/p/assets/images/images/042/590/651/large/theotime-gm-warlock-web-marked.jpg?1634913024",
+                    source="https://theogm.artstation.com/projects/zO2N5w?album_id=5224111",
+                )
+            ],
+            Mechs.BARBAROSSA: [
+                Image(
+                    path="https://cdnb.artstation.com/p/assets/images/images/027/409/213/large/theotime-gm-t-boe-sigfried-color-web-02.jpg?1591454560",
+                    source="https://theogm.artstation.com/projects/9mwmdR?album_id=5224111",
+                )
+            ],
+            Mechs.BLACKBEARD: [
+                Image(
+                    path="https://cdna.artstation.com/p/assets/images/images/035/137/912/large/theotime-gm-honeyblood-web.jpg?1614189552",
+                    source="https://theogm.artstation.com/projects/ZGZB8x?album_id=5224111",
+                )
+            ],
+            Mechs.BLACK_WITCH: [
+                Image(
+                    path="https://cdnb.artstation.com/p/assets/images/images/042/590/651/large/theotime-gm-warlock-web-marked.jpg?1634913024",
+                    source="https://theogm.artstation.com/projects/zO2N5w?album_id=5224111",
+                )
+            ],
+            Mechs.DRAKE: [
+                Image(
+                    path="https://cdnb.artstation.com/p/assets/images/images/028/499/661/large/theotime-gm-bear-drake-bg-web.jpg?1594662162",
+                    source="https://theogm.artstation.com/projects/3dq10o?album_id=5224111",
+                )
+            ],
+            Mechs.GORGON: [
+                Image(
+                    path="https://cdnb.artstation.com/p/assets/images/images/028/191/345/large/theotime-gm-preacher-web.jpg?1593725386",
+                    source="https://theogm.artstation.com/projects/R33XXA?album_id=5224111",
+                ),
+                Image(
+                    path="https://cdnb.artstation.com/p/assets/images/images/042/591/061/large/theotime-gm-witheringgaze-web-watermark.jpg?1634913932",
+                    source="https://theogm.artstation.com/projects/rAbY05?album_id=5224111",
+                ),
+            ],
+            Mechs.NELSON: [
+                Image(
+                    path="https://cdna.artstation.com/p/assets/images/images/027/409/116/large/theotime-gm-commission-b-s-colored-web.jpg?1591454260",
+                    source="https://theogm.artstation.com/projects/q9L9ky?album_id=5224111",
+                )
+            ],
+            Mechs.SWALLOWTAIL: [
+                Image(
+                    path="https://cdna.artstation.com/p/assets/images/images/029/678/810/large/theotime-gm-athena-swallowtail-web.jpg?1598315334",
+                    source="https://theogm.artstation.com/projects/Xna6Vy?album_id=5224111",
+                )
+            ],
             Mechs.TOKUGAWA: [
                 Image(
                     source="https://twitter.com/EMFields_Art/status/1512528795080671233?s=20&t=RY4_6qI9V2Vk1NuT0wlWBg",
@@ -469,6 +600,10 @@ RESOURCE_GROUPS: list[ResourceGroup] = [
             Mechs.MOURNING_CLOAK: [
                 Image(
                     path="https://cdn.discordapp.com/attachments/561000253608820737/831894740714258482/toku4.jpg"
+                ),
+                Image(
+                    path="https://cdnb.artstation.com/p/assets/images/images/042/589/797/large/theotime-gm-custom-mc-web-watermark.jpg?1634911204",
+                    source="https://theogm.artstation.com/projects/w6DwJX?album_id=5224111",
                 ),
             ],
             Mechs.CALIBAN: [
@@ -507,6 +642,11 @@ def _generate_mech_readme_from_group_name_to_content(
         f"Source: {mech.source}\n",
         f"Author: {mech.author}\n",
     ]
+    if mech.image_path:
+        lines.append(
+            f'<img src="{mech.image_path}" width="500"/>\n',
+        )
+
     for name, content in content_groups.items():
         if not name or not content:
             continue  # This assumes non-image resources always have a name

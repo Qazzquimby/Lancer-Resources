@@ -307,6 +307,11 @@ Author: Massif Press
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+##### miscellaneous
+<img src='https://cdnb.artstation.com/p/assets/images/images/042/590/651/large/theotime-gm-warlock-web-marked.jpg?1634913024' width='400'>
+
+[Source](https://theogm.artstation.com/projects/zO2N5w?album_id=5224111)
+
 </details>
 
 -------
@@ -335,6 +340,10 @@ Author: Massif Press
 
 [Source](https://twitter.com/ShadeFish1/status/1526362574350127104?s=20&t=3XgB7A50VHP-wPRwWshRrA)
 
+<img src='https://cdnb.artstation.com/p/assets/images/images/027/409/213/large/theotime-gm-t-boe-sigfried-color-web-02.jpg?1591454560' width='400'>
+
+[Source](https://theogm.artstation.com/projects/9mwmdR?album_id=5224111)
+
 </details>
 
 -------
@@ -350,6 +359,18 @@ Author: Massif Press
 - https://www.youtube.com/watch?v=rqVa7qQSY8s&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=3
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=OPACqFvKCSQ&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=11
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://cdna.artstation.com/p/assets/images/images/026/562/129/large/theotime-galmiche-marchofrobots-05.jpg?1589121387' width='400'>
+
+[Source](https://theogm.artstation.com/projects/A9ABe5?album_id=5224111)
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/042/590/651/large/theotime-gm-warlock-web-marked.jpg?1634913024' width='400'>
+
+[Source](https://theogm.artstation.com/projects/zO2N5w?album_id=5224111)
+
 </details>
 
 -------
@@ -360,6 +381,8 @@ Corp: IPSN
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://static.wikia.nocookie.net/lancer/images/a/a1/Blackbeard.jpg/revision/latest?cb=20200509100622" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=SUuM2sCVzZk&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=2
@@ -377,6 +400,10 @@ Author: Massif Press
 <img src='https://pbs.twimg.com/media/FS66Gq8WIAA_UDv?format=jpg&name=4096x4096' width='400'>
 
 [Source](https://twitter.com/ShadeFish1/status/1526362574350127104?s=20&t=3XgB7A50VHP-wPRwWshRrA)
+
+<img src='https://cdna.artstation.com/p/assets/images/images/035/137/912/large/theotime-gm-honeyblood-web.jpg?1614189552' width='400'>
+
+[Source](https://theogm.artstation.com/projects/ZGZB8x?album_id=5224111)
 
 </details>
 
@@ -410,6 +437,8 @@ Source: Long Rim
 
 Author: Massif Press
 
+<img src="https://external-preview.redd.it/uiHVNTr51s5O7LdbPLLwI-BkRrvRmbPZx_XW4m2jH1U.jpg?auto=webp&s=51e7c6a99d745f9c9a5e213a848219cfc2682382" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=X0Ll59VKy0I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=29
 - https://youtu.be/EcJUGtXKt0Q?t=56
@@ -438,6 +467,14 @@ Author: Massif Press
 - https://www.youtube.com/watch?v=3b2LcyaCEZE&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=25
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=qdyTbPnKA_4&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=19
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://cdnb.artstation.com/p/assets/images/images/026/564/247/large/theotime-galmiche-marchofrobots-17.jpg?1589125765' width='400'>
+
+[Source](https://theogm.artstation.com/projects/DxrJnG)
+
 </details>
 
 -------
@@ -449,10 +486,24 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src='https://static.wikia.nocookie.net/lancer/images/6/62/Drake.jpg/revision/latest' width='500'/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=uUAaAbnssi0&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=20&
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=FPvy7UpU3K0&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=34
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://cdna.artstation.com/p/assets/images/images/026/564/214/large/theotime-galmiche-marchofrobots-15.jpg?1589125715' width='400'>
+
+[Source](https://theogm.artstation.com/projects/DxrJnG)
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/028/499/661/large/theotime-gm-bear-drake-bg-web.jpg?1594662162' width='400'>
+
+[Source](https://theogm.artstation.com/projects/3dq10o?album_id=5224111)
+
 </details>
 
 -------
@@ -616,7 +667,7 @@ Source: Sky Crime
 
 <img src='https://media.discordapp.net/attachments/561000253608820737/854595327889506304/unknown.png?width=417&height=580' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
 
 <img src='https://pbs.twimg.com/media/E3HrJPnXwAErCC8?format=jpg&name=medium' width='400'>
 
@@ -696,6 +747,19 @@ Author: Massif Press
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+##### miscellaneous
+<img src='https://cdnb.artstation.com/p/assets/images/images/026/564/235/large/theotime-galmiche-marchofrobots-16.jpg?1589125740' width='400'>
+
+[Source](https://theogm.artstation.com/projects/DxrJnG)
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/028/191/345/large/theotime-gm-preacher-web.jpg?1593725386' width='400'>
+
+[Source](https://theogm.artstation.com/projects/R33XXA?album_id=5224111)
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/042/591/061/large/theotime-gm-witheringgaze-web-watermark.jpg?1634913932' width='400'>
+
+[Source](https://theogm.artstation.com/projects/rAbY05?album_id=5224111)
+
 </details>
 
 -------
@@ -772,6 +836,8 @@ Source: No Room for a Wallflower
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/EfE34JxXoAEWdnT.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=HAH6erftukg&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=38
 #### Lancer Custom Werks, lancer builds
@@ -814,6 +880,8 @@ Corp: IPSN
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://static.wikia.nocookie.net/lancer/images/2/2c/Lancaster.jpg/revision/latest?cb=20200509101034" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=5bhuWhT-B1I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=16
@@ -865,6 +933,11 @@ Author: Massif Press
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+##### miscellaneous
+<img src='https://cdnb.artstation.com/p/assets/images/images/026/562/117/large/theotime-galmiche-marchofrobots-04.jpg?1589121355' width='400'>
+
+[Source](https://theogm.artstation.com/projects/A9ABe5?album_id=5224111)
+
 </details>
 
 -------
@@ -880,6 +953,14 @@ Author: Massif Press
 - https://www.youtube.com/watch?v=OpQzi9b8-os&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=27&
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=ns7WSKuOfLw&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=31
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://cdna.artstation.com/p/assets/images/images/026/562/104/large/theotime-galmiche-marchofrobots-03.jpg?1589121322' width='400'>
+
+[Source](https://theogm.artstation.com/projects/A9ABe5?album_id=5224111)
+
 </details>
 
 -------
@@ -942,9 +1023,17 @@ Author: Massif Press
 <summary>Images</summary>
 
 ##### miscellaneous
+<img src='https://cdna.artstation.com/p/assets/images/images/026/564/190/large/theotime-galmiche-marchofrobots-13.jpg?1589125642' width='400'>
+
+[Source](https://theogm.artstation.com/projects/DxrJnG)
+
 <img src='https://cdn.discordapp.com/attachments/561000253608820737/831894740714258482/toku4.jpg' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/042/589/797/large/theotime-gm-custom-mc-web-watermark.jpg?1634911204' width='400'>
+
+[Source](https://theogm.artstation.com/projects/w6DwJX?album_id=5224111)
 
 </details>
 
@@ -972,10 +1061,24 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D0da5CUWwAAwpO0.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=3uXrwj7Ifro&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=37
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=6LfSTbNe3IY&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=10
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://cdnb.artstation.com/p/assets/images/images/026/564/691/large/theotime-galmiche-marchofrobots-22.jpg?1589126440' width='400'>
+
+[Source](https://theogm.artstation.com/projects/8XqzGK?album_id=5224111)
+
+<img src='https://cdna.artstation.com/p/assets/images/images/027/409/116/large/theotime-gm-commission-b-s-colored-web.jpg?1591454260' width='400'>
+
+[Source](https://theogm.artstation.com/projects/q9L9ky?album_id=5224111)
+
 </details>
 
 -------
@@ -1023,6 +1126,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://static.wikia.nocookie.net/lancer/images/6/69/Raleigh.jpg/revision/latest?cb=20200509101441" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=fXEFL8Mn8zc&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=8
 #### Lancer Custom Werks, lancer builds
@@ -1034,6 +1139,11 @@ Author: Massif Press
 <img src='https://i.imgur.com/d7x3fkq.png' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://cdna.artstation.com/p/assets/images/images/026/564/266/large/theotime-galmiche-marchofrobots-18.jpg?1589125797' width='400'>
+
+[Source](https://theogm.artstation.com/projects/DxrJnG)
 
 </details>
 
@@ -1090,6 +1200,11 @@ Author: Massif Press
 <img src='https://i.imgur.com/aQp4IEg.jpeg' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://cdnb.artstation.com/p/assets/images/images/026/562/515/large/theotime-galmiche-marchofrobots-12.jpg?1589122268' width='400'>
+
+[Source](https://theogm.artstation.com/projects/qAqzGD?album_id=5224111)
 
 </details>
 
@@ -1161,6 +1276,11 @@ Author: Massif Press
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+##### miscellaneous
+<img src='https://cdna.artstation.com/p/assets/images/images/029/678/810/large/theotime-gm-athena-swallowtail-web.jpg?1598315334' width='400'>
+
+[Source](https://theogm.artstation.com/projects/Xna6Vy?album_id=5224111)
+
 </details>
 
 -------
@@ -1206,6 +1326,10 @@ Author: Massif Press
 
 [Source](https://twitter.com/ShadeFish1/status/1526362574350127104?s=20&t=3XgB7A50VHP-wPRwWshRrA)
 
+<img src='https://cdnb.artstation.com/p/assets/images/images/026/565/041/large/theotime-galmiche-marchofrobots-19.jpg?1589127024' width='400'>
+
+[Source](https://theogm.artstation.com/projects/8XqzGK?album_id=5224111)
+
 <img src='https://pbs.twimg.com/media/FP2UlOyWYAAHiEf?format=jpg&name=large' width='400'>
 
 [Source](https://twitter.com/EMFields_Art/status/1512528795080671233?s=20&t=RY4_6qI9V2Vk1NuT0wlWBg)
@@ -1216,31 +1340,31 @@ Author: Massif Press
 
 <img src='https://pbs.twimg.com/media/EUEw6RTWsAENuUt.jpg:large' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
 
 <img src='https://pbs.twimg.com/media/EdEHbFEXoAMYNJz.jpg:large' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
 
 <img src='https://cdn.discordapp.com/attachments/561000253608820737/768162242797371452/ha_Tokugawa.png' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
 
 <img src='https://cdn.discordapp.com/attachments/561000253608820737/830512277572419584/toku_kait.png' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
 
 <img src='https://cdn.discordapp.com/attachments/561000253608820737/831894740714258482/toku4.jpg' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
 
 <img src='https://cdn.discordapp.com/attachments/645137498577698833/838970049175355433/hellhounbd1.png' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
 
 <img src='https://cdn.discordapp.com/attachments/561000253608820737/845398230950477864/TOKUGAWA_REColoR.png' width='400'>
 
-Source: Unknown. Please message me if you know the artist.
+Source: Unknown.
 
 </details>
 
@@ -1253,10 +1377,20 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://static.wikia.nocookie.net/lancer/images/0/03/Tortuga.jpg/revision/latest?cb=20200509101655" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=386vWQOpCAg&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=24
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=5m9H-BQQ_SM&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=6
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://cdna.artstation.com/p/assets/images/images/026/562/498/large/theotime-galmiche-marchofrobots-11.jpg?1589122243' width='400'>
+
+[Source](https://theogm.artstation.com/projects/qAqzGD?album_id=5224111)
+
 </details>
 
 -------
@@ -1267,6 +1401,8 @@ Corp: IPSN
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://static.wikia.nocookie.net/lancer/images/d/d1/Vlad.jpg/revision/latest?cb=20200509101717" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=AZUOtxbvyNI&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=14
