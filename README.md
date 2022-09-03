@@ -226,7 +226,6 @@
 - [Goblin](#goblin)
 - [Gorgon](#gorgon)
 - [Hydra](#hydra)
-- [Ibutho](#ibutho)
 - [Iskander](#iskander)
 - [Kidd](#kidd)
 - [Kobold](#kobold)
@@ -257,6 +256,7 @@
 <details>
 <summary>NHP-SHAKA</summary>
 
+- [Ibutho](#ibutho)
 </details>
 </details>
 
@@ -728,7 +728,7 @@ Corp: MFECANE
 
 Source: Field Guide: Mfecane
 
-Author: Massif Press
+Author: NHP-SHAKA
 
 <details>
 <summary>Images</summary>

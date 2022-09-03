@@ -117,7 +117,12 @@ class Mechs:
     SUNZI = Mech(name="sunzi", corp=Corps.HA, source=Sources.LONG_RIM)
     ZHENG = Mech(name="zheng", corp=Corps.HA, source=Sources.LONG_RIM)
 
-    IBUTHO = Mech(name="ibutho", corp=Corps.MFECANE, source=Sources.MFECANE)
+    IBUTHO = Mech(
+        name="ibutho",
+        corp=Corps.MFECANE,
+        source=Sources.MFECANE,
+        author=Authors.NHP_SHAKA,
+    )
 
 
 MECHS: list[Mech] = list_content(Mechs)
