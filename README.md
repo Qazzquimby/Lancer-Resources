@@ -262,6 +262,13 @@
 
 -------
 ### Atlas
+
+Corp: SSC
+
+Source: Long Rim
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=P6ihnobmJqk&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=30
 - https://youtu.be/EcJUGtXKt0Q?t=27
@@ -281,6 +288,13 @@
 
 -------
 ### Balor
+
+Corp: HORUS
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=xpMPQm60BV0&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=4
 #### Lancer Custom Werks, lancer builds
@@ -297,6 +311,13 @@
 
 -------
 ### Barbarossa
+
+Corp: HA
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=ZjN8Lrx0KYY&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=5
 #### Lancer Custom Werks, lancer builds
@@ -318,6 +339,13 @@
 
 -------
 ### Black_witch
+
+Corp: SSC
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=rqVa7qQSY8s&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=3
 #### Lancer Custom Werks, lancer builds
@@ -326,6 +354,13 @@
 
 -------
 ### Blackbeard
+
+Corp: IPSN
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=SUuM2sCVzZk&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=2
 #### Lancer Custom Werks, lancer builds
@@ -347,6 +382,13 @@
 
 -------
 ### Calendula
+
+Corp: HORUS
+
+Source: Field Guide: The Karrakin Trade Baronies
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=OCME2FhXdLw&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=43
 <details>
@@ -361,6 +403,13 @@
 
 -------
 ### Caliban
+
+Corp: IPSN
+
+Source: Long Rim
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=X0Ll59VKy0I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=29
 - https://youtu.be/EcJUGtXKt0Q?t=56
@@ -378,6 +427,13 @@
 
 -------
 ### Death's head
+
+Corp: SSC
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=3b2LcyaCEZE&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=25
 #### Lancer Custom Werks, lancer builds
@@ -386,6 +442,13 @@
 
 -------
 ### Drake
+
+Corp: IPSN
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=uUAaAbnssi0&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=20&
 #### Lancer Custom Werks, lancer builds
@@ -394,6 +457,13 @@
 
 -------
 ### Dusk_wing
+
+Corp: SSC
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=Fo3peXAoC1M&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=21
 #### Lancer Custom Werks, lancer builds
@@ -410,6 +480,13 @@
 
 -------
 ### Emperor
+
+Corp: SSC
+
+Source: Field Guide: The Karrakin Trade Baronies
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=ZwEQHK376as&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=42
 #### Lancer Custom Werks, lancer builds
@@ -418,6 +495,13 @@
 
 -------
 ### Enkidu
+
+Corp: HA
+
+Source: No Room for a Wallflower
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=nYZrPByvGcM&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=40&
 #### Lancer Custom Werks, lancer builds
@@ -426,6 +510,13 @@
 
 -------
 ### Everest
+
+Corp: GMS
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=9qI1tP-RL7k&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=1
 #### Lancer Custom Werks, lancer builds
@@ -535,6 +626,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Genghis
+
+Corp: HA
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=lpI38hitHRs&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=18
 <details>
@@ -549,6 +647,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Genghis worldkiller
+
+Corp: HA
+
+Source: No Room for a Wallflower
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=nYZrPByvGcM&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=40&
 #### Lancer Custom Werks, lancer builds
@@ -557,6 +662,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Goblin
+
+Corp: HORUS
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=5WuK1yrWGRY&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=15
 #### Lancer Custom Werks, lancer builds
@@ -565,6 +677,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Gorgon
+
+Corp: HORUS
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=1brSIB16AYU&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=19
 #### Lancer Custom Werks, lancer builds
@@ -581,6 +700,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Hydra
+
+Corp: HORUS
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=XUojhsHqsEw&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=23
 #### Lancer Custom Werks, lancer builds
@@ -597,6 +723,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Ibutho
+
+Corp: MFECANE
+
+Source: Field Guide: Mfecane
+
+Author: Massif Press
+
 <details>
 <summary>Images</summary>
 
@@ -609,6 +742,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Iskander
+
+Corp: HA
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=lpnWkWii274&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=28&
 #### Lancer Custom Werks, lancer builds
@@ -625,6 +765,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Kidd
+
+Corp: IPSN
+
+Source: No Room for a Wallflower
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=HAH6erftukg&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=38
 #### Lancer Custom Werks, lancer builds
@@ -646,6 +793,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Kobold
+
+Corp: HORUS
+
+Source: Long Rim
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=ylndROGoXXI&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=34
 #### Lancer Custom Werks, lancer builds
@@ -654,6 +808,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Lancaster
+
+Corp: IPSN
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=5bhuWhT-B1I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=16
 #### Lancer Custom Werks, lancer builds
@@ -670,6 +831,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Lich
+
+Corp: HORUS
+
+Source: Long Rim
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=H1DpWCKET34&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=35
 #### Lancer Custom Werks, lancer builds
@@ -678,6 +846,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Manticore
+
+Corp: HORUS
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=DhCPP32OlxY&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=6
 #### Lancer Custom Werks, lancer builds
@@ -694,6 +869,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Metalmark
+
+Corp: SSC
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=OpQzi9b8-os&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=27&
 #### Lancer Custom Werks, lancer builds
@@ -702,6 +884,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Minotaur
+
+Corp: HORUS
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=zV4TWjecIMU&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=11
 #### Lancer Custom Werks, lancer builds
@@ -710,6 +899,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Monarch
+
+Corp: SSC
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=zxitMCtKC3E&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=9
 #### Lancer Custom Werks, lancer builds
@@ -731,6 +927,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Mourning_cloak
+
+Corp: SSC
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=JBEWs7WCZ4E&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=17
 #### Lancer Custom Werks, lancer builds
@@ -747,6 +950,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Napoleon
+
+Corp: HA
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=9vvWunzWp2w&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=13
 #### Lancer Custom Werks, lancer builds
@@ -755,6 +965,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Nelson
+
+Corp: IPSN
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=3uXrwj7Ifro&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=37
 #### Lancer Custom Werks, lancer builds
@@ -763,12 +980,26 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Orchis
+
+Corp: SSC
+
+Source: Field Guide: The Karrakin Trade Baronies
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=OCME2FhXdLw&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=43
 </details>
 
 -------
 ### Pegasus
+
+Corp: HORUS
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=KAYnUG83EB0&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=7
 #### Lancer Custom Werks, lancer builds
@@ -785,6 +1016,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Raleigh
+
+Corp: IPSN
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=fXEFL8Mn8zc&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=8
 #### Lancer Custom Werks, lancer builds
@@ -801,6 +1039,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Sagarmatha
+
+Corp: GMS
+
+Source: No Room for a Wallflower
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=dPh19Z_jj8I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=39&
 <details>
@@ -827,6 +1072,13 @@ Source: kaffeezombie
 
 -------
 ### Saladin
+
+Corp: HA
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=YhSfLeq8Ujg&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=26
 #### Lancer Custom Werks, lancer builds
@@ -843,6 +1095,13 @@ Source: kaffeezombie
 
 -------
 ### Sherman
+
+Corp: HA
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=eu2UE1sPRwk&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=22
 #### Lancer Custom Werks, lancer builds
@@ -859,6 +1118,13 @@ Source: kaffeezombie
 
 -------
 ### Sunzi
+
+Corp: HA
+
+Source: Long Rim
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=yDsTi83YklA&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=32
 - https://youtu.be/EcJUGtXKt0Q
@@ -876,6 +1142,13 @@ Source: kaffeezombie
 
 -------
 ### Swallowtail
+
+Corp: SSC
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=lbiaGCdcClI&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=12&
 #### Lancer Custom Werks, lancer builds
@@ -892,12 +1165,26 @@ Source: kaffeezombie
 
 -------
 ### Swallowtail_ranger
+
+Corp: SSC
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=dPh19Z_jj8I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=39&
 </details>
 
 -------
 ### Tokugawa
+
+Corp: HA
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=kZBxbmxhaqM&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=10
 #### Lancer Custom Werks, lancer builds
@@ -959,6 +1246,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Tortuga
+
+Corp: IPSN
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=386vWQOpCAg&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=24
 #### Lancer Custom Werks, lancer builds
@@ -967,6 +1261,13 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### Vlad
+
+Corp: IPSN
+
+Source: Core Book
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=AZUOtxbvyNI&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=14
 #### Lancer Custom Werks, lancer builds
@@ -983,12 +1284,26 @@ Source: Unknown. Please message me if you know the artist.
 
 -------
 ### White_witch
+
+Corp: SSC
+
+Source: Field Guide: The Karrakin Trade Baronies
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=UrekNv1vw74&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=41
 </details>
 
 -------
 ### Zheng
+
+Corp: HA
+
+Source: Long Rim
+
+Author: Massif Press
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=NXSXEClUPVs&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=31
 #### Lancer Custom Werks, lancer builds

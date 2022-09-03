@@ -485,7 +485,7 @@ def _is_image_group(group: list[MechResource]) -> bool:
     return isinstance(group[0], Image)
 
 
-def generate_readme_for_mech(
+def _generate_mech_readme_from_group_name_to_content(
     mech: Mech, groups_to_content: dict[str, list[MechResource]]
 ) -> str:
     content_groups = {}
@@ -496,7 +496,12 @@ def generate_readme_for_mech(
         else:
             content_groups[name] = content
 
-    lines = [f"### {mech.name.capitalize()}"]
+    lines = [
+        f"### {mech.name.capitalize()}\n",
+        f"Corp: {mech.corp}\n",
+        f"Source: {mech.source}\n",
+        f"Author: {mech.author}\n",
+    ]
     for name, content in content_groups.items():
         if not name or not content:
             continue  # This assumes non-image resources always have a name
@@ -548,7 +553,9 @@ def generate_mech_readme(mech: Mech) -> str:
             contents = [contents]
         group_names_to_content[resource_group.name] += contents
 
-    mech_readme = generate_readme_for_mech(mech, group_names_to_content)
+    mech_readme = _generate_mech_readme_from_group_name_to_content(
+        mech, group_names_to_content
+    )
     return mech_readme
 
 
