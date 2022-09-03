@@ -49,6 +49,8 @@
 - [Zheng](#zheng)
 </details>
 
+---
+
 <details>
 
 <summary>Mechs by Corp</summary>
@@ -124,6 +126,8 @@
 </details>
 </details>
 
+---
+
 <details>
 
 <summary>Mechs by Source</summary>
@@ -194,6 +198,8 @@
 - [Sagarmatha](#sagarmatha)
 </details>
 </details>
+
+---
 
 <details>
 

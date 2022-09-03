@@ -614,20 +614,20 @@ def generate_tocs():
     source_toc = generate_toc_by_source()
     author_toc = generate_toc_by_author()
 
-    full_text = "\n\n".join([all_toc, corp_toc, source_toc, author_toc])
+    full_text = "\n\n---\n\n".join([all_toc, corp_toc, source_toc, author_toc])
     return full_text
 
 
 def generate_readme():
     mech_readmes = []
 
-    tocs = generate_tocs()
+    toc = generate_tocs()
 
     for mech in MECHS:
         mech_readme = generate_mech_readme(mech)
         mech_readmes.append(mech_readme)
 
-    readme = "\n\n-------\n".join([tocs] + mech_readmes)
+    readme = "\n\n-------\n".join([toc] + mech_readmes)
     return readme
 
 
