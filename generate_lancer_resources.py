@@ -163,45 +163,150 @@ class Mechs:
         ],
     )
     WHITE_WITCH = Mech(
-        name="white_witch", corp=Corps.SSC, source=Sources.KARRAKIN_TRADE_BARONIES
+        name="white_witch",
+        corp=Corps.SSC,
+        source=Sources.KARRAKIN_TRADE_BARONIES,
+        image_path="https://pbs.twimg.com/media/EM6PMpPW4AAn668.jpg:large",
     )
     EMPEROR = Mech(
-        name="emperor", corp=Corps.SSC, source=Sources.KARRAKIN_TRADE_BARONIES
+        name="emperor",
+        corp=Corps.SSC,
+        source=Sources.KARRAKIN_TRADE_BARONIES,
+        image_path="https://external-preview.redd.it/YVWXiFNpCBcuyvcvPzX3Y1tjOnEQ_2XX2e2W1kueA0Y.jpg?auto=webp&s=f71b0a8c1ccb329dd0b0523260c8c18c88ec97a8",
     )
-    ORCHIS = Mech(name="orchis", corp=Corps.SSC, source=Sources.KARRAKIN_TRADE_BARONIES)
+    ORCHIS = Mech(
+        name="orchis",
+        corp=Corps.SSC,
+        source=Sources.KARRAKIN_TRADE_BARONIES,
+        image_path="https://preview.redd.it/7ulbcgdnafn81.jpg?auto=webp&s=2af07f9391443e756c07e3f94108e0c7ca94f965",
+    )
 
-    BALOR = Mech(name="balor", corp=Corps.HORUS)
-    PEGASUS = Mech(name="pegasus", corp=Corps.HORUS)
-    LICH = Mech(name="lich", corp=Corps.HORUS, source=Sources.LONG_RIM)
-    MANTICORE = Mech(name="manticore", corp=Corps.HORUS)
-    HYDRA = Mech(name="hydra", corp=Corps.HORUS)
-    GOBLIN = Mech(name="goblin", corp=Corps.HORUS)
-    GORGON = Mech(name="gorgon", corp=Corps.HORUS)
-    MINOTAUR = Mech(name="minotaur", corp=Corps.HORUS)
-    KOBOLD = Mech(name="kobold", corp=Corps.HORUS, source=Sources.LONG_RIM)
+    BALOR = Mech(
+        name="balor",
+        corp=Corps.HORUS,
+        image_path="https://external-preview.redd.it/NfhQ53rmZpR7nZs7Giymy0QVlKnV_3KMS4hmuXEsIRU.jpg?auto=webp&s=6f5af6c3cb517bfa26be2535c89ab9b540a49043",
+    )
+    PEGASUS = Mech(
+        name="pegasus",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/Dm7Lwc1XsAElCJj.jpg:large",
+    )
+    LICH = Mech(
+        name="lich",
+        corp=Corps.HORUS,
+        source=Sources.LONG_RIM,
+        image_path="https://pbs.twimg.com/media/D6dRYIeW0AEhBg2.jpg:large",
+    )
+    MANTICORE = Mech(
+        name="manticore",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/D15ojOZW0AAcdQn.jpg:large",
+    )
+    HYDRA = Mech(
+        name="hydra",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/D3ZsrznWkAEDfHl.jpg:large",
+    )
+    GOBLIN = Mech(
+        name="goblin",
+        corp=Corps.HORUS,
+        image_path="https://static.wikia.nocookie.net/lancer/images/e/ef/Goblin.jpg/revision/latest?cb=20200509100851",
+    )
+    GORGON = Mech(
+        name="gorgon",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/DhCxXZtWsAEa0HH.jpg",
+    )
+    MINOTAUR = Mech(
+        name="minotaur",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/D0NqbpiXgAE6WLs.jpg:large",
+    )
+    KOBOLD = Mech(
+        name="kobold",
+        corp=Corps.HORUS,
+        source=Sources.LONG_RIM,
+        image_path="https://pbs.twimg.com/media/D4M6nGAWkAEmIQB.jpg:large",
+    )
     CALENDULA = Mech(
-        name="calendula", corp=Corps.HORUS, source=Sources.KARRAKIN_TRADE_BARONIES
+        name="calendula",
+        corp=Corps.HORUS,
+        source=Sources.KARRAKIN_TRADE_BARONIES,
+        image_path="https://pbs.twimg.com/media/FNXBM8JXIAsBmrc.jpg:large",
     )
 
-    BARBAROSSA = Mech(name="barbarossa", corp=Corps.HA)
-    ENKIDU = Mech(name="enkidu", corp=Corps.HA, source=Sources.WALLFLOWER)
-    GENGHIS = Mech(name="genghis", corp=Corps.HA)
-    GENGHIS_WORLDKILLER = Mech(
-        name="genghis worldkiller", corp=Corps.HA, source=Sources.WALLFLOWER
+    BARBAROSSA = Mech(
+        name="barbarossa",
+        corp=Corps.HA,
+        image_path="https://pbs.twimg.com/media/Ds471y1WsAAjpwJ.jpg",
     )
-    ISKANDER = Mech(name="iskander", corp=Corps.HA)
-    NAPOLEON = Mech(name="napoleon", corp=Corps.HA)
-    SALADIN = Mech(name="saladin", corp=Corps.HA)
-    SHERMAN = Mech(name="sherman", corp=Corps.HA)
-    TOKUGAWA = Mech(name="tokugawa", corp=Corps.HA)
-    SUNZI = Mech(name="sunzi", corp=Corps.HA, source=Sources.LONG_RIM)
-    ZHENG = Mech(name="zheng", corp=Corps.HA, source=Sources.LONG_RIM)
+    ENKIDU = Mech(
+        name="enkidu",
+        corp=Corps.HA,
+        source=Sources.WALLFLOWER,
+        image_path="https://preview.redd.it/5ev5xcyprab81.jpg?auto=webp&s=768fba2788fc4d9c61d3bce3ffe1e8b32aa12905",
+    )
+    GENGHIS = Mech(
+        name="genghis",
+        corp=Corps.HA,
+        image_path="https://external-preview.redd.it/HnEsHvovvilWcBUdooCiFLgd99EzEMlwjMgzHIihSZA.jpg?auto=webp&s=10a5adb10e31c2fcba4936dec7b2b39731ec14b0",
+    )
+    GENGHIS_WORLDKILLER = Mech(
+        name="genghis worldkiller",
+        corp=Corps.HA,
+        source=Sources.WALLFLOWER,
+        image_path="https://cdn-animation.artstation.com/p/thumbnails/000/265/518/thumb.jpg",
+    )
+    ISKANDER = Mech(
+        name="iskander",
+        corp=Corps.HA,
+        image_path="https://pbs.twimg.com/media/D3V3iiaXkAEO29u.jpg:large",
+    )
+    NAPOLEON = Mech(
+        name="napoleon",
+        corp=Corps.HA,
+        image_path="https://external-preview.redd.it/flbCTCmqhnLOoWTzF6lRtYZPgpKtf9duWoLOqF6Zxiw.jpg?auto=webp&s=d968822a1fffa257adc347b4f59eadcdf1699ffe",
+    )
+    SALADIN = Mech(
+        name="saladin",
+        corp=Corps.HA,
+        image_path="https://pbs.twimg.com/media/D3HXdK3XcAEkLxk.jpg:large",
+    )
+    SHERMAN = Mech(
+        name="sherman",
+        corp=Corps.HA,
+        image_path=[
+            "https://pbs.twimg.com/media/D3w3yZ-XoAAGo_x?format=jpg&name=large",
+            "https://pbs.twimg.com/media/Df3RCD7XcAAws0N.jpg:large",
+        ],
+    )
+    TOKUGAWA = Mech(
+        name="tokugawa",
+        corp=Corps.HA,
+        image_path="https://64.media.tumblr.com/8642aa32ea7e7fde660a6d5daa833a8e/tumblr_pgedezbTgB1qlxan5o1_1280.jpg",
+    )
+    SUNZI = Mech(
+        name="sunzi",
+        corp=Corps.HA,
+        source=Sources.LONG_RIM,
+        image_path="https://ksr-ugc.imgix.net/assets/024/944/488/16ffd6f132e4ecd32ee139293b129442_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1556548469&gif-q=50&q=92&s=9f83682094aafa03d5a39cb69e4760e0",
+    )
+    ZHENG = Mech(
+        name="zheng",
+        corp=Corps.HA,
+        source=Sources.LONG_RIM,
+        image_path="https://pbs.twimg.com/media/D4xiHSrW4AA7IM5.jpg:large",
+    )
 
     IBUTHO = Mech(
         name="ibutho",
         corp=Corps.MFECANE,
         source=Sources.MFECANE,
         author=Authors.NHP_SHAKA,
+        image_path=[
+            "https://preview.redd.it/dgnj8y0n51q61.png?width=512&format=png&auto=webp&s=db1d0ba19fa81acd625a801898c1a4f48fab279d",
+            "https://preview.redd.it/fga3361n51q61.png?width=512&format=png&auto=webp&s=f25b79691edd1b70dabf504f33612ff2cfe1d754",
+        ],
     )
 
 
@@ -652,6 +757,16 @@ RESOURCE_GROUPS: list[ResourceGroup] = [
                     source="https://twitter.com/LymphOwned/status/1564342981804670981",
                     path="https://pbs.twimg.com/media/FbWouPTWAAIB6ZJ?format=jpg&name=large",
                 )
+            ],
+            Mechs.IBUTHO: [
+                Image(
+                    source="https://www.reddit.com/r/LancerRPG/comments/jdi3hy/the_mfecane_ibutho_the_frontier_pattern_in_the/",
+                    path="https://preview.redd.it/qvv1mol8fvt51.jpg?width=640&crop=smart&auto=webp&s=eaabf675ab5b4048c8fc073dc2e9c667a7fa9a98",
+                ),
+                Image(
+                    source="NHP-SHAKA",
+                    path="https://pbs.twimg.com/media/E2wFcCVXwAM7KVk?format=jpg&name=4096x4096",
+                ),
             ],
         },
     ),

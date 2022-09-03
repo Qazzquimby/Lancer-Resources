@@ -299,6 +299,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://external-preview.redd.it/NfhQ53rmZpR7nZs7Giymy0QVlKnV_3KMS4hmuXEsIRU.jpg?auto=webp&s=6f5af6c3cb517bfa26be2535c89ab9b540a49043" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=xpMPQm60BV0&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=4
 #### Lancer Custom Werks, lancer builds
@@ -326,6 +328,8 @@ Corp: HA
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/Ds471y1WsAAjpwJ.jpg" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=ZjN8Lrx0KYY&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=5
@@ -421,6 +425,8 @@ Corp: HORUS
 Source: Field Guide: The Karrakin Trade Baronies
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/FNXBM8JXIAsBmrc.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=OCME2FhXdLw&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=43
@@ -548,6 +554,8 @@ Source: Field Guide: The Karrakin Trade Baronies
 
 Author: Massif Press
 
+<img src="https://external-preview.redd.it/YVWXiFNpCBcuyvcvPzX3Y1tjOnEQ_2XX2e2W1kueA0Y.jpg?auto=webp&s=f71b0a8c1ccb329dd0b0523260c8c18c88ec97a8" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=ZwEQHK376as&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=42
 #### Lancer Custom Werks, lancer builds
@@ -562,6 +570,8 @@ Corp: HA
 Source: No Room for a Wallflower
 
 Author: Massif Press
+
+<img src="https://preview.redd.it/5ev5xcyprab81.jpg?auto=webp&s=768fba2788fc4d9c61d3bce3ffe1e8b32aa12905" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=nYZrPByvGcM&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=40&
@@ -694,6 +704,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://external-preview.redd.it/HnEsHvovvilWcBUdooCiFLgd99EzEMlwjMgzHIihSZA.jpg?auto=webp&s=10a5adb10e31c2fcba4936dec7b2b39731ec14b0" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=lpI38hitHRs&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=18
 <details>
@@ -715,6 +727,8 @@ Source: No Room for a Wallflower
 
 Author: Massif Press
 
+<img src="https://cdn-animation.artstation.com/p/thumbnails/000/265/518/thumb.jpg" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=nYZrPByvGcM&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=40&
 #### Lancer Custom Werks, lancer builds
@@ -730,6 +744,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://static.wikia.nocookie.net/lancer/images/e/ef/Goblin.jpg/revision/latest?cb=20200509100851" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=5WuK1yrWGRY&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=15
 #### Lancer Custom Werks, lancer builds
@@ -744,6 +760,8 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/DhCxXZtWsAEa0HH.jpg" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=1brSIB16AYU&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=19
@@ -781,6 +799,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D3ZsrznWkAEDfHl.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=XUojhsHqsEw&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=23
 #### Lancer Custom Werks, lancer builds
@@ -804,6 +824,10 @@ Source: Field Guide: Mfecane
 
 Author: NHP-SHAKA
 
+<img src="https://preview.redd.it/dgnj8y0n51q61.png?width=512&format=png&auto=webp&s=db1d0ba19fa81acd625a801898c1a4f48fab279d" width="500"/>
+
+<img src="https://preview.redd.it/fga3361n51q61.png?width=512&format=png&auto=webp&s=f25b79691edd1b70dabf504f33612ff2cfe1d754" width="500"/>
+
 <details>
 <summary>Images</summary>
 
@@ -811,6 +835,15 @@ Author: NHP-SHAKA
 <img src='https://i.imgur.com/NVi5buX.jpeg' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://preview.redd.it/qvv1mol8fvt51.jpg?width=640&crop=smart&auto=webp&s=eaabf675ab5b4048c8fc073dc2e9c667a7fa9a98' width='400'>
+
+[Source](https://www.reddit.com/r/LancerRPG/comments/jdi3hy/the_mfecane_ibutho_the_frontier_pattern_in_the/)
+
+<img src='https://pbs.twimg.com/media/E2wFcCVXwAM7KVk?format=jpg&name=4096x4096' width='400'>
+
+Source: NHP-SHAKA
 
 </details>
 
@@ -822,6 +855,8 @@ Corp: HA
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/D3V3iiaXkAEO29u.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=lpnWkWii274&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=28&
@@ -876,6 +911,8 @@ Source: Long Rim
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D4M6nGAWkAEmIQB.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=ylndROGoXXI&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=34
 #### Lancer Custom Werks, lancer builds
@@ -916,6 +953,8 @@ Source: Long Rim
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D6dRYIeW0AEhBg2.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=H1DpWCKET34&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=35
 #### Lancer Custom Werks, lancer builds
@@ -930,6 +969,8 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/D15ojOZW0AAcdQn.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=DhCPP32OlxY&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=6
@@ -983,6 +1024,8 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/D0NqbpiXgAE6WLs.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=zV4TWjecIMU&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=11
@@ -1062,6 +1105,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://external-preview.redd.it/flbCTCmqhnLOoWTzF6lRtYZPgpKtf9duWoLOqF6Zxiw.jpg?auto=webp&s=d968822a1fffa257adc347b4f59eadcdf1699ffe" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=9vvWunzWp2w&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=13
 #### Lancer Custom Werks, lancer builds
@@ -1106,6 +1151,8 @@ Source: Field Guide: The Karrakin Trade Baronies
 
 Author: Massif Press
 
+<img src="https://preview.redd.it/7ulbcgdnafn81.jpg?auto=webp&s=2af07f9391443e756c07e3f94108e0c7ca94f965" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=OCME2FhXdLw&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=43
 </details>
@@ -1118,6 +1165,8 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/Dm7Lwc1XsAElCJj.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=KAYnUG83EB0&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=7
@@ -1205,6 +1254,8 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D3HXdK3XcAEkLxk.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=YhSfLeq8Ujg&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=26
 #### Lancer Custom Werks, lancer builds
@@ -1233,6 +1284,10 @@ Source: Core Book
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/D3w3yZ-XoAAGo_x?format=jpg&name=large" width="500"/>
+
+<img src="https://pbs.twimg.com/media/Df3RCD7XcAAws0N.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=eu2UE1sPRwk&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=22
 #### Lancer Custom Werks, lancer builds
@@ -1255,6 +1310,8 @@ Corp: HA
 Source: Long Rim
 
 Author: Massif Press
+
+<img src="https://ksr-ugc.imgix.net/assets/024/944/488/16ffd6f132e4ecd32ee139293b129442_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1556548469&gif-q=50&q=92&s=9f83682094aafa03d5a39cb69e4760e0" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=yDsTi83YklA&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=32
@@ -1324,6 +1381,8 @@ Corp: HA
 Source: Core Book
 
 Author: Massif Press
+
+<img src="https://64.media.tumblr.com/8642aa32ea7e7fde660a6d5daa833a8e/tumblr_pgedezbTgB1qlxan5o1_1280.jpg" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=kZBxbmxhaqM&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=10
@@ -1447,6 +1506,8 @@ Source: Field Guide: The Karrakin Trade Baronies
 
 Author: Massif Press
 
+<img src="https://pbs.twimg.com/media/EM6PMpPW4AAn668.jpg:large" width="500"/>
+
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=UrekNv1vw74&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=41
 </details>
@@ -1459,6 +1520,8 @@ Corp: HA
 Source: Long Rim
 
 Author: Massif Press
+
+<img src="https://pbs.twimg.com/media/D4xiHSrW4AA7IM5.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=NXSXEClUPVs&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=31
