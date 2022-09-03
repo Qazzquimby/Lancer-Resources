@@ -678,7 +678,7 @@ def _generate_mech_readme_from_group_name_to_content(
             content_groups[name] = content
 
     lines = [
-        f"### {mech.name.capitalize()}\n",
+        f"### {mech.name.capitalize().replace('_', ' ')}\n",
         f"Corp: {mech.corp}\n",
         f"Source: {mech.source}\n",
         f"Author: {mech.author}\n",

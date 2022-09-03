@@ -351,7 +351,7 @@ Author: Massif Press
 </details>
 
 -------
-### Black_witch
+### Black witch
 
 Corp: SSC
 
@@ -515,7 +515,7 @@ Author: Massif Press
 </details>
 
 -------
-### Dusk_wing
+### Dusk wing
 
 Corp: SSC
 
@@ -1021,7 +1021,7 @@ Author: Massif Press
 </details>
 
 -------
-### Mourning_cloak
+### Mourning cloak
 
 Corp: SSC
 
@@ -1302,7 +1302,7 @@ Author: Massif Press
 </details>
 
 -------
-### Swallowtail_ranger
+### Swallowtail ranger
 
 Corp: SSC
 
@@ -1439,7 +1439,7 @@ Author: Massif Press
 </details>
 
 -------
-### White_witch
+### White witch
 
 Corp: SSC
 
