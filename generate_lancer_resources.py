@@ -52,6 +52,7 @@ class Mech:
     source: str = Sources.CORE
     author: str = Authors.MASSIF
     image_path: str | list[str] = None
+    summary: list[str] = None
 
     def __str__(self):
         return self.name
@@ -61,57 +62,137 @@ class Mech:
 
 
 class Mechs:
-    EVEREST = Mech(name="everest", corp=Corps.GMS)
-    SAGARMATHA = Mech(name="sagarmatha", corp=Corps.GMS, source=Sources.WALLFLOWER)
-
+    EVEREST = Mech(
+        name="everest",
+        corp=Corps.GMS,
+        summary=["Your first summit", "Balanced for most situations", "Safe fallback"],
+    )
+    SAGARMATHA = Mech(
+        name="sagarmatha",
+        corp=Corps.GMS,
+        source=Sources.WALLFLOWER,
+        summary=["Fat Everest", "All-round defender"],
+    )
     BLACKBEARD = Mech(
         name="blackbeard",
         corp=Corps.IPSN,
         image_path="https://static.wikia.nocookie.net/lancer/images/a/a1/Blackbeard.jpg/revision/latest?cb=20200509100622",
-    )
-    DRAKE = Mech(
-        name="drake",
-        corp=Corps.IPSN,
-        image_path="https://static.wikia.nocookie.net/lancer/images/6/62/Drake.jpg/revision/latest?cb=20200509100716",
-    )
-    LANCASTER = Mech(
-        name="lancaster",
-        corp=Corps.IPSN,
-        image_path="https://static.wikia.nocookie.net/lancer/images/2/2c/Lancaster.jpg/revision/latest?cb=20200509101034",
-    )
-    KIDD = Mech(
-        name="kidd",
-        corp=Corps.IPSN,
-        source=Sources.WALLFLOWER,
-        image_path="https://pbs.twimg.com/media/EfE34JxXoAEWdnT.jpg:large",
-    )
-    NELSON = Mech(
-        name="nelson",
-        corp=Corps.IPSN,
-        image_path="https://pbs.twimg.com/media/D0da5CUWwAAwpO0.jpg:large",
-    )
-    RALEIGH = Mech(
-        name="raleigh",
-        corp=Corps.IPSN,
-        image_path="https://static.wikia.nocookie.net/lancer/images/6/69/Raleigh.jpg/revision/latest?cb=20200509101441",
-    )
-    TORTUGA = Mech(
-        name="tortuga",
-        corp=Corps.IPSN,
-        image_path="https://static.wikia.nocookie.net/lancer/images/0/03/Tortuga.jpg/revision/latest?cb=20200509101655",
-    )
-    VLAD = Mech(
-        name="vlad",
-        corp=Corps.IPSN,
-        image_path="https://static.wikia.nocookie.net/lancer/images/d/d1/Vlad.jpg/revision/latest?cb=20200509101717",
+        summary=[
+            "Berserker pattern melee",
+            "Agile",
+            "Grappling",
+            "Teamkilling",
+            "Chain Axe",
+        ],
     )
     CALIBAN = Mech(
         "caliban",
         corp=Corps.IPSN,
         source=Sources.LONG_RIM,
         image_path="https://external-preview.redd.it/uiHVNTr51s5O7LdbPLLwI-BkRrvRmbPZx_XW4m2jH1U.jpg?auto=webp&s=51e7c6a99d745f9c9a5e213a848219cfc2682382",
+        summary=[
+            "Boarding and Asset Reclamation",
+            "Enormous Shotgun",
+            "Doomguy",
+            "Knockback",
+        ],
+    )
+    DRAKE = Mech(
+        name="drake",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/6/62/Drake.jpg/revision/latest?cb=20200509100716",
+        summary=["Heavy Assault/Fire Support", "Stationary bunker turret", "minigun"],
+    )
+    LANCASTER = Mech(
+        name="lancaster",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/2/2c/Lancaster.jpg/revision/latest?cb=20200509101034",
+        summary=[
+            "Field Support/Repair",
+            "Space Horse - Battle Bus",
+            "The only healer",
+            "Neat utilities",
+            "Fireproof",
+        ],
+    )
+    KIDD = Mech(
+        name="kidd",
+        corp=Corps.IPSN,
+        source=Sources.WALLFLOWER,
+        image_path="https://pbs.twimg.com/media/EfE34JxXoAEWdnT.jpg:large",
+        summary=[
+            "Lancaster Variant",
+            "Frontline Rapid Support",
+            "Drones",
+            "Orbital Strike",
+        ],
+    )
+    NELSON = Mech(
+        name="nelson",
+        corp=Corps.IPSN,
+        image_path="https://pbs.twimg.com/media/D0da5CUWwAAwpO0.jpg:large",
+        summary=["Rapid Assault", "Fast Knight with a Spear", "Hit and Run"],
+    )
+    RALEIGH = Mech(
+        name="raleigh",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/6/69/Raleigh.jpg/revision/latest?cb=20200509101441",
+        summary=[
+            "Frontline Assault",
+            "Reloading Gun Platform",
+            "Too many guns",
+            "Cowboy",
+            "Chest Cannon",
+        ],
+    )
+    TORTUGA = Mech(
+        name="tortuga",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/0/03/Tortuga.jpg/revision/latest?cb=20200509101655",
+        summary=[
+            "Overwatch/Zone Defense",
+            "Ship defense and boarding",
+            "Auto-Shotgun",
+            "Controls close range",
+            "Smash through walls",
+        ],
+    )
+    VLAD = Mech(
+        name="vlad",
+        corp=Corps.IPSN,
+        image_path="https://static.wikia.nocookie.net/lancer/images/d/d1/Vlad.jpg/revision/latest?cb=20200509101717",
+        summary=[
+            "Nail people to the ground",
+            "Damage attackers because covered in spikes",
+            "Massive drill",
+        ],
+    )
+    ZHENG = Mech(
+        name="zheng",
+        corp=Corps.IPSN,
+        source=Sources.LONG_RIM,
+        image_path="https://pbs.twimg.com/media/D4xiHSrW4AA7IM5.jpg:large",
+        summary=[
+            "Unarmed Melee",
+            "Terrain destruction",
+            "Use the environment as a weapon",
+            "Throw people like a bowling ball",
+        ],
     )
 
+    ATLAS = Mech(
+        name="atlas",
+        corp=Corps.SSC,
+        source=Sources.LONG_RIM,
+        image_path=[
+            "https://pbs.twimg.com/media/D55kqK-WwAAMyND?format=jpg&name=large",
+            "https://pbs.twimg.com/media/EMXOad_WwAMMkZM?format=jpg&name=large",
+        ],
+        summary=[
+            "A powerful, small-scale hunter that draws on the profiles of past pilots to power current action.",
+            "Attack on Titan",
+        ],
+    )
     BLACK_WITCH = Mech(
         name="black_witch",
         corp=Corps.SSC,
@@ -151,16 +232,6 @@ class Mechs:
         name="mourning_cloak",
         corp=Corps.SSC,
         image_path="https://static.wikia.nocookie.net/lancer/images/1/15/MourningCloak.jpg/revision/latest?cb=20200509101339",
-    )
-
-    ATLAS = Mech(
-        name="atlas",
-        corp=Corps.SSC,
-        source=Sources.LONG_RIM,
-        image_path=[
-            "https://pbs.twimg.com/media/D55kqK-WwAAMyND?format=jpg&name=large",
-            "https://pbs.twimg.com/media/EMXOad_WwAMMkZM?format=jpg&name=large",
-        ],
     )
     WHITE_WITCH = Mech(
         name="white_witch",
@@ -290,12 +361,6 @@ class Mechs:
         corp=Corps.HA,
         source=Sources.LONG_RIM,
         image_path="https://ksr-ugc.imgix.net/assets/024/944/488/16ffd6f132e4ecd32ee139293b129442_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1556548469&gif-q=50&q=92&s=9f83682094aafa03d5a39cb69e4760e0",
-    )
-    ZHENG = Mech(
-        name="zheng",
-        corp=Corps.HA,
-        source=Sources.LONG_RIM,
-        image_path="https://pbs.twimg.com/media/D4xiHSrW4AA7IM5.jpg:large",
     )
 
     IBUTHO = Mech(
@@ -798,6 +863,10 @@ def _generate_mech_readme_from_group_name_to_content(
         f"Source: {mech.source}\n",
         f"Author: {mech.author}\n",
     ]
+    if mech.summary:
+        for line in mech.summary:
+            lines.append(f"- {line}\n")
+
     if mech.image_path:
         if not isinstance(mech.image_path, list):
             mech.image_path = [mech.image_path]

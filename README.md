@@ -74,7 +74,6 @@
 - [Sherman](#sherman)
 - [Sunzi](#sunzi)
 - [Tokugawa](#tokugawa)
-- [Zheng](#zheng)
 </details>
 <details>
 <summary>HORUS</summary>
@@ -102,6 +101,7 @@
 - [Raleigh](#raleigh)
 - [Tortuga](#tortuga)
 - [Vlad](#vlad)
+- [Zheng](#zheng)
 </details>
 <details>
 <summary>MFECANE</summary>
@@ -269,6 +269,10 @@ Source: Long Rim
 
 Author: Massif Press
 
+- A powerful, small-scale hunter that draws on the profiles of past pilots to power current action.
+
+- Attack on Titan
+
 <img src="https://pbs.twimg.com/media/D55kqK-WwAAMyND?format=jpg&name=large" width="500"/>
 
 <img src="https://pbs.twimg.com/media/EMXOad_WwAMMkZM?format=jpg&name=large" width="500"/>
@@ -392,6 +396,16 @@ Source: Core Book
 
 Author: Massif Press
 
+- Berserker pattern melee
+
+- Agile
+
+- Grappling
+
+- Teamkilling
+
+- Chain Axe
+
 <img src="https://static.wikia.nocookie.net/lancer/images/a/a1/Blackbeard.jpg/revision/latest?cb=20200509100622" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -449,6 +463,14 @@ Source: Long Rim
 
 Author: Massif Press
 
+- Boarding and Asset Reclamation
+
+- Enormous Shotgun
+
+- Doomguy
+
+- Knockback
+
 <img src="https://external-preview.redd.it/uiHVNTr51s5O7LdbPLLwI-BkRrvRmbPZx_XW4m2jH1U.jpg?auto=webp&s=51e7c6a99d745f9c9a5e213a848219cfc2682382" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -499,6 +521,12 @@ Corp: IPSN
 Source: Core Book
 
 Author: Massif Press
+
+- Heavy Assault/Fire Support
+
+- Stationary bunker turret
+
+- minigun
 
 <img src="https://static.wikia.nocookie.net/lancer/images/6/62/Drake.jpg/revision/latest?cb=20200509100716" width="500"/>
 
@@ -587,6 +615,12 @@ Corp: GMS
 Source: Core Book
 
 Author: Massif Press
+
+- Your first summit
+
+- Balanced for most situations
+
+- Safe fallback
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=9qI1tP-RL7k&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=1
@@ -881,6 +915,14 @@ Source: No Room for a Wallflower
 
 Author: Massif Press
 
+- Lancaster Variant
+
+- Frontline Rapid Support
+
+- Drones
+
+- Orbital Strike
+
 <img src="https://pbs.twimg.com/media/EfE34JxXoAEWdnT.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -927,6 +969,16 @@ Corp: IPSN
 Source: Core Book
 
 Author: Massif Press
+
+- Field Support/Repair
+
+- Space Horse - Battle Bus
+
+- The only healer
+
+- Neat utilities
+
+- Fireproof
 
 <img src="https://static.wikia.nocookie.net/lancer/images/2/2c/Lancaster.jpg/revision/latest?cb=20200509101034" width="500"/>
 
@@ -1122,6 +1174,12 @@ Source: Core Book
 
 Author: Massif Press
 
+- Rapid Assault
+
+- Fast Knight with a Spear
+
+- Hit and Run
+
 <img src="https://pbs.twimg.com/media/D0da5CUWwAAwpO0.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1191,6 +1249,16 @@ Source: Core Book
 
 Author: Massif Press
 
+- Frontline Assault
+
+- Reloading Gun Platform
+
+- Too many guns
+
+- Cowboy
+
+- Chest Cannon
+
 <img src="https://static.wikia.nocookie.net/lancer/images/6/69/Raleigh.jpg/revision/latest?cb=20200509101441" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1220,6 +1288,10 @@ Corp: GMS
 Source: No Room for a Wallflower
 
 Author: Massif Press
+
+- Fat Everest
+
+- All-round defender
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=dPh19Z_jj8I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=39&
@@ -1456,6 +1528,16 @@ Source: Core Book
 
 Author: Massif Press
 
+- Overwatch/Zone Defense
+
+- Ship defense and boarding
+
+- Auto-Shotgun
+
+- Controls close range
+
+- Smash through walls
+
 <img src="https://static.wikia.nocookie.net/lancer/images/0/03/Tortuga.jpg/revision/latest?cb=20200509101655" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1480,6 +1562,12 @@ Corp: IPSN
 Source: Core Book
 
 Author: Massif Press
+
+- Nail people to the ground
+
+- Damage attackers because covered in spikes
+
+- Massive drill
 
 <img src="https://static.wikia.nocookie.net/lancer/images/d/d1/Vlad.jpg/revision/latest?cb=20200509101717" width="500"/>
 
@@ -1515,11 +1603,19 @@ Author: Massif Press
 -------
 ### Zheng
 
-Corp: HA
+Corp: IPSN
 
 Source: Long Rim
 
 Author: Massif Press
+
+- Unarmed Melee
+
+- Terrain destruction
+
+- Use the environment as a weapon
+
+- Throw people like a bowling ball
 
 <img src="https://pbs.twimg.com/media/D4xiHSrW4AA7IM5.jpg:large" width="500"/>
 
