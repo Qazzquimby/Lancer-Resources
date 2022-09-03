@@ -14,6 +14,18 @@ def list_content(enum_class):
     return sorted_contents
 
 
+class Corps:
+    GMS = "GMS"
+    IPSN = "IPSN"
+    SSC = "SSC"
+    HORUS = "HORUS"
+    HA = "HA"
+    MFECANE = "MFECANE"
+
+
+CORPS: list[str] = list_content(Corps)
+
+
 class Sources:
     CORE = "Core Book"
     WALLFLOWER = "No Room for a Wallflower"
@@ -22,9 +34,15 @@ class Sources:
     MFECANE = "Field Guide: Mfecane"
 
 
+SOURCES: list[str] = list_content(Sources)
+
+
 class Authors:
     MASSIF = "Massif Press"
     NHP_SHAKA = "NHP-SHAKA"
+
+
+AUTHORS: list[str] = list_content(Authors)
 
 
 @dataclass
@@ -39,15 +57,6 @@ class Mech:
 
     def __hash__(self):
         return hash(self.name)
-
-
-class Corps:
-    GMS = "GMS"
-    IPSN = "IPSN"
-    SSC = "SSC"
-    HORUS = "HORUS"
-    HA = "HA"
-    MFECANE = "MFECANE"
 
 
 class Mechs:
@@ -543,32 +552,82 @@ def generate_mech_readme(mech: Mech) -> str:
     return mech_readme
 
 
-def generate_all_toc() -> str:
-    toc_lines = ["<details>\n", "<summary>Table of Contents</summary>\n"]
+def get_mech_toc_line(mech: Mech) -> str:
+    header_link = mech.name.replace(" ", "-").replace("'", "")
+    return f"- [{mech.name.capitalize()}](#{header_link})"
+
+
+def generate_all_mechs_toc() -> str:
+    toc_lines = ["<details>\n", "<summary>All Mechs</summary>\n"]
     for mech in MECHS:
-        header_link = mech.name.replace(" ", "-").replace("'", "")
-        toc_lines.append(f"- [{mech.name.capitalize()}](#{header_link})")
+        toc_lines.append(get_mech_toc_line(mech))
+    toc_lines.append("</details>")
+    toc = "\n".join(toc_lines)
+    return toc
+
+
+def generate_toc_by_corp() -> str:
+    toc_lines = ["<details>\n", "<summary>Mechs by Corp</summary>\n"]
+    for corp in CORPS:
+        toc_lines.append("<details>")
+        toc_lines.append(f"<summary>{corp}</summary>\n")
+        for mech in MECHS:
+            if mech.corp == corp:
+                toc_lines.append(get_mech_toc_line(mech))
+        toc_lines.append("</details>")
+    toc_lines.append("</details>")
+    toc = "\n".join(toc_lines)
+    return toc
+
+
+def generate_toc_by_source() -> str:
+    toc_lines = ["<details>\n", "<summary>Mechs by Source</summary>\n"]
+    for source in SOURCES:
+        toc_lines.append("<details>")
+        toc_lines.append(f"<summary>{source}</summary>\n")
+        for mech in MECHS:
+            if mech.source == source:
+                toc_lines.append(get_mech_toc_line(mech))
+        toc_lines.append("</details>")
+    toc_lines.append("</details>")
+    toc = "\n".join(toc_lines)
+    return toc
+
+
+def generate_toc_by_author() -> str:
+    toc_lines = ["<details>\n", "<summary>Mechs by Author</summary>\n"]
+    for author in AUTHORS:
+        toc_lines.append("<details>")
+        toc_lines.append(f"<summary>{author}</summary>\n")
+        for mech in MECHS:
+            if mech.author == author:
+                toc_lines.append(get_mech_toc_line(mech))
+        toc_lines.append("</details>")
     toc_lines.append("</details>")
     toc = "\n".join(toc_lines)
     return toc
 
 
 def generate_tocs():
-    all_toc = generate_all_toc()
-    # todo, grouped by corp, source, author
-    return all_toc
+    all_toc = generate_all_mechs_toc()
+    corp_toc = generate_toc_by_corp()
+    source_toc = generate_toc_by_source()
+    author_toc = generate_toc_by_author()
+
+    full_text = "\n\n".join([all_toc, corp_toc, source_toc, author_toc])
+    return full_text
 
 
 def generate_readme():
     mech_readmes = []
 
-    toc = generate_tocs()
+    tocs = generate_tocs()
 
     for mech in MECHS:
         mech_readme = generate_mech_readme(mech)
         mech_readmes.append(mech_readme)
 
-    readme = "\n\n-------\n".join([toc] + mech_readmes)
+    readme = "\n\n-------\n".join([tocs] + mech_readmes)
     return readme
 
 
