@@ -309,9 +309,12 @@ class Mechs:
         corp=Corps.SSC,
         source=Sources.KARRAKIN_TRADE_BARONIES,
         image_path="https://pbs.twimg.com/media/EM6PMpPW4AAn668.jpg:large",
-        summary=[],
+        summary=[
+            "Point Defense/Duelist",
+            "Aggressive Tank",
+            "Ramping Armor - wants to be hit",
+        ],
     )
-
     ORCHIS = Mech(
         name="orchis",
         corp=Corps.SSC,
@@ -328,54 +331,112 @@ class Mechs:
         name="balor",
         corp=Corps.HORUS,
         image_path="https://external-preview.redd.it/NfhQ53rmZpR7nZs7Giymy0QVlKnV_3KMS4hmuXEsIRU.jpg?auto=webp&s=6f5af6c3cb517bfa26be2535c89ab9b540a49043",
-    )
-    PEGASUS = Mech(
-        name="pegasus",
-        corp=Corps.HORUS,
-        image_path="https://pbs.twimg.com/media/Dm7Lwc1XsAElCJj.jpg:large",
-    )
-    LICH = Mech(
-        name="lich",
-        corp=Corps.HORUS,
-        source=Sources.LONG_RIM,
-        image_path="https://pbs.twimg.com/media/D6dRYIeW0AEhBg2.jpg:large",
-    )
-    MANTICORE = Mech(
-        name="manticore",
-        corp=Corps.HORUS,
-        image_path="https://pbs.twimg.com/media/D15ojOZW0AAcdQn.jpg:large",
-    )
-    HYDRA = Mech(
-        name="hydra",
-        corp=Corps.HORUS,
-        image_path="https://pbs.twimg.com/media/D3ZsrznWkAEDfHl.jpg:large",
-    )
-    GOBLIN = Mech(
-        name="goblin",
-        corp=Corps.HORUS,
-        image_path="https://static.wikia.nocookie.net/lancer/images/e/ef/Goblin.jpg/revision/latest?cb=20200509100851",
-    )
-    GORGON = Mech(
-        name="gorgon",
-        corp=Corps.HORUS,
-        image_path="https://pbs.twimg.com/media/DhCxXZtWsAEa0HH.jpg",
-    )
-    MINOTAUR = Mech(
-        name="minotaur",
-        corp=Corps.HORUS,
-        image_path="https://pbs.twimg.com/media/D0NqbpiXgAE6WLs.jpg:large",
-    )
-    KOBOLD = Mech(
-        name="kobold",
-        corp=Corps.HORUS,
-        source=Sources.LONG_RIM,
-        image_path="https://pbs.twimg.com/media/D4M6nGAWkAEmIQB.jpg:large",
+        summary=[
+            "Nanobot Swarm Host/Frontline Assault",
+            "Big cloud of death",
+            "Grapple people and disintegrate them",
+        ],
     )
     CALENDULA = Mech(
         name="calendula",
         corp=Corps.HORUS,
         source=Sources.KARRAKIN_TRADE_BARONIES,
         image_path="https://pbs.twimg.com/media/FNXBM8JXIAsBmrc.jpg:large",
+        summary=[
+            "Minotaur Variant",
+            "Be a ghost",
+            "Make ghost duplicates",
+            "Turn people into ghosts",
+            "Also slow everyone",
+        ],
+    )
+    GOBLIN = Mech(
+        name="goblin",
+        corp=Corps.HORUS,
+        image_path="https://static.wikia.nocookie.net/lancer/images/e/ef/Goblin.jpg/revision/latest?cb=20200509100851",
+        summary=[
+            "Technical/Enlightenment/Hacking",
+            "Irritate the hell out of your enemies",
+            "Make them insane",
+            "Ride around on your bigger friends",
+            "Wizard",
+        ],
+    )
+    GORGON = Mech(
+        name="gorgon",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/DhCxXZtWsAEa0HH.jpg",
+        summary=[
+            "Overwatch/Electronic Defense",
+            "Punish people for attacking your allies",
+            "So ugly it literally hurts to look",
+        ],
+    )
+    HYDRA = Mech(
+        name="hydra",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/D3ZsrznWkAEDfHl.jpg:large",
+        summary=[
+            "Drone warfare/Tactical Dismemberment",
+            "Everything is drone related",
+            "Smart weapons",
+            "Summoner",
+        ],
+    )
+    KOBOLD = Mech(
+        name="kobold",
+        corp=Corps.HORUS,
+        source=Sources.LONG_RIM,
+        image_path="https://pbs.twimg.com/media/D4M6nGAWkAEmIQB.jpg:large",
+        summary=[
+            "Offensive Terraforming",
+            "Camouflage invisibility",
+            "Build your own terrain",
+        ],
+    )
+    LICH = Mech(
+        name="lich",
+        corp=Corps.HORUS,
+        source=Sources.LONG_RIM,
+        image_path="https://pbs.twimg.com/media/D6dRYIeW0AEhBg2.jpg:large",
+        summary=[
+            "Time manipulation",
+            "Paradoxically immortal via time loops",
+            "Suicidally tank hits",
+        ],
+    )
+    MANTICORE = Mech(
+        name="manticore",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/D15ojOZW0AAcdQn.jpg:large",
+        summary=[
+            "Direct Energy Assault",
+            "Bomb with legs",
+            "Self destructive",
+            "Divine punishment",
+            "CASTIGATE THE ENEMIES OF THE GODHEAD",
+        ],
+    )
+    MINOTAUR = Mech(
+        name="minotaur",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/D0NqbpiXgAE6WLs.jpg:large",
+        summary=[
+            "Interdictor/area control",
+            "Make people not move via metaphorical mazes",
+            "Lots of hacking utilities",
+            "Bigger on the inside - you can live in there",
+        ],
+    )
+    PEGASUS = Mech(
+        name="pegasus",
+        corp=Corps.HORUS,
+        image_path="https://pbs.twimg.com/media/Dm7Lwc1XsAElCJj.jpg:large",
+        summary=[
+            "Esoteric Firepower",
+            "Has a gun which doesn't exist and hits before it fires",
+            "Manipulate dice directly - tell them what to roll",
+        ],
     )
 
     BARBAROSSA = Mech(

@@ -307,6 +307,12 @@ Source: Core Book
 
 Author: Massif Press
 
+- Nanobot Swarm Host/Frontline Assault
+
+- Big cloud of death
+
+- Grapple people and disintegrate them
+
 <img src="https://external-preview.redd.it/NfhQ53rmZpR7nZs7Giymy0QVlKnV_3KMS4hmuXEsIRU.jpg?auto=webp&s=6f5af6c3cb517bfa26be2535c89ab9b540a49043" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -453,6 +459,16 @@ Corp: HORUS
 Source: Field Guide: The Karrakin Trade Baronies
 
 Author: Massif Press
+
+- Minotaur Variant
+
+- Be a ghost
+
+- Make ghost duplicates
+
+- Turn people into ghosts
+
+- Also slow everyone
 
 <img src="https://pbs.twimg.com/media/FNXBM8JXIAsBmrc.jpg:large" width="500"/>
 
@@ -820,6 +836,16 @@ Source: Core Book
 
 Author: Massif Press
 
+- Technical/Enlightenment/Hacking
+
+- Irritate the hell out of your enemies
+
+- Make them insane
+
+- Ride around on your bigger friends
+
+- Wizard
+
 <img src="https://static.wikia.nocookie.net/lancer/images/e/ef/Goblin.jpg/revision/latest?cb=20200509100851" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -836,6 +862,12 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+- Overwatch/Electronic Defense
+
+- Punish people for attacking your allies
+
+- So ugly it literally hurts to look
 
 <img src="https://pbs.twimg.com/media/DhCxXZtWsAEa0HH.jpg" width="500"/>
 
@@ -874,6 +906,14 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+- Drone warfare/Tactical Dismemberment
+
+- Everything is drone related
+
+- Smart weapons
+
+- Summoner
 
 <img src="https://pbs.twimg.com/media/D3ZsrznWkAEDfHl.jpg:large" width="500"/>
 
@@ -997,6 +1037,12 @@ Source: Long Rim
 
 Author: Massif Press
 
+- Offensive Terraforming
+
+- Camouflage invisibility
+
+- Build your own terrain
+
 <img src="https://pbs.twimg.com/media/D4M6nGAWkAEmIQB.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1049,6 +1095,12 @@ Source: Long Rim
 
 Author: Massif Press
 
+- Time manipulation
+
+- Paradoxically immortal via time loops
+
+- Suicidally tank hits
+
 <img src="https://pbs.twimg.com/media/D6dRYIeW0AEhBg2.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1065,6 +1117,16 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+- Direct Energy Assault
+
+- Bomb with legs
+
+- Self destructive
+
+- Divine punishment
+
+- CASTIGATE THE ENEMIES OF THE GODHEAD
 
 <img src="https://pbs.twimg.com/media/D15ojOZW0AAcdQn.jpg:large" width="500"/>
 
@@ -1126,6 +1188,14 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+- Interdictor/area control
+
+- Make people not move via metaphorical mazes
+
+- Lots of hacking utilities
+
+- Bigger on the inside - you can live in there
 
 <img src="https://pbs.twimg.com/media/D0NqbpiXgAE6WLs.jpg:large" width="500"/>
 
@@ -1301,6 +1371,12 @@ Corp: HORUS
 Source: Core Book
 
 Author: Massif Press
+
+- Esoteric Firepower
+
+- Has a gun which doesn't exist and hits before it fires
+
+- Manipulate dice directly - tell them what to roll
 
 <img src="https://pbs.twimg.com/media/Dm7Lwc1XsAElCJj.jpg:large" width="500"/>
 
@@ -1689,6 +1765,12 @@ Corp: SSC
 Source: Field Guide: The Karrakin Trade Baronies
 
 Author: Massif Press
+
+- Point Defense/Duelist
+
+- Aggressive Tank
+
+- Ramping Armor - wants to be hit
 
 <img src="https://pbs.twimg.com/media/EM6PMpPW4AAn668.jpg:large" width="500"/>
 
