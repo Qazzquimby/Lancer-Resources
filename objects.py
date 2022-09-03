@@ -92,7 +92,7 @@ class Mechs:
             "Boarding and Asset Reclamation",
             "Enormous Shotgun",
             "Doomguy",
-            "Knockback",
+            "Chase people twice your size around the map",
         ],
     )
     DRAKE = Mech(
@@ -123,13 +123,18 @@ class Mechs:
             "Frontline Rapid Support",
             "Drones",
             "Orbital Strike",
+            "Low tech pirate aesthetic arrr yo ho",
         ],
     )
     NELSON = Mech(
         name="nelson",
         corp=Corps.IPSN,
         image_path="https://pbs.twimg.com/media/D0da5CUWwAAwpO0.jpg:large",
-        summary=["Rapid Assault", "Fast Knight with a Spear", "Hit and Run"],
+        summary=[
+            "Rapid Assault",
+            "Fast Knight with a Spear the Explodes",
+            "Hit and Run",
+        ],
     )
     RALEIGH = Mech(
         name="raleigh",
@@ -139,7 +144,7 @@ class Mechs:
             "Frontline Assault",
             "Reloading Gun Platform",
             "Too many guns",
-            "Cowboy",
+            "Cowboy - Fan the Hammer",
             "Chest Cannon",
         ],
     )
@@ -163,6 +168,7 @@ class Mechs:
             "Nail people to the ground",
             "Damage attackers because covered in spikes",
             "Massive drill",
+            "Sadistic Porcupine",
         ],
     )
     ZHENG = Mech(
@@ -187,67 +193,135 @@ class Mechs:
             "https://pbs.twimg.com/media/EMXOad_WwAMMkZM?format=jpg&name=large",
         ],
         summary=[
-            "A powerful, small-scale hunter that draws on the profiles of past pilots to power current action.",
-            "Attack on Titan",
+            "Human sized kaiju hunter",
+            "Cybernetic ninja suit",
+            "'Draws on the profiles of past pilots to power current action'",
+            "Attack on Titan / Revengeance",
         ],
     )
     BLACK_WITCH = Mech(
         name="black_witch",
         corp=Corps.SSC,
         image_path="https://static.wikia.nocookie.net/lancer/images/4/47/Blackwitch1.jpeg/revision/latest?cb=20210510124208",
-    )
-    DUSK_WING = Mech(
-        name="dusk_wing",
-        corp=Corps.SSC,
-        image_path="https://pbs.twimg.com/media/D28PCW3WsAIGZuU.jpg:large",
-    )
-    MONARCH = Mech(
-        name="monarch",
-        corp=Corps.SSC,
-        image_path="https://pbs.twimg.com/media/D0SvXINX4AEcN1Z.jpg:large",
+        summary=[
+            "Magnetic Control",
+            "Catch Bullets",
+            "Antimagic",
+            "Throw people around",
+            "Mech-Magneto",
+        ],
     )
     DEATHS_HEAD = Mech(
         name="death's head",
         corp=Corps.SSC,
         image_path="https://pbs.twimg.com/media/D3AyF5pXgAIM3t_.jpg:large",
+        summary=[
+            "Mobile Artillery",
+            "The Snipiest Sniper",
+            "Maximum Accuracy",
+            "One shot - one kill",
+            "Railgun",
+            "Wall climbing",
+        ],
     )
-    SWALLOWTAIL = Mech(
-        name="swallowtail",
+    DUSK_WING = Mech(
+        name="dusk_wing",
         corp=Corps.SSC,
-        image_path="https://external-preview.redd.it/4ts71UdtaOTzZJOYApRc6U-m5G_CgzyTx9PGVqAKvn8.jpg?auto=webp&s=f54bcc86818f54f4e3008ceee2c50842201e93fa",
-    )
-    SWALLOWTAIL_RANGER = Mech(
-        name="swallowtail_ranger",
-        corp=Corps.SSC,
-        image_path="https://cdnb.artstation.com/p/assets/images/images/035/138/645/large/theotime-gm-ranger-variant-web.jpg?1614191125",
-    )
-    METALMARK = Mech(
-        name="metalmark",
-        corp=Corps.SSC,
-        image_path="https://static.wikia.nocookie.net/lancer/images/b/ba/Metalmark.jpeg/revision/latest?cb=20210510130854",
-    )
-    MOURNING_CLOAK = Mech(
-        name="mourning_cloak",
-        corp=Corps.SSC,
-        image_path="https://static.wikia.nocookie.net/lancer/images/1/15/MourningCloak.jpg/revision/latest?cb=20200509101339",
-    )
-    WHITE_WITCH = Mech(
-        name="white_witch",
-        corp=Corps.SSC,
-        source=Sources.KARRAKIN_TRADE_BARONIES,
-        image_path="https://pbs.twimg.com/media/EM6PMpPW4AAn668.jpg:large",
+        image_path="https://pbs.twimg.com/media/D28PCW3WsAIGZuU.jpg:large",
+        summary=[
+            "Sustained Aerial Harassment",
+            "Super mobile flying",
+            "Mess with their heads",
+            "Annoying fairy",
+            "Create confusing duplicates",
+        ],
     )
     EMPEROR = Mech(
         name="emperor",
         corp=Corps.SSC,
         source=Sources.KARRAKIN_TRADE_BARONIES,
         image_path="https://external-preview.redd.it/YVWXiFNpCBcuyvcvPzX3Y1tjOnEQ_2XX2e2W1kueA0Y.jpg?auto=webp&s=f71b0a8c1ccb329dd0b0523260c8c18c88ec97a8",
+        summary=[
+            "Long Range Support Archer",
+            "Tonnes of overshields for everyone",
+            "Armor piercing",
+        ],
     )
+    METALMARK = Mech(
+        name="metalmark",
+        corp=Corps.SSC,
+        image_path="https://static.wikia.nocookie.net/lancer/images/b/ba/Metalmark.jpeg/revision/latest?cb=20210510130854",
+        summary=[
+            "Tactical Superiority/Stealth",
+            "Speed, invisibility, flashbangs, hiding",
+            "The sneakiest",
+        ],
+    )
+    MONARCH = Mech(
+        name="monarch",
+        corp=Corps.SSC,
+        image_path="https://pbs.twimg.com/media/D0SvXINX4AEcN1Z.jpg:large",
+        summary=[
+            "Missile Platform",
+            "Lock on + Barrage",
+            "Too many missiles",
+            "Homing attacks",
+            "Small quick missiles",
+            "Big slow missiles",
+            "Missiles for every situation",
+        ],
+    )
+    MOURNING_CLOAK = Mech(
+        name="mourning_cloak",
+        corp=Corps.SSC,
+        image_path="https://static.wikia.nocookie.net/lancer/images/1/15/MourningCloak.jpg/revision/latest?cb=20200509101339",
+        summary=[
+            "Agile, Teleporting Melee Assassin",
+            "Nothing personnel",
+            "Big crits",
+            "Counter lone targets" "Teleporting hit and run",
+        ],
+    )
+    SWALLOWTAIL = Mech(
+        name="swallowtail",
+        corp=Corps.SSC,
+        image_path="https://external-preview.redd.it/4ts71UdtaOTzZJOYApRc6U-m5G_CgzyTx9PGVqAKvn8.jpg?auto=webp&s=f54bcc86818f54f4e3008ceee2c50842201e93fa",
+        summary=[
+            "Stealth Scout",
+            "Invisible while not moving",
+            "Scanning, sees everything",
+            "Shut down defenses",
+            "Extremely fast",
+            "You can't see me because I'm invisible, and I can see you even though you're invisible",
+        ],
+    )
+    SWALLOWTAIL_RANGER = Mech(
+        name="swallowtail_ranger",
+        corp=Corps.SSC,
+        image_path="https://cdnb.artstation.com/p/assets/images/images/035/138/645/large/theotime-gm-ranger-variant-web.jpg?1614191125",
+        summary=[
+            "Set up the map",
+            "Terrain usage mastery" "Tactical movement",
+        ],
+    )
+    WHITE_WITCH = Mech(
+        name="white_witch",
+        corp=Corps.SSC,
+        source=Sources.KARRAKIN_TRADE_BARONIES,
+        image_path="https://pbs.twimg.com/media/EM6PMpPW4AAn668.jpg:large",
+        summary=[],
+    )
+
     ORCHIS = Mech(
         name="orchis",
         corp=Corps.SSC,
         source=Sources.KARRAKIN_TRADE_BARONIES,
         image_path="https://preview.redd.it/7ulbcgdnafn81.jpg?auto=webp&s=2af07f9391443e756c07e3f94108e0c7ca94f965",
+        summary=[
+            "Black Witch Variant",
+            "Mobile Bodyguard",
+            "Throwable shield",
+        ],
     )
 
     BALOR = Mech(

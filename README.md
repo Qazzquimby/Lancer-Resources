@@ -269,9 +269,13 @@ Source: Long Rim
 
 Author: Massif Press
 
-- A powerful, small-scale hunter that draws on the profiles of past pilots to power current action.
+- Human sized kaiju hunter
 
-- Attack on Titan
+- Cybernetic ninja suit
+
+- 'Draws on the profiles of past pilots to power current action'
+
+- Attack on Titan / Revengeance
 
 <img src="https://pbs.twimg.com/media/D55kqK-WwAAMyND?format=jpg&name=large" width="500"/>
 
@@ -366,6 +370,16 @@ Corp: SSC
 Source: Core Book
 
 Author: Massif Press
+
+- Magnetic Control
+
+- Catch Bullets
+
+- Antimagic
+
+- Throw people around
+
+- Mech-Magneto
 
 <img src="https://static.wikia.nocookie.net/lancer/images/4/47/Blackwitch1.jpeg/revision/latest?cb=20210510124208" width="500"/>
 
@@ -469,7 +483,7 @@ Author: Massif Press
 
 - Doomguy
 
-- Knockback
+- Chase people twice your size around the map
 
 <img src="https://external-preview.redd.it/uiHVNTr51s5O7LdbPLLwI-BkRrvRmbPZx_XW4m2jH1U.jpg?auto=webp&s=51e7c6a99d745f9c9a5e213a848219cfc2682382" width="500"/>
 
@@ -496,6 +510,18 @@ Corp: SSC
 Source: Core Book
 
 Author: Massif Press
+
+- Mobile Artillery
+
+- The Snipiest Sniper
+
+- Maximum Accuracy
+
+- One shot - one kill
+
+- Railgun
+
+- Wall climbing
 
 <img src="https://pbs.twimg.com/media/D3AyF5pXgAIM3t_.jpg:large" width="500"/>
 
@@ -557,6 +583,16 @@ Source: Core Book
 
 Author: Massif Press
 
+- Sustained Aerial Harassment
+
+- Super mobile flying
+
+- Mess with their heads
+
+- Annoying fairy
+
+- Create confusing duplicates
+
 <img src="https://pbs.twimg.com/media/D28PCW3WsAIGZuU.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -581,6 +617,12 @@ Corp: SSC
 Source: Field Guide: The Karrakin Trade Baronies
 
 Author: Massif Press
+
+- Long Range Support Archer
+
+- Tonnes of overshields for everyone
+
+- Armor piercing
 
 <img src="https://external-preview.redd.it/YVWXiFNpCBcuyvcvPzX3Y1tjOnEQ_2XX2e2W1kueA0Y.jpg?auto=webp&s=f71b0a8c1ccb329dd0b0523260c8c18c88ec97a8" width="500"/>
 
@@ -923,6 +965,8 @@ Author: Massif Press
 
 - Orbital Strike
 
+- Low tech pirate aesthetic arrr yo ho
+
 <img src="https://pbs.twimg.com/media/EfE34JxXoAEWdnT.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1052,6 +1096,12 @@ Source: Core Book
 
 Author: Massif Press
 
+- Tactical Superiority/Stealth
+
+- Speed, invisibility, flashbangs, hiding
+
+- The sneakiest
+
 <img src="https://static.wikia.nocookie.net/lancer/images/b/ba/Metalmark.jpeg/revision/latest?cb=20210510130854" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1094,6 +1144,20 @@ Source: Core Book
 
 Author: Massif Press
 
+- Missile Platform
+
+- Lock on + Barrage
+
+- Too many missiles
+
+- Homing attacks
+
+- Small quick missiles
+
+- Big slow missiles
+
+- Missiles for every situation
+
 <img src="https://pbs.twimg.com/media/D0SvXINX4AEcN1Z.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1123,6 +1187,14 @@ Corp: SSC
 Source: Core Book
 
 Author: Massif Press
+
+- Agile, Teleporting Melee Assassin
+
+- Nothing personnel
+
+- Big crits
+
+- Counter lone targetsTeleporting hit and run
 
 <img src="https://static.wikia.nocookie.net/lancer/images/1/15/MourningCloak.jpg/revision/latest?cb=20200509101339" width="500"/>
 
@@ -1176,7 +1248,7 @@ Author: Massif Press
 
 - Rapid Assault
 
-- Fast Knight with a Spear
+- Fast Knight with a Spear the Explodes
 
 - Hit and Run
 
@@ -1208,6 +1280,12 @@ Corp: SSC
 Source: Field Guide: The Karrakin Trade Baronies
 
 Author: Massif Press
+
+- Black Witch Variant
+
+- Mobile Bodyguard
+
+- Throwable shield
 
 <img src="https://preview.redd.it/7ulbcgdnafn81.jpg?auto=webp&s=2af07f9391443e756c07e3f94108e0c7ca94f965" width="500"/>
 
@@ -1255,7 +1333,7 @@ Author: Massif Press
 
 - Too many guns
 
-- Cowboy
+- Cowboy - Fan the Hammer
 
 - Chest Cannon
 
@@ -1409,6 +1487,18 @@ Source: Core Book
 
 Author: Massif Press
 
+- Stealth Scout
+
+- Invisible while not moving
+
+- Scanning, sees everything
+
+- Shut down defenses
+
+- Extremely fast
+
+- You can't see me because I'm invisible, and I can see you even though you're invisible
+
 <img src="https://external-preview.redd.it/4ts71UdtaOTzZJOYApRc6U-m5G_CgzyTx9PGVqAKvn8.jpg?auto=webp&s=f54bcc86818f54f4e3008ceee2c50842201e93fa" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1438,6 +1528,10 @@ Corp: SSC
 Source: Core Book
 
 Author: Massif Press
+
+- Set up the map
+
+- Terrain usage masteryTactical movement
 
 <img src="https://cdnb.artstation.com/p/assets/images/images/035/138/645/large/theotime-gm-ranger-variant-web.jpg?1614191125" width="500"/>
 
@@ -1568,6 +1662,8 @@ Author: Massif Press
 - Damage attackers because covered in spikes
 
 - Massive drill
+
+- Sadistic Porcupine
 
 <img src="https://static.wikia.nocookie.net/lancer/images/d/d1/Vlad.jpg/revision/latest?cb=20200509101717" width="500"/>
 
