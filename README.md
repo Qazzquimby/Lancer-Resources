@@ -163,7 +163,7 @@
 <summary>Mechs by Source</summary>
 
 <details>
-<summary>Core Book</summary>
+<summary>Source(name='Core Book', author='Massif Press', url='https://massif-press.itch.io/corebook-pdf-free')</summary>
 
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
@@ -197,7 +197,7 @@
 - [Vlad](#vlad)
 </details>
 <details>
-<summary>Field Guide: Mfecane</summary>
+<summary>Source(name='Field Guide: Mfecane', author='NHP-SHAKA', url='https://nhp-shaka.itch.io/mfecane-field-guide')</summary>
 
 - [Amadlozi](#amadlozi)
 - [Cetshwayo](#cetshwayo)
@@ -205,7 +205,7 @@
 - [Ibutho](#ibutho)
 </details>
 <details>
-<summary>Field Guide: The Karrakin Trade Baronies</summary>
+<summary>Source(name='Field Guide: The Karrakin Trade Baronies', author='Massif Press', url='https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies')</summary>
 
 - [Calendula](#calendula)
 - [Emperor](#emperor)
@@ -213,7 +213,7 @@
 - [White_witch](#white_witch)
 </details>
 <details>
-<summary>Grimm & Sons</summary>
+<summary>Source(name='Grimm & Sons', author='Delilah Worthy', url='https://nightmareworks.itch.io/grimmandsons')</summary>
 
 - [Anansi](#anansi)
 - [Bunyan](#bunyan)
@@ -227,7 +227,7 @@
 - [Volk](#volk)
 </details>
 <details>
-<summary>Long Rim</summary>
+<summary>Source(name='Long Rim', author='Massif Press', url='https://massif-press.itch.io/the-long-rim')</summary>
 
 - [Atlas](#atlas)
 - [Caliban](#caliban)
@@ -237,7 +237,7 @@
 - [Zheng](#zheng)
 </details>
 <details>
-<summary>No Room for a Wallflower</summary>
+<summary>Source(name='No Room for a Wallflower', author='Massif Press', url='https://massif-press.itch.io/no-room-for-a-wallflower-act-1')</summary>
 
 - [Enkidu](#enkidu)
 - [Genghis worldkiller](#genghis-worldkiller)
@@ -329,9 +329,7 @@
 
 Corp: MFECANE
 
-Source: Field Guide: Mfecane
-
-Author: NHP-SHAKA
+Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
 
 - Terrain Architect Defender/Controller
 
@@ -350,9 +348,7 @@ Author: NHP-SHAKA
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Control Sniper
 
@@ -371,9 +367,7 @@ Author: Delilah Worthy
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Long Rim
-
-Author: Massif Press
+Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press 
 
 - Human sized kaiju hunter
 
@@ -409,9 +403,7 @@ Author: Massif Press
 
 Corp: HORUS
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Nanobot Swarm Host/Frontline Assault
 
@@ -445,9 +437,7 @@ Author: Massif Press
 
 Corp: HA - Harisson Armory
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Siege/Anti-Air
 
@@ -487,9 +477,7 @@ Author: Massif Press
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Magnetic Control
 
@@ -526,9 +514,7 @@ Author: Massif Press
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Berserker pattern melee
 
@@ -570,9 +556,7 @@ Author: Massif Press
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Utterly massive defender
 
@@ -589,9 +573,7 @@ Author: Delilah Worthy
 
 Corp: HORUS
 
-Source: Field Guide: The Karrakin Trade Baronies
-
-Author: Massif Press
+Source: [Field Guide: The Karrakin Trade Baronies](https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies), by Massif Press 
 
 - Minotaur Variant
 
@@ -622,9 +604,7 @@ Author: Massif Press
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Long Rim
-
-Author: Massif Press
+Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press 
 
 - Boarding and Asset Reclamation
 
@@ -656,9 +636,7 @@ Author: Massif Press
 
 Corp: MFECANE
 
-Source: Field Guide: Mfecane
-
-Author: NHP-SHAKA
+Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
 
 - Artillery/Controller
 
@@ -679,9 +657,7 @@ Author: NHP-SHAKA
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Mobile Artillery
 
@@ -716,9 +692,7 @@ Author: Massif Press
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Combat support
 
@@ -737,9 +711,7 @@ Author: Delilah Worthy
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Heavy Assault/Fire Support
 
@@ -772,9 +744,7 @@ Author: Massif Press
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Sustained Aerial Harassment
 
@@ -807,9 +777,7 @@ Author: Massif Press
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Field Guide: The Karrakin Trade Baronies
-
-Author: Massif Press
+Source: [Field Guide: The Karrakin Trade Baronies](https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies), by Massif Press 
 
 - Long Range Support Archer
 
@@ -830,9 +798,7 @@ Author: Massif Press
 
 Corp: HA - Harisson Armory
 
-Source: No Room for a Wallflower
-
-Author: Massif Press
+Source: [No Room for a Wallflower](https://massif-press.itch.io/no-room-for-a-wallflower-act-1), by Massif Press 
 
 - Tokugawa Variant
 
@@ -857,9 +823,7 @@ Author: Massif Press
 
 Corp: GMS - General Massive Systems
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Your first summit
 
@@ -979,9 +943,7 @@ Source: Unknown.
 
 Corp: HA - Harisson Armory
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Total Biome Kill
 
@@ -1012,9 +974,7 @@ Author: Massif Press
 
 Corp: HA - Harisson Armory
 
-Source: No Room for a Wallflower
-
-Author: Massif Press
+Source: [No Room for a Wallflower](https://massif-press.itch.io/no-room-for-a-wallflower-act-1), by Massif Press 
 
 - Genghis Variant - The original Genghis design
 
@@ -1035,9 +995,7 @@ Author: Massif Press
 
 Corp: HORUS
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Technical/Enlightenment/Hacking
 
@@ -1062,9 +1020,7 @@ Author: Massif Press
 
 Corp: HORUS
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Overwatch/Electronic Defense
 
@@ -1106,9 +1062,7 @@ Author: Massif Press
 
 Corp: MFECANE
 
-Source: Field Guide: Mfecane
-
-Author: NHP-SHAKA
+Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
 
 - Enormous slow team support
 
@@ -1125,9 +1079,7 @@ Author: NHP-SHAKA
 
 Corp: HORUS
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Drone warfare/Tactical Dismemberment
 
@@ -1158,9 +1110,7 @@ Author: Massif Press
 
 Corp: MFECANE
 
-Source: Field Guide: Mfecane
-
-Author: NHP-SHAKA
+Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
 
 - Berserk when close to death
 
@@ -1200,9 +1150,7 @@ Source: NHP-SHAKA
 
 Corp: HA - Harisson Armory
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Gravity Manipulation/Area Denial
 
@@ -1233,9 +1181,7 @@ Author: Massif Press
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Giant Killer
 
@@ -1254,9 +1200,7 @@ Author: Delilah Worthy
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - A Mighty Woman
 
@@ -1275,9 +1219,7 @@ Author: Delilah Worthy
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: No Room for a Wallflower
-
-Author: Massif Press
+Source: [No Room for a Wallflower](https://massif-press.itch.io/no-room-for-a-wallflower-act-1), by Massif Press 
 
 - Lancaster Variant
 
@@ -1315,9 +1257,7 @@ Author: Massif Press
 
 Corp: HORUS
 
-Source: Long Rim
-
-Author: Massif Press
+Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press 
 
 - Offensive Terraforming
 
@@ -1338,9 +1278,7 @@ Author: Massif Press
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Field Support/Repair
 
@@ -1373,9 +1311,7 @@ Author: Massif Press
 
 Corp: HORUS
 
-Source: Long Rim
-
-Author: Massif Press
+Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press 
 
 - Time manipulation
 
@@ -1396,9 +1332,7 @@ Author: Massif Press
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Walking fortress-factory
 
@@ -1415,9 +1349,7 @@ Author: Delilah Worthy
 
 Corp: HORUS
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Direct Energy Assault
 
@@ -1455,9 +1387,7 @@ Author: Massif Press
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Ram people around
 
@@ -1474,9 +1404,7 @@ Author: Delilah Worthy
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Tactical Superiority/Stealth
 
@@ -1505,9 +1433,7 @@ Author: Massif Press
 
 Corp: HORUS
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Interdictor/area control
 
@@ -1530,9 +1456,7 @@ Author: Massif Press
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Missile Platform
 
@@ -1574,9 +1498,7 @@ Author: Massif Press
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Agile, Teleporting Melee Assassin
 
@@ -1615,9 +1537,7 @@ Source: Unknown.
 
 Corp: HA - Harisson Armory
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Experimental Stasis/Battlefield Control
 
@@ -1644,9 +1564,7 @@ Author: Massif Press
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Rapid Assault
 
@@ -1679,9 +1597,7 @@ Author: Massif Press
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Field Guide: The Karrakin Trade Baronies
-
-Author: Massif Press
+Source: [Field Guide: The Karrakin Trade Baronies](https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies), by Massif Press 
 
 - Black Witch Variant
 
@@ -1700,9 +1616,7 @@ Author: Massif Press
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Linebreaker
 
@@ -1721,9 +1635,7 @@ Author: Delilah Worthy
 
 Corp: HORUS
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Esoteric Firepower
 
@@ -1752,9 +1664,7 @@ Author: Massif Press
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Frontline Assault
 
@@ -1792,9 +1702,7 @@ Author: Massif Press
 
 Corp: GMS - General Massive Systems
 
-Source: No Room for a Wallflower
-
-Author: Massif Press
+Source: [No Room for a Wallflower](https://massif-press.itch.io/no-room-for-a-wallflower-act-1), by Massif Press 
 
 - Fat Everest
 
@@ -1829,9 +1737,7 @@ Source: kaffeezombie
 
 Corp: HA - Harisson Armory
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Shield Support
 
@@ -1869,9 +1775,7 @@ Author: Massif Press
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Battlefield Control
 
@@ -1892,9 +1796,7 @@ Author: Delilah Worthy
 
 Corp: HA - Harisson Armory
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Frontline Assault
 
@@ -1927,9 +1829,7 @@ Author: Massif Press
 
 Corp: HA - Harisson Armory
 
-Source: Long Rim
-
-Author: Massif Press
+Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press 
 
 - Space Manipulation/Tactics
 
@@ -1959,9 +1859,7 @@ Author: Massif Press
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Stealth Scout
 
@@ -2001,9 +1899,7 @@ Author: Massif Press
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Set up the map
 
@@ -2020,9 +1916,7 @@ Author: Massif Press
 
 Corp: HA - Harisson Armory
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Superheated Melee
 
@@ -2104,9 +1998,7 @@ Source: Unknown.
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Overwatch/Zone Defense
 
@@ -2139,9 +2031,7 @@ Author: Massif Press
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Core Book
-
-Author: Massif Press
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
 
 - Nail people to the ground
 
@@ -2172,9 +2062,7 @@ Author: Massif Press
 
 Corp: G&S - Grimm & Sons
 
-Source: Grimm & Sons
-
-Author: Delilah Worthy
+Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah Worthy 
 
 - Wolven HunterKnockoff Blackbeard
 
@@ -2191,9 +2079,7 @@ Author: Delilah Worthy
 
 Corp: SSC - Smith Shimano Corpro
 
-Source: Field Guide: The Karrakin Trade Baronies
-
-Author: Massif Press
+Source: [Field Guide: The Karrakin Trade Baronies](https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies), by Massif Press 
 
 - Point Defense/Duelist
 
@@ -2212,9 +2098,7 @@ Author: Massif Press
 
 Corp: IPSN - Interplanetary Shipping Northstar
 
-Source: Long Rim
-
-Author: Massif Press
+Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press 
 
 - Unarmed Melee
 

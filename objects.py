@@ -25,18 +25,6 @@ class Corps:
 CORPS: list[str] = list_content(Corps)
 
 
-class Sources:
-    CORE = "Core Book"
-    WALLFLOWER = "No Room for a Wallflower"
-    LONG_RIM = "Long Rim"
-    KARRAKIN_TRADE_BARONIES = "Field Guide: The Karrakin Trade Baronies"
-    MFECANE = "Field Guide: Mfecane"
-    GRIMM = "Grimm & Sons"
-
-
-SOURCES: list[str] = list_content(Sources)
-
-
 class Authors:
     MASSIF = "Massif Press"
     NHP_SHAKA = "NHP-SHAKA"
@@ -47,11 +35,53 @@ AUTHORS: list[str] = list_content(Authors)
 
 
 @dataclass
+class Source:
+    name: str
+    author: str
+    url: str
+
+
+class Sources:
+    CORE = Source(
+        name="Core Book",
+        author=Authors.MASSIF,
+        url="https://massif-press.itch.io/corebook-pdf-free",
+    )
+    WALLFLOWER = Source(
+        name="No Room for a Wallflower",
+        author=Authors.MASSIF,
+        url="https://massif-press.itch.io/no-room-for-a-wallflower-act-1",
+    )
+    LONG_RIM = Source(
+        name="Long Rim",
+        author=Authors.MASSIF,
+        url="https://massif-press.itch.io/the-long-rim",
+    )
+    KARRAKIN_TRADE_BARONIES = Source(
+        name="Field Guide: The Karrakin Trade Baronies",
+        author=Authors.MASSIF,
+        url="https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies",
+    )
+    MFECANE = Source(
+        name="Field Guide: Mfecane",
+        author=Authors.NHP_SHAKA,
+        url="https://nhp-shaka.itch.io/mfecane-field-guide",
+    )
+    GRIMM = Source(
+        name="Grimm & Sons",
+        author=Authors.DELILAH,
+        url="https://nightmareworks.itch.io/grimmandsons",
+    )
+
+
+SOURCES: list[str] = list_content(Sources)
+
+
+@dataclass
 class Mech:
     name: str
     corp: str
-    source: str = Sources.CORE
-    author: str = Authors.MASSIF
+    source: Source = Sources.CORE
     image_path: str | list[str] = None
     summary: list[str] = None
 
@@ -568,7 +598,6 @@ class Mechs:
         name="ibutho",
         corp=Corps.MFECANE,
         source=Sources.MFECANE,
-        author=Authors.NHP_SHAKA,
         image_path=[
             "https://preview.redd.it/dgnj8y0n51q61.png?width=512&format=png&auto=webp&s=db1d0ba19fa81acd625a801898c1a4f48fab279d",
             "https://preview.redd.it/fga3361n51q61.png?width=512&format=png&auto=webp&s=f25b79691edd1b70dabf504f33612ff2cfe1d754",
@@ -584,7 +613,6 @@ class Mechs:
         name="grootslang",
         corp=Corps.MFECANE,
         source=Sources.MFECANE,
-        author=Authors.NHP_SHAKA,
         image_path="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MjAucG5n/original/n64DbK.png",
         summary=[
             "Enormous slow team support",
@@ -595,7 +623,6 @@ class Mechs:
         name="amadlozi",
         corp=Corps.MFECANE,
         source=Sources.MFECANE,
-        author=Authors.NHP_SHAKA,
         image_path="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MTgucG5n/original/%2FV4kya.png",
         summary=[
             "Terrain Architect Defender/Controller",
@@ -607,7 +634,6 @@ class Mechs:
         name="cetshwayo",
         corp=Corps.MFECANE,
         source=Sources.MFECANE,
-        author=Authors.NHP_SHAKA,
         image_path="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MTkucG5n/original/3nbT3l.png",
         summary=[
             "Artillery/Controller",
@@ -623,7 +649,6 @@ class Mechs:
         name="john henry",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTcuanBn/original/K73D9j.jpg",
         summary=[
             "A Mighty Woman",
@@ -636,7 +661,6 @@ class Mechs:
         name="volk",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTQuanBn/original/W4D8f9.jpg",
         summary=[
             "Wolven Hunter" "Knockoff Blackbeard",
@@ -648,7 +672,6 @@ class Mechs:
         name="bunyan",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTEuanBn/original/nDZtN4.jpg",
         summary=["Utterly massive defender", "Very slow", "BABE forcefield drone"],
     )
@@ -656,7 +679,6 @@ class Mechs:
         name="jack",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTUuanBn/original/2DwTvs.jpg",
         summary=[
             "Giant Killer",
@@ -669,7 +691,6 @@ class Mechs:
         name="dorothy",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTIuanBn/original/Tw%2BCnV.jpg",
         summary=[
             "Combat support",
@@ -682,7 +703,6 @@ class Mechs:
         name="magarac",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTYuanBn/original/V7B071.jpg",
         summary=[
             "Walking fortress-factory",
@@ -694,7 +714,6 @@ class Mechs:
         name="orlando",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://i.pinimg.com/originals/e4/72/93/e47293978e2956008ea5f642721b63a9.jpg",
         summary=[
             "Linebreaker",
@@ -707,7 +726,6 @@ class Mechs:
         name="anansi",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ1MDcuanBn/original/npwuJJ.jpg",
         summary=[
             "Control Sniper",
@@ -720,7 +738,6 @@ class Mechs:
         name="max",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         summary=[
             "Ram people around",
             "Automatically destroy low health targets",
@@ -732,7 +749,6 @@ class Mechs:
         name="scheherazade",
         corp=Corps.GRIMM,
         source=Sources.GRIMM,
-        author=Authors.DELILAH,
         image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTMuanBn/original/lwgDu6.jpg",
         summary=[
             "Battlefield Control",

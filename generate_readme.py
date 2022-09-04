@@ -19,8 +19,7 @@ def _generate_mech_readme_from_group_name_to_content(
     lines = [
         f"### {mech.name.capitalize().replace('_', ' ')}\n",
         f"Corp: {mech.corp}\n",
-        f"Source: {mech.source}\n",
-        f"Author: {mech.author}\n",
+        f"Source: [{mech.source.name}]({mech.source.url}), by {mech.source.author} \n",
     ]
     if mech.summary:
         for line in mech.summary:
@@ -139,7 +138,7 @@ def generate_toc_by_author() -> str:
         toc_lines.append("<details>")
         toc_lines.append(f"<summary>{author}</summary>\n")
         for mech in MECHS:
-            if mech.author == author:
+            if mech.source.author == author:
                 toc_lines.append(get_mech_toc_line(mech))
         toc_lines.append("</details>")
     toc_lines.append("</details>")
