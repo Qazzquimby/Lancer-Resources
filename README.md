@@ -343,6 +343,14 @@ Source: Core Book
 
 Author: Massif Press
 
+- Siege/Anti-Air
+
+- Walking siege engineThe biggest mech
+
+- Ship-grade slow charging laser
+
+- Everyone stand behind you
+
 <img src="https://pbs.twimg.com/media/Ds471y1WsAAjpwJ.jpg" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -657,6 +665,16 @@ Source: No Room for a Wallflower
 
 Author: Massif Press
 
+- Tokugawa Variant
+
+- Melee glass cannon
+
+- Plasma whip fingers
+
+- Go werewolf when in danger
+
+- Rip your enemies in half
+
 <img src="https://preview.redd.it/5ev5xcyprab81.jpg?auto=webp&s=768fba2788fc4d9c61d3bce3ffe1e8b32aa12905" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -796,6 +814,16 @@ Source: Core Book
 
 Author: Massif Press
 
+- Total Biome Kill
+
+- Fire everywhere
+
+- Low health, high armor
+
+- Heat management
+
+- Canonically the first mech, created for genocide
+
 <img src="https://external-preview.redd.it/HnEsHvovvilWcBUdooCiFLgd99EzEMlwjMgzHIihSZA.jpg?auto=webp&s=10a5adb10e31c2fcba4936dec7b2b39731ec14b0" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -818,6 +846,12 @@ Corp: HA
 Source: No Room for a Wallflower
 
 Author: Massif Press
+
+- Genghis Variant - The original Genghis design
+
+- Less restrained, less safe to pilot
+
+- Aura of fire
 
 <img src="https://cdn-animation.artstation.com/p/thumbnails/000/265/518/thumb.jpg" width="500"/>
 
@@ -971,6 +1005,14 @@ Corp: HA
 Source: Core Book
 
 Author: Massif Press
+
+- Gravity Manipulation/Area Denial
+
+- Make everything an explosive
+
+- Minefield
+
+- Gravity gun
 
 <img src="https://pbs.twimg.com/media/D3V3iiaXkAEO29u.jpg:large" width="500"/>
 
@@ -1299,6 +1341,18 @@ Source: Core Book
 
 Author: Massif Press
 
+- Experimental Stasis/Battlefield Control
+
+- Tiny tank
+
+- Put people in stasis
+
+- Become nigh immortal while doing nothing
+
+- 'I reduce the damage to 1'
+
+- Gun that deletes people from existence
+
 <img src="https://external-preview.redd.it/flbCTCmqhnLOoWTzF6lRtYZPgpKtf9duWoLOqF6Zxiw.jpg?auto=webp&s=d968822a1fffa257adc347b4f59eadcdf1699ffe" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1480,6 +1534,16 @@ Source: Core Book
 
 Author: Massif Press
 
+- Shield Support
+
+- All sorts of force fields
+
+- Damage reflection
+
+- Block for your squishy friends
+
+- A defender who actually defends
+
 <img src="https://pbs.twimg.com/media/D3HXdK3XcAEkLxk.jpg:large" width="500"/>
 
 #### Trashtalk on Lancer, Mech Overviews
@@ -1510,6 +1574,14 @@ Source: Core Book
 
 Author: Massif Press
 
+- Frontline Assault
+
+- lots of lasers with heat costs
+
+- excellent heat management
+
+- stabilize without losing a full action
+
 <img src="https://pbs.twimg.com/media/D3w3yZ-XoAAGo_x?format=jpg&name=large" width="500"/>
 
 <img src="https://pbs.twimg.com/media/Df3RCD7XcAAws0N.jpg:large" width="500"/>
@@ -1536,6 +1608,12 @@ Corp: HA
 Source: Long Rim
 
 Author: Massif Press
+
+- Space Manipulation/Tactics
+
+- Teleportation controller
+
+- Put your allies and enemies wherever you want
 
 <img src="https://ksr-ugc.imgix.net/assets/024/944/488/16ffd6f132e4ecd32ee139293b129442_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1556548469&gif-q=50&q=92&s=9f83682094aafa03d5a39cb69e4760e0" width="500"/>
 
@@ -1623,6 +1701,16 @@ Corp: HA
 Source: Core Book
 
 Author: Massif Press
+
+- Superheated Melee
+
+- High risk high reward
+
+- Play as close to destruction as possible
+
+- Benefits while vulnerable and near death
+
+- Die in a blaze of glory
 
 <img src="https://64.media.tumblr.com/8642aa32ea7e7fde660a6d5daa833a8e/tumblr_pgedezbTgB1qlxan5o1_1280.jpg" width="500"/>
 

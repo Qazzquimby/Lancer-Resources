@@ -443,38 +443,84 @@ class Mechs:
         name="barbarossa",
         corp=Corps.HA,
         image_path="https://pbs.twimg.com/media/Ds471y1WsAAjpwJ.jpg",
+        summary=[
+            "Siege/Anti-Air",
+            "Walking siege engine" "The biggest mech",
+            "Ship-grade slow charging laser",
+            "Everyone stand behind you",
+        ],
     )
     ENKIDU = Mech(
         name="enkidu",
         corp=Corps.HA,
         source=Sources.WALLFLOWER,
         image_path="https://preview.redd.it/5ev5xcyprab81.jpg?auto=webp&s=768fba2788fc4d9c61d3bce3ffe1e8b32aa12905",
+        summary=[
+            "Tokugawa Variant",
+            "Melee glass cannon",
+            "Plasma whip fingers",
+            "Go werewolf when in danger",
+            "Rip your enemies in half",
+        ],
     )
     GENGHIS = Mech(
         name="genghis",
         corp=Corps.HA,
         image_path="https://external-preview.redd.it/HnEsHvovvilWcBUdooCiFLgd99EzEMlwjMgzHIihSZA.jpg?auto=webp&s=10a5adb10e31c2fcba4936dec7b2b39731ec14b0",
+        summary=[
+            "Total Biome Kill",
+            "Fire everywhere",
+            "Low health, high armor",
+            "Heat management",
+            "Canonically the first mech, created for genocide",
+        ],
     )
     GENGHIS_WORLDKILLER = Mech(
         name="genghis worldkiller",
         corp=Corps.HA,
         source=Sources.WALLFLOWER,
         image_path="https://cdn-animation.artstation.com/p/thumbnails/000/265/518/thumb.jpg",
+        summary=[
+            "Genghis Variant - The original Genghis design",
+            "Less restrained, less safe to pilot",
+            "Aura of fire",
+        ],
     )
     ISKANDER = Mech(
         name="iskander",
         corp=Corps.HA,
         image_path="https://pbs.twimg.com/media/D3V3iiaXkAEO29u.jpg:large",
+        summary=[
+            "Gravity Manipulation/Area Denial",
+            "Make everything an explosive",
+            "Minefield",
+            "Gravity gun",
+        ],
     )
     NAPOLEON = Mech(
         name="napoleon",
         corp=Corps.HA,
         image_path="https://external-preview.redd.it/flbCTCmqhnLOoWTzF6lRtYZPgpKtf9duWoLOqF6Zxiw.jpg?auto=webp&s=d968822a1fffa257adc347b4f59eadcdf1699ffe",
+        summary=[
+            "Experimental Stasis/Battlefield Control",
+            "Tiny tank",
+            "Put people in stasis",
+            "Become nigh immortal while doing nothing",
+            "'I reduce the damage to 1'",
+            "Gun that deletes people from existence",
+        ],
     )
     SALADIN = Mech(
         name="saladin",
         corp=Corps.HA,
         image_path="https://pbs.twimg.com/media/D3HXdK3XcAEkLxk.jpg:large",
+        summary=[
+            "Shield Support",
+            "All sorts of force fields",
+            "Damage reflection",
+            "Block for your squishy friends",
+            "A defender who actually defends",
+        ],
     )
     SHERMAN = Mech(
         name="sherman",
@@ -483,17 +529,35 @@ class Mechs:
             "https://pbs.twimg.com/media/D3w3yZ-XoAAGo_x?format=jpg&name=large",
             "https://pbs.twimg.com/media/Df3RCD7XcAAws0N.jpg:large",
         ],
-    )
-    TOKUGAWA = Mech(
-        name="tokugawa",
-        corp=Corps.HA,
-        image_path="https://64.media.tumblr.com/8642aa32ea7e7fde660a6d5daa833a8e/tumblr_pgedezbTgB1qlxan5o1_1280.jpg",
+        summary=[
+            "Frontline Assault",
+            "lots of lasers with heat costs",
+            "excellent heat management",
+            "stabilize without losing a full action",
+        ],
     )
     SUNZI = Mech(
         name="sunzi",
         corp=Corps.HA,
         source=Sources.LONG_RIM,
         image_path="https://ksr-ugc.imgix.net/assets/024/944/488/16ffd6f132e4ecd32ee139293b129442_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1556548469&gif-q=50&q=92&s=9f83682094aafa03d5a39cb69e4760e0",
+        summary=[
+            "Space Manipulation/Tactics",
+            "Teleportation controller",
+            "Put your allies and enemies wherever you want",
+        ],
+    )
+    TOKUGAWA = Mech(
+        name="tokugawa",
+        corp=Corps.HA,
+        image_path="https://64.media.tumblr.com/8642aa32ea7e7fde660a6d5daa833a8e/tumblr_pgedezbTgB1qlxan5o1_1280.jpg",
+        summary=[
+            "Superheated Melee",
+            "High risk high reward",
+            "Play as close to destruction as possible",
+            "Benefits while vulnerable and near death",
+            "Die in a blaze of glory",
+        ],
     )
 
     IBUTHO = Mech(
