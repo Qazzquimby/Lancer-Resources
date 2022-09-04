@@ -13,12 +13,13 @@ def list_content(enum_class):
 
 
 class Corps:
-    GMS = "GMS"
-    IPSN = "IPSN"
-    SSC = "SSC"
+    GMS = "GMS - General Massive Systems"
+    IPSN = "IPSN - Interplanetary Shipping Northstar"
+    SSC = "SSC - Smith Shimano Corpro"
     HORUS = "HORUS"
-    HA = "HA"
+    HA = "HA - Harisson Armory"
     MFECANE = "MFECANE"
+    GRIMM = "G&S - Grimm & Sons"
 
 
 CORPS: list[str] = list_content(Corps)
@@ -30,6 +31,7 @@ class Sources:
     LONG_RIM = "Long Rim"
     KARRAKIN_TRADE_BARONIES = "Field Guide: The Karrakin Trade Baronies"
     MFECANE = "Field Guide: Mfecane"
+    GRIMM = "Grimm & Sons"
 
 
 SOURCES: list[str] = list_content(Sources)
@@ -38,6 +40,7 @@ SOURCES: list[str] = list_content(Sources)
 class Authors:
     MASSIF = "Massif Press"
     NHP_SHAKA = "NHP-SHAKA"
+    DELILAH = "Delilah Worthy"
 
 
 AUTHORS: list[str] = list_content(Authors)
@@ -568,6 +571,129 @@ class Mechs:
         image_path=[
             "https://preview.redd.it/dgnj8y0n51q61.png?width=512&format=png&auto=webp&s=db1d0ba19fa81acd625a801898c1a4f48fab279d",
             "https://preview.redd.it/fga3361n51q61.png?width=512&format=png&auto=webp&s=f25b79691edd1b70dabf504f33612ff2cfe1d754",
+        ],
+    )
+
+    JOHN_HENRY = Mech(
+        name="john henry",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTcuanBn/original/K73D9j.jpg",
+        summary=[
+            "A Mighty Woman",
+            "Heavy melee - Built-in giant hammer",
+            "Huge blows, knock prone",
+            "Overheat in the process",
+        ],
+    )
+    VOLK = Mech(
+        name="volk",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTQuanBn/original/W4D8f9.jpg",
+        summary=[
+            "Wolven Hunter" "Knockoff Blackbeard",
+            "Speedy Brawler",
+            "Hot-rod engine powering chainsaws",
+        ],
+    )
+    BUNYAN = Mech(
+        name="bunyan",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTEuanBn/original/nDZtN4.jpg",
+        summary=["Utterly massive defender", "Very slow", "BABE forcefield drone"],
+    )
+    JACK = Mech(
+        name="jack",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTUuanBn/original/2DwTvs.jpg",
+        summary=[
+            "Giant Killer",
+            "Agile all-rounder",
+            "Scout and Skirmish",
+            "Plasma weapons - Can be buffed with limited ammo",
+        ],
+    )
+    DOROTHY = Mech(
+        name="dorothy",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTIuanBn/original/Tw%2BCnV.jpg",
+        summary=[
+            "Combat support",
+            "Search and rescue",
+            "Immune to environment damage",
+            "Nanite healing",
+        ],
+    )
+    MAGARAC = Mech(
+        name="magarac",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTYuanBn/original/V7B071.jpg",
+        summary=[
+            "Walking fortress-factory",
+            "Repair allies, even after their death",
+            "Slow, limited resources",
+        ],
+    )
+    ORLANDO = Mech(
+        name="orlando",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://i.pinimg.com/originals/e4/72/93/e47293978e2956008ea5f642721b63a9.jpg",
+        summary=[
+            "Linebreaker",
+            "Knight in shining armor",
+            "Charge through people",
+            "Uncontrolled wild movement",
+        ],
+    )
+    ANANSI = Mech(
+        name="anansi",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ1MDcuanBn/original/npwuJJ.jpg",
+        summary=[
+            "Control Sniper",
+            "Cling on walls",
+            "Good at hiding and using terrain",
+            "Spread spiderweb traps and fire on people who touch them",
+        ],
+    )
+    MAX = Mech(
+        name="max",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        summary=[
+            "Ram people around",
+            "Automatically destroy low health targets",
+            "Counterattack reactions",
+            "'A dirge for the Fall of mankind'",
+        ],
+    )
+    SCHEHERAZADE = Mech(
+        name="scheherazade",
+        corp=Corps.GRIMM,
+        source=Sources.GRIMM,
+        author=Authors.DELILAH,
+        image_path="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTMuanBn/original/lwgDu6.jpg",
+        summary=[
+            "Battlefield Control",
+            "Terribly fragile, but with dodge chance",
+            "Place mines for free at start of battle",
+            "Weird control abilities, like reversing accuracy and disadvantage",
         ],
     )
 

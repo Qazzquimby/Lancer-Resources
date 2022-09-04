@@ -2,14 +2,17 @@
 
 <summary>All Mechs</summary>
 
+- [Anansi](#anansi)
 - [Atlas](#atlas)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
 - [Black_witch](#black_witch)
 - [Blackbeard](#blackbeard)
+- [Bunyan](#bunyan)
 - [Calendula](#calendula)
 - [Caliban](#caliban)
 - [Death's head](#deaths-head)
+- [Dorothy](#dorothy)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
 - [Emperor](#emperor)
@@ -22,11 +25,15 @@
 - [Hydra](#hydra)
 - [Ibutho](#ibutho)
 - [Iskander](#iskander)
+- [Jack](#jack)
+- [John henry](#john-henry)
 - [Kidd](#kidd)
 - [Kobold](#kobold)
 - [Lancaster](#lancaster)
 - [Lich](#lich)
+- [Magarac](#magarac)
 - [Manticore](#manticore)
+- [Max](#max)
 - [Metalmark](#metalmark)
 - [Minotaur](#minotaur)
 - [Monarch](#monarch)
@@ -34,10 +41,12 @@
 - [Napoleon](#napoleon)
 - [Nelson](#nelson)
 - [Orchis](#orchis)
+- [Orlando](#orlando)
 - [Pegasus](#pegasus)
 - [Raleigh](#raleigh)
 - [Sagarmatha](#sagarmatha)
 - [Saladin](#saladin)
+- [Scheherazade](#scheherazade)
 - [Sherman](#sherman)
 - [Sunzi](#sunzi)
 - [Swallowtail](#swallowtail)
@@ -45,6 +54,7 @@
 - [Tokugawa](#tokugawa)
 - [Tortuga](#tortuga)
 - [Vlad](#vlad)
+- [Volk](#volk)
 - [White_witch](#white_witch)
 - [Zheng](#zheng)
 </details>
@@ -56,13 +66,27 @@
 <summary>Mechs by Corp</summary>
 
 <details>
-<summary>GMS</summary>
+<summary>G&S - Grimm & Sons</summary>
+
+- [Anansi](#anansi)
+- [Bunyan](#bunyan)
+- [Dorothy](#dorothy)
+- [Jack](#jack)
+- [John henry](#john-henry)
+- [Magarac](#magarac)
+- [Max](#max)
+- [Orlando](#orlando)
+- [Scheherazade](#scheherazade)
+- [Volk](#volk)
+</details>
+<details>
+<summary>GMS - General Massive Systems</summary>
 
 - [Everest](#everest)
 - [Sagarmatha](#sagarmatha)
 </details>
 <details>
-<summary>HA</summary>
+<summary>HA - Harisson Armory</summary>
 
 - [Barbarossa](#barbarossa)
 - [Enkidu](#enkidu)
@@ -90,7 +114,7 @@
 - [Pegasus](#pegasus)
 </details>
 <details>
-<summary>IPSN</summary>
+<summary>IPSN - Interplanetary Shipping Northstar</summary>
 
 - [Blackbeard](#blackbeard)
 - [Caliban](#caliban)
@@ -109,7 +133,7 @@
 - [Ibutho](#ibutho)
 </details>
 <details>
-<summary>SSC</summary>
+<summary>SSC - Smith Shimano Corpro</summary>
 
 - [Atlas](#atlas)
 - [Black_witch](#black_witch)
@@ -180,6 +204,20 @@
 - [White_witch](#white_witch)
 </details>
 <details>
+<summary>Grimm & Sons</summary>
+
+- [Anansi](#anansi)
+- [Bunyan](#bunyan)
+- [Dorothy](#dorothy)
+- [Jack](#jack)
+- [John henry](#john-henry)
+- [Magarac](#magarac)
+- [Max](#max)
+- [Orlando](#orlando)
+- [Scheherazade](#scheherazade)
+- [Volk](#volk)
+</details>
+<details>
 <summary>Long Rim</summary>
 
 - [Atlas](#atlas)
@@ -205,6 +243,20 @@
 
 <summary>Mechs by Author</summary>
 
+<details>
+<summary>Delilah Worthy</summary>
+
+- [Anansi](#anansi)
+- [Bunyan](#bunyan)
+- [Dorothy](#dorothy)
+- [Jack](#jack)
+- [John henry](#john-henry)
+- [Magarac](#magarac)
+- [Max](#max)
+- [Orlando](#orlando)
+- [Scheherazade](#scheherazade)
+- [Volk](#volk)
+</details>
 <details>
 <summary>Massif Press</summary>
 
@@ -261,9 +313,30 @@
 </details>
 
 -------
+### Anansi
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Control Sniper
+
+- Cling on walls
+
+- Good at hiding and using terrain
+
+- Spread spiderweb traps and fire on people who touch them
+
+<img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ1MDcuanBn/original/npwuJJ.jpg" width="500"/>
+
+</details>
+
+-------
 ### Atlas
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Long Rim
 
@@ -337,7 +410,7 @@ Author: Massif Press
 -------
 ### Barbarossa
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: Core Book
 
@@ -379,7 +452,7 @@ Author: Massif Press
 -------
 ### Black witch
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Core Book
 
@@ -418,7 +491,7 @@ Author: Massif Press
 -------
 ### Blackbeard
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Core Book
 
@@ -460,6 +533,25 @@ Author: Massif Press
 </details>
 
 -------
+### Bunyan
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Utterly massive defender
+
+- Very slow
+
+- BABE forcefield drone
+
+<img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTEuanBn/original/nDZtN4.jpg" width="500"/>
+
+</details>
+
+-------
 ### Calendula
 
 Corp: HORUS
@@ -495,7 +587,7 @@ Author: Massif Press
 -------
 ### Caliban
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Long Rim
 
@@ -529,7 +621,7 @@ Author: Massif Press
 -------
 ### Death's head
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Core Book
 
@@ -564,9 +656,30 @@ Author: Massif Press
 </details>
 
 -------
+### Dorothy
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Combat support
+
+- Search and rescue
+
+- Immune to environment damage
+
+- Nanite healing
+
+<img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTIuanBn/original/Tw%2BCnV.jpg" width="500"/>
+
+</details>
+
+-------
 ### Drake
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Core Book
 
@@ -601,7 +714,7 @@ Author: Massif Press
 -------
 ### Dusk wing
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Core Book
 
@@ -636,7 +749,7 @@ Author: Massif Press
 -------
 ### Emperor
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Field Guide: The Karrakin Trade Baronies
 
@@ -659,7 +772,7 @@ Author: Massif Press
 -------
 ### Enkidu
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: No Room for a Wallflower
 
@@ -686,7 +799,7 @@ Author: Massif Press
 -------
 ### Everest
 
-Corp: GMS
+Corp: GMS - General Massive Systems
 
 Source: Core Book
 
@@ -808,7 +921,7 @@ Source: Unknown.
 -------
 ### Genghis
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: Core Book
 
@@ -841,7 +954,7 @@ Author: Massif Press
 -------
 ### Genghis worldkiller
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: No Room for a Wallflower
 
@@ -1000,7 +1113,7 @@ Source: NHP-SHAKA
 -------
 ### Iskander
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: Core Book
 
@@ -1031,9 +1144,51 @@ Author: Massif Press
 </details>
 
 -------
+### Jack
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Giant Killer
+
+- Agile all-rounder
+
+- Scout and Skirmish
+
+- Plasma weapons - Can be buffed with limited ammo
+
+<img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTUuanBn/original/2DwTvs.jpg" width="500"/>
+
+</details>
+
+-------
+### John henry
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- A Mighty Woman
+
+- Heavy melee - Built-in giant hammer
+
+- Huge blows, knock prone
+
+- Overheat in the process
+
+<img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTcuanBn/original/K73D9j.jpg" width="500"/>
+
+</details>
+
+-------
 ### Kidd
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: No Room for a Wallflower
 
@@ -1096,7 +1251,7 @@ Author: Massif Press
 -------
 ### Lancaster
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Core Book
 
@@ -1152,6 +1307,25 @@ Author: Massif Press
 </details>
 
 -------
+### Magarac
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Walking fortress-factory
+
+- Repair allies, even after their death
+
+- Slow, limited resources
+
+<img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTYuanBn/original/V7B071.jpg" width="500"/>
+
+</details>
+
+-------
 ### Manticore
 
 Corp: HORUS
@@ -1192,9 +1366,28 @@ Author: Massif Press
 </details>
 
 -------
+### Max
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Ram people around
+
+- Automatically destroy low health targets
+
+- Counterattack reactions
+
+- 'A dirge for the Fall of mankind'
+
+</details>
+
+-------
 ### Metalmark
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Core Book
 
@@ -1250,7 +1443,7 @@ Author: Massif Press
 -------
 ### Monarch
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Core Book
 
@@ -1294,7 +1487,7 @@ Author: Massif Press
 -------
 ### Mourning cloak
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Core Book
 
@@ -1335,7 +1528,7 @@ Source: Unknown.
 -------
 ### Napoleon
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: Core Book
 
@@ -1364,7 +1557,7 @@ Author: Massif Press
 -------
 ### Nelson
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Core Book
 
@@ -1399,7 +1592,7 @@ Author: Massif Press
 -------
 ### Orchis
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Field Guide: The Karrakin Trade Baronies
 
@@ -1415,6 +1608,27 @@ Author: Massif Press
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=OCME2FhXdLw&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=43
+</details>
+
+-------
+### Orlando
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Linebreaker
+
+- Knight in shining armor
+
+- Charge through people
+
+- Uncontrolled wild movement
+
+<img src="https://i.pinimg.com/originals/e4/72/93/e47293978e2956008ea5f642721b63a9.jpg" width="500"/>
+
 </details>
 
 -------
@@ -1451,7 +1665,7 @@ Author: Massif Press
 -------
 ### Raleigh
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Core Book
 
@@ -1491,7 +1705,7 @@ Author: Massif Press
 -------
 ### Sagarmatha
 
-Corp: GMS
+Corp: GMS - General Massive Systems
 
 Source: No Room for a Wallflower
 
@@ -1528,7 +1742,7 @@ Source: kaffeezombie
 -------
 ### Saladin
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: Core Book
 
@@ -1566,9 +1780,30 @@ Author: Massif Press
 </details>
 
 -------
+### Scheherazade
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Battlefield Control
+
+- Terribly fragile, but with dodge chance
+
+- Place mines for free at start of battle
+
+- Weird control abilities, like reversing accuracy and disadvantage
+
+<img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTMuanBn/original/lwgDu6.jpg" width="500"/>
+
+</details>
+
+-------
 ### Sherman
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: Core Book
 
@@ -1603,7 +1838,7 @@ Author: Massif Press
 -------
 ### Sunzi
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: Long Rim
 
@@ -1635,7 +1870,7 @@ Author: Massif Press
 -------
 ### Swallowtail
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Core Book
 
@@ -1677,7 +1912,7 @@ Author: Massif Press
 -------
 ### Swallowtail ranger
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Core Book
 
@@ -1696,7 +1931,7 @@ Author: Massif Press
 -------
 ### Tokugawa
 
-Corp: HA
+Corp: HA - Harisson Armory
 
 Source: Core Book
 
@@ -1780,7 +2015,7 @@ Source: Unknown.
 -------
 ### Tortuga
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Core Book
 
@@ -1815,7 +2050,7 @@ Author: Massif Press
 -------
 ### Vlad
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Core Book
 
@@ -1846,9 +2081,28 @@ Author: Massif Press
 </details>
 
 -------
+### Volk
+
+Corp: G&S - Grimm & Sons
+
+Source: Grimm & Sons
+
+Author: Delilah Worthy
+
+- Wolven HunterKnockoff Blackbeard
+
+- Speedy Brawler
+
+- Hot-rod engine powering chainsaws
+
+<img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTQuanBn/original/W4D8f9.jpg" width="500"/>
+
+</details>
+
+-------
 ### White witch
 
-Corp: SSC
+Corp: SSC - Smith Shimano Corpro
 
 Source: Field Guide: The Karrakin Trade Baronies
 
@@ -1869,7 +2123,7 @@ Author: Massif Press
 -------
 ### Zheng
 
-Corp: IPSN
+Corp: IPSN - Interplanetary Shipping Northstar
 
 Source: Long Rim
 
