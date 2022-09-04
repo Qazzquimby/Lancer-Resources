@@ -563,6 +563,7 @@ class Mechs:
         ],
     )
 
+    # region MFECANE
     IBUTHO = Mech(
         name="ibutho",
         corp=Corps.MFECANE,
@@ -572,8 +573,52 @@ class Mechs:
             "https://preview.redd.it/dgnj8y0n51q61.png?width=512&format=png&auto=webp&s=db1d0ba19fa81acd625a801898c1a4f48fab279d",
             "https://preview.redd.it/fga3361n51q61.png?width=512&format=png&auto=webp&s=f25b79691edd1b70dabf504f33612ff2cfe1d754",
         ],
+        summary=[
+            "Berserk when close to death",
+            "Loves ramming and knocking people prone",
+            "Tactical flexibility",
+            "Can't take other NHPs",
+        ],
     )
+    GROOTSLANG = Mech(
+        name="grootslang",
+        corp=Corps.MFECANE,
+        source=Sources.MFECANE,
+        author=Authors.NHP_SHAKA,
+        image_path="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MjAucG5n/original/n64DbK.png",
+        summary=[
+            "Enormous slow team support",
+            "Guard and buff firepower of nearby allies",
+        ],
+    )
+    AMADLOZI = Mech(
+        name="amadlozi",
+        corp=Corps.MFECANE,
+        source=Sources.MFECANE,
+        author=Authors.NHP_SHAKA,
+        image_path="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MTgucG5n/original/%2FV4kya.png",
+        summary=[
+            "Terrain Architect Defender/Controller",
+            "Protect team from terrain",
+            "Frustrate the GM by redrawing their map",
+        ],
+    )
+    CETSHWAYO = Mech(
+        name="cetshwayo",
+        corp=Corps.MFECANE,
+        source=Sources.MFECANE,
+        author=Authors.NHP_SHAKA,
+        image_path="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MTkucG5n/original/3nbT3l.png",
+        summary=[
+            "Artillery/Controller",
+            "Tiny fragile speedster",
+            "Launcher weapons and repositioning",
+            "Buffed from taking heat",
+        ],
+    )
+    # endregion
 
+    # region Grimm
     JOHN_HENRY = Mech(
         name="john henry",
         corp=Corps.GRIMM,
@@ -696,6 +741,7 @@ class Mechs:
             "Weird control abilities, like reversing accuracy and disadvantage",
         ],
     )
+    # endregion
 
 
 MECHS: list[Mech] = list_content(Mechs)

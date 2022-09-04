@@ -2,6 +2,7 @@
 
 <summary>All Mechs</summary>
 
+- [Amadlozi](#amadlozi)
 - [Anansi](#anansi)
 - [Atlas](#atlas)
 - [Balor](#balor)
@@ -11,6 +12,7 @@
 - [Bunyan](#bunyan)
 - [Calendula](#calendula)
 - [Caliban](#caliban)
+- [Cetshwayo](#cetshwayo)
 - [Death's head](#deaths-head)
 - [Dorothy](#dorothy)
 - [Drake](#drake)
@@ -22,6 +24,7 @@
 - [Genghis worldkiller](#genghis-worldkiller)
 - [Goblin](#goblin)
 - [Gorgon](#gorgon)
+- [Grootslang](#grootslang)
 - [Hydra](#hydra)
 - [Ibutho](#ibutho)
 - [Iskander](#iskander)
@@ -130,6 +133,9 @@
 <details>
 <summary>MFECANE</summary>
 
+- [Amadlozi](#amadlozi)
+- [Cetshwayo](#cetshwayo)
+- [Grootslang](#grootslang)
 - [Ibutho](#ibutho)
 </details>
 <details>
@@ -193,6 +199,9 @@
 <details>
 <summary>Field Guide: Mfecane</summary>
 
+- [Amadlozi](#amadlozi)
+- [Cetshwayo](#cetshwayo)
+- [Grootslang](#grootslang)
 - [Ibutho](#ibutho)
 </details>
 <details>
@@ -308,8 +317,32 @@
 <details>
 <summary>NHP-SHAKA</summary>
 
+- [Amadlozi](#amadlozi)
+- [Cetshwayo](#cetshwayo)
+- [Grootslang](#grootslang)
 - [Ibutho](#ibutho)
 </details>
+</details>
+
+-------
+### Amadlozi
+
+Corp: MFECANE
+
+Source: Field Guide: Mfecane
+
+Author: NHP-SHAKA
+
+- Terrain Architect Defender/Controller
+
+- Protect team from terrain
+
+- Frustrate the GM by redrawing their map
+
+<img src="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MTgucG5n/original/%2FV4kya.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=S0KDE1AMmXk&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=40&t=13s
 </details>
 
 -------
@@ -616,6 +649,29 @@ Author: Massif Press
 
 [Source](https://twitter.com/LymphOwned/status/1564342981804670981)
 
+</details>
+
+-------
+### Cetshwayo
+
+Corp: MFECANE
+
+Source: Field Guide: Mfecane
+
+Author: NHP-SHAKA
+
+- Artillery/Controller
+
+- Tiny fragile speedster
+
+- Launcher weapons and repositioning
+
+- Buffed from taking heat
+
+<img src="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MTkucG5n/original/3nbT3l.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=dK83-PRbmn4&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=41
 </details>
 
 -------
@@ -1046,6 +1102,25 @@ Author: Massif Press
 </details>
 
 -------
+### Grootslang
+
+Corp: MFECANE
+
+Source: Field Guide: Mfecane
+
+Author: NHP-SHAKA
+
+- Enormous slow team support
+
+- Guard and buff firepower of nearby allies
+
+<img src="https://img.itch.zone/aW1hZ2UvOTc0Njk0LzgzNzE4MjAucG5n/original/n64DbK.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=QqMeB7cy_FI&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=39&t=35s
+</details>
+
+-------
 ### Hydra
 
 Corp: HORUS
@@ -1087,10 +1162,20 @@ Source: Field Guide: Mfecane
 
 Author: NHP-SHAKA
 
+- Berserk when close to death
+
+- Loves ramming and knocking people prone
+
+- Tactical flexibility
+
+- Can't take other NHPs
+
 <img src="https://preview.redd.it/dgnj8y0n51q61.png?width=512&format=png&auto=webp&s=db1d0ba19fa81acd625a801898c1a4f48fab279d" width="500"/>
 
 <img src="https://preview.redd.it/fga3361n51q61.png?width=512&format=png&auto=webp&s=f25b79691edd1b70dabf504f33612ff2cfe1d754" width="500"/>
 
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=nXI-9ThUNCs&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=38&t=200s
 <details>
 <summary>Images</summary>
 
@@ -1798,6 +1883,8 @@ Author: Delilah Worthy
 
 <img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTMuanBn/original/lwgDu6.jpg" width="500"/>
 
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=h6YoTaG8Srs&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=4
 </details>
 
 -------
