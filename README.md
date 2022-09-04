@@ -2,6 +2,7 @@
 
 <summary>All Mechs</summary>
 
+- [Agrippa](#agrippa)
 - [Amadlozi](#amadlozi)
 - [Anansi](#anansi)
 - [Atlas](#atlas)
@@ -13,10 +14,13 @@
 - [Calendula](#calendula)
 - [Caliban](#caliban)
 - [Cetshwayo](#cetshwayo)
+- [Charioteer](#charioteer)
+- [Comet](#comet)
 - [Death's head](#deaths-head)
 - [Dorothy](#dorothy)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
+- [Efreet](#efreet)
 - [Emperor](#emperor)
 - [Enkidu](#enkidu)
 - [Everest](#everest)
@@ -30,12 +34,15 @@
 - [Iskander](#iskander)
 - [Jack](#jack)
 - [John henry](#john-henry)
+- [Kalista](#kalista)
+- [Kallarani](#kallarani)
 - [Kidd](#kidd)
 - [Kobold](#kobold)
 - [Lancaster](#lancaster)
 - [Lich](#lich)
 - [Magarac](#magarac)
 - [Manticore](#manticore)
+- [Matador](#matador)
 - [Max](#max)
 - [Metalmark](#metalmark)
 - [Minotaur](#minotaur)
@@ -46,8 +53,12 @@
 - [Orchis](#orchis)
 - [Orlando](#orlando)
 - [Pegasus](#pegasus)
+- [Pesilat](#pesilat)
 - [Raleigh](#raleigh)
+- [Retiarius](#retiarius)
+- [Sabreur](#sabreur)
 - [Sagarmatha](#sagarmatha)
+- [Sagittarius](#sagittarius)
 - [Saladin](#saladin)
 - [Scheherazade](#scheherazade)
 - [Sherman](#sherman)
@@ -59,6 +70,7 @@
 - [Vlad](#vlad)
 - [Volk](#volk)
 - [White_witch](#white_witch)
+- [Worden](#worden)
 - [Zheng](#zheng)
 </details>
 
@@ -68,6 +80,18 @@
 
 <summary>Mechs by Corp</summary>
 
+<details>
+<summary>C&H - Chandrasekhar & Herschel Ltd.</summary>
+
+- [Charioteer](#charioteer)
+- [Kalista](#kalista)
+- [Kallarani](#kallarani)
+- [Matador](#matador)
+- [Pesilat](#pesilat)
+- [Retiarius](#retiarius)
+- [Sabreur](#sabreur)
+- [Sagittarius](#sagittarius)
+</details>
 <details>
 <summary>G&S - Grimm & Sons</summary>
 
@@ -91,6 +115,7 @@
 <details>
 <summary>HA - Harisson Armory</summary>
 
+- [Agrippa](#agrippa)
 - [Barbarossa](#barbarossa)
 - [Enkidu](#enkidu)
 - [Genghis](#genghis)
@@ -107,6 +132,7 @@
 
 - [Balor](#balor)
 - [Calendula](#calendula)
+- [Efreet](#efreet)
 - [Goblin](#goblin)
 - [Gorgon](#gorgon)
 - [Hydra](#hydra)
@@ -128,6 +154,7 @@
 - [Raleigh](#raleigh)
 - [Tortuga](#tortuga)
 - [Vlad](#vlad)
+- [Worden](#worden)
 - [Zheng](#zheng)
 </details>
 <details>
@@ -143,6 +170,7 @@
 
 - [Atlas](#atlas)
 - [Black_witch](#black_witch)
+- [Comet](#comet)
 - [Death's head](#deaths-head)
 - [Dusk_wing](#dusk_wing)
 - [Emperor](#emperor)
@@ -165,6 +193,7 @@
 <details>
 <summary>Source(name='Core Book', author='Massif Press', url='https://massif-press.itch.io/corebook-pdf-free')</summary>
 
+- [Agrippa](#agrippa)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
 - [Black_witch](#black_witch)
@@ -172,6 +201,7 @@
 - [Death's head](#deaths-head)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
+- [Efreet](#efreet)
 - [Everest](#everest)
 - [Genghis](#genghis)
 - [Goblin](#goblin)
@@ -197,12 +227,26 @@
 - [Vlad](#vlad)
 </details>
 <details>
-<summary>Source(name='Field Guide: Mfecane', author='NHP-SHAKA', url='https://nhp-shaka.itch.io/mfecane-field-guide')</summary>
+<summary>Source(name='Field Guide to Mfecane', author='NHP-SHAKA', url='https://nhp-shaka.itch.io/mfecane-field-guide')</summary>
 
 - [Amadlozi](#amadlozi)
 - [Cetshwayo](#cetshwayo)
 - [Grootslang](#grootslang)
 - [Ibutho](#ibutho)
+</details>
+<details>
+<summary>Source(name='Field Guide to Suldan', author='Kai Tave', url='https://kaitave.itch.io/field-guide-to-suldan')</summary>
+
+- [Charioteer](#charioteer)
+- [Comet](#comet)
+- [Kalista](#kalista)
+- [Kallarani](#kallarani)
+- [Matador](#matador)
+- [Pesilat](#pesilat)
+- [Retiarius](#retiarius)
+- [Sabreur](#sabreur)
+- [Sagittarius](#sagittarius)
+- [Worden](#worden)
 </details>
 <details>
 <summary>Source(name='Field Guide: The Karrakin Trade Baronies', author='Massif Press', url='https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies')</summary>
@@ -267,8 +311,23 @@
 - [Volk](#volk)
 </details>
 <details>
+<summary>Kai Tave</summary>
+
+- [Charioteer](#charioteer)
+- [Comet](#comet)
+- [Kalista](#kalista)
+- [Kallarani](#kallarani)
+- [Matador](#matador)
+- [Pesilat](#pesilat)
+- [Retiarius](#retiarius)
+- [Sabreur](#sabreur)
+- [Sagittarius](#sagittarius)
+- [Worden](#worden)
+</details>
+<details>
 <summary>Massif Press</summary>
 
+- [Agrippa](#agrippa)
 - [Atlas](#atlas)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
@@ -279,6 +338,7 @@
 - [Death's head](#deaths-head)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
+- [Efreet](#efreet)
 - [Emperor](#emperor)
 - [Enkidu](#enkidu)
 - [Everest](#everest)
@@ -325,11 +385,34 @@
 </details>
 
 -------
+### Agrippa
+
+Corp: HA - Harisson Armory
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Defensive Construction/Support
+
+- Combat engineer - Build structures like bridges and traps
+
+- Repair allies
+
+- Be a crane
+
+- Extremely versatile helper drone
+
+<img src="https://i.gyazo.com/cc891096eedab824f8116776d1bc2081.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=1q0SN67d8qI&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=34
+</details>
+
+-------
 ### Amadlozi
 
 Corp: MFECANE
 
-Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
+Source: [Field Guide to Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
 
 - Terrain Architect Defender/Controller
 
@@ -636,7 +719,7 @@ Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press
 
 Corp: MFECANE
 
-Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
+Source: [Field Guide to Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
 
 - Artillery/Controller
 
@@ -650,6 +733,50 @@ Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), b
 
 #### Mechanic Brewery, Lancer Homebrew
 - https://www.youtube.com/watch?v=dK83-PRbmn4&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=41
+</details>
+
+-------
+### Charioteer
+
+Corp: C&H - Chandrasekhar & Herschel Ltd.
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- Mach-speed Reconnaissance
+
+- High-speed daredevil
+
+- Close range targeting
+
+- Unmatched mobility
+
+- Support
+
+<img src="https://img.itch.zone/aW1hZ2UvODc3NzY1LzQ5Mzk4MjYucG5n/original/mkCaE7.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=J0xi_T7ohRs&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=6&t=18s
+</details>
+
+-------
+### Comet
+
+Corp: SSC - Smith Shimano Corpro
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- High SPeed Air Intercept/Support
+
+- Aerial gunship
+
+- Smart weapons
+
+- Lock on to everything
+
+<img src="https://img.itch.zone/aW1hZ2UvODc3NzY1LzQ5Mzk4MjkucG5n/original/%2FD8UyO.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=8dA0uplxt8U&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=32
 </details>
 
 -------
@@ -770,6 +897,25 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+</details>
+
+-------
+### Efreet
+
+Corp: HORUS
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Hypermobile close-protection/Rapid response
+
+- Close range teleporting defender
+
+- Space manipulation
+
+<img src="https://i.gyazo.com/5622a14616fd0bea8126cf6f110e0df4.jpg" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=sTwBED0DYPQ&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=30
 </details>
 
 -------
@@ -1062,7 +1208,7 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 Corp: MFECANE
 
-Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
+Source: [Field Guide to Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
 
 - Enormous slow team support
 
@@ -1110,7 +1256,7 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 Corp: MFECANE
 
-Source: [Field Guide: Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
+Source: [Field Guide to Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide), by NHP-SHAKA 
 
 - Berserk when close to death
 
@@ -1212,6 +1358,44 @@ Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah 
 
 <img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTcuanBn/original/K73D9j.jpg" width="500"/>
 
+</details>
+
+-------
+### Kalista
+
+Corp: C&H - Chandrasekhar & Herschel Ltd.
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- Frontline Assault
+
+- Unstoppable Juggernaut
+
+- Brute force, huge hits
+
+<img src="https://img.itch.zone/aW1hZ2UvODc3NzY1LzQ5Mzk4MjcucG5n/original/7GMvGa.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=YLXJ8N_qdpQ&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=27
+</details>
+
+-------
+### Kallarani
+
+Corp: C&H - Chandrasekhar & Herschel Ltd.
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- CQB Armsmaster
+
+- Versatile Striker
+
+- Multifunction tools
+
+<img src="https://i.gyazo.com/a5a936e6ff701aaa7fad65183be314f0.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=M5_i9IAnmTs&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=28
 </details>
 
 -------
@@ -1380,6 +1564,23 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://theogm.artstation.com/projects/A9ABe5?album_id=5224111)
 
+</details>
+
+-------
+### Matador
+
+Corp: C&H - Chandrasekhar & Herschel Ltd.
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- Electronic Defense/SuperiorityAnti-electronic Defender
+
+- Malware
+
+<img src="https://i.gyazo.com/19500408a7311c3930fa51a0e1759ede.jpg" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=vktGjzAlUyM&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=36
 </details>
 
 -------
@@ -1660,6 +1861,25 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 </details>
 
 -------
+### Pesilat
+
+Corp: C&H - Chandrasekhar & Herschel Ltd.
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- Cyber-space Martial Arts
+
+- Striker/Controller
+
+- Melee hacker
+
+<img src="https://img.itch.zone/aW1hZ2UvODc3NzY1LzQ5Mzk4MjgucG5n/original/sPsxRY.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=exwhZsMK560&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=23
+</details>
+
+-------
 ### Raleigh
 
 Corp: IPSN - Interplanetary Shipping Northstar
@@ -1698,6 +1918,42 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 </details>
 
 -------
+### Retiarius
+
+Corp: C&H - Chandrasekhar & Herschel Ltd.
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- Mid-Range Suppression/SupportSturdy Controller
+
+- entangle enemies
+
+<img src="https://i.gyazo.com/756354db5c49ee126d03c441c6e8e4e6.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=JXR19Q02RnE&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=37
+</details>
+
+-------
+### Sabreur
+
+Corp: C&H - Chandrasekhar & Herschel Ltd.
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- Enrapturing Duelist
+
+- Precision melee striker
+
+- High single target damage
+
+<img src="https://i.gyazo.com/eaebe26830cb2a491ff74bb15504b122.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=mRSvyIgh89k&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=35
+</details>
+
+-------
 ### Sagarmatha
 
 Corp: GMS - General Massive Systems
@@ -1730,6 +1986,25 @@ Source: [No Room for a Wallflower](https://massif-press.itch.io/no-room-for-a-wa
 
 Source: kaffeezombie
 
+</details>
+
+-------
+### Sagittarius
+
+Corp: C&H - Chandrasekhar & Herschel Ltd.
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- Inflitration/Elimination
+
+- Elusive midrange archer
+
+- Assassinate from stealth
+
+<img src="https://i.gyazo.com/0c63ca0b5e2549f41dc7f461bcff473f.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=kZ6agtQUb_o&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=29
 </details>
 
 -------
@@ -2091,6 +2366,27 @@ Source: [Field Guide: The Karrakin Trade Baronies](https://massif-press.itch.io/
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=UrekNv1vw74&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=41
+</details>
+
+-------
+### Worden
+
+Corp: IPSN - Interplanetary Shipping Northstar
+
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
+
+- Overwhelming Fire-support Artillery
+
+- Long range suppression fire
+
+- The best defense
+
+- Stupid number of bullets
+
+<img src="https://i.gyazo.com/9972ca9bfe7a0e40d2f789526ff128f2.png" width="500"/>
+
+#### Mechanic Brewery, Lancer Homebrew
+- https://www.youtube.com/watch?v=K_VJq45CtYo&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=31
 </details>
 
 -------

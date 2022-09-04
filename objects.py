@@ -20,6 +20,7 @@ class Corps:
     HA = "HA - Harisson Armory"
     MFECANE = "MFECANE"
     GRIMM = "G&S - Grimm & Sons"
+    C_H = "C&H - Chandrasekhar & Herschel Ltd."
 
 
 CORPS: list[str] = list_content(Corps)
@@ -29,6 +30,7 @@ class Authors:
     MASSIF = "Massif Press"
     NHP_SHAKA = "NHP-SHAKA"
     DELILAH = "Delilah Worthy"
+    KAI_TAVE = "Kai Tave"
 
 
 AUTHORS: list[str] = list_content(Authors)
@@ -63,7 +65,7 @@ class Sources:
         url="https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies",
     )
     MFECANE = Source(
-        name="Field Guide: Mfecane",
+        name="Field Guide to Mfecane",
         author=Authors.NHP_SHAKA,
         url="https://nhp-shaka.itch.io/mfecane-field-guide",
     )
@@ -71,6 +73,11 @@ class Sources:
         name="Grimm & Sons",
         author=Authors.DELILAH,
         url="https://nightmareworks.itch.io/grimmandsons",
+    )
+    SULDAN = Source(
+        name="Field Guide to Suldan",
+        author=Authors.KAI_TAVE,
+        url="https://kaitave.itch.io/field-guide-to-suldan",
     )
 
 
@@ -104,6 +111,7 @@ class Mechs:
         source=Sources.WALLFLOWER,
         summary=["Fat Everest", "All-round defender"],
     )
+    # region massif IPSN
     BLACKBEARD = Mech(
         name="blackbeard",
         corp=Corps.IPSN,
@@ -216,7 +224,9 @@ class Mechs:
             "Throw people like a bowling ball",
         ],
     )
+    # endregion
 
+    # region massif SSC
     ATLAS = Mech(
         name="atlas",
         corp=Corps.SSC,
@@ -359,7 +369,9 @@ class Mechs:
             "Throwable shield",
         ],
     )
+    # endregion
 
+    # region massif HORUS
     BALOR = Mech(
         name="balor",
         corp=Corps.HORUS,
@@ -471,7 +483,9 @@ class Mechs:
             "Manipulate dice directly - tell them what to roll",
         ],
     )
+    # endregion
 
+    # region massif HA
     BARBAROSSA = Mech(
         name="barbarossa",
         corp=Corps.HA,
@@ -592,6 +606,7 @@ class Mechs:
             "Die in a blaze of glory",
         ],
     )
+    # endregion
 
     # region MFECANE
     IBUTHO = Mech(
@@ -755,6 +770,143 @@ class Mechs:
             "Terribly fragile, but with dodge chance",
             "Place mines for free at start of battle",
             "Weird control abilities, like reversing accuracy and disadvantage",
+        ],
+    )
+    # endregion
+
+    # region Suldan
+    CHARIOTEER = Mech(
+        name="charioteer",
+        corp=Corps.C_H,
+        source=Sources.SULDAN,
+        image_path="https://img.itch.zone/aW1hZ2UvODc3NzY1LzQ5Mzk4MjYucG5n/original/mkCaE7.png",
+        summary=[
+            "Mach-speed Reconnaissance",
+            "High-speed daredevil",
+            "Close range targeting",
+            "Unmatched mobility",
+            "Support",
+        ],
+    )
+    KALISTA = Mech(
+        name="kalista",
+        corp=Corps.C_H,
+        source=Sources.SULDAN,
+        image_path="https://img.itch.zone/aW1hZ2UvODc3NzY1LzQ5Mzk4MjcucG5n/original/7GMvGa.png",
+        summary=[
+            "Frontline Assault",
+            "Unstoppable Juggernaut",
+            "Brute force, huge hits",
+        ],
+    )
+    KALLARANI = Mech(
+        name="kallarani",
+        corp=Corps.C_H,
+        source=Sources.SULDAN,
+        image_path="https://i.gyazo.com/a5a936e6ff701aaa7fad65183be314f0.png",
+        summary=[
+            "CQB Armsmaster",
+            "Versatile Striker",
+            "Multifunction tools",
+        ],
+    )
+    MATADOR = Mech(
+        name="matador",
+        corp=Corps.C_H,
+        source=Sources.SULDAN,
+        image_path="https://i.gyazo.com/19500408a7311c3930fa51a0e1759ede.jpg",
+        summary=[
+            "Electronic Defense/Superiority" "Anti-electronic Defender",
+            "Malware",
+        ],
+    )
+    PESILAT = Mech(
+        name="pesilat",
+        corp=Corps.C_H,
+        source=Sources.SULDAN,
+        image_path="https://img.itch.zone/aW1hZ2UvODc3NzY1LzQ5Mzk4MjgucG5n/original/sPsxRY.png",
+        summary=[
+            "Cyber-space Martial Arts",
+            "Striker/Controller",
+            "Melee hacker",
+        ],
+    )
+    RETIARIUS = Mech(
+        name="retiarius",
+        corp=Corps.C_H,
+        source=Sources.SULDAN,
+        image_path="https://i.gyazo.com/756354db5c49ee126d03c441c6e8e4e6.png",
+        summary=[
+            "Mid-Range Suppression/Support" "Sturdy Controller",
+            "entangle enemies",
+        ],
+    )
+    SABREUR = Mech(
+        name="sabreur",
+        corp=Corps.C_H,
+        source=Sources.SULDAN,
+        image_path="https://i.gyazo.com/eaebe26830cb2a491ff74bb15504b122.png",
+        summary=[
+            "Enrapturing Duelist",
+            "Precision melee striker",
+            "High single target damage",
+        ],
+    )
+    SAGITTARIUS = Mech(
+        name="sagittarius",
+        corp=Corps.C_H,
+        source=Sources.SULDAN,
+        image_path="https://i.gyazo.com/0c63ca0b5e2549f41dc7f461bcff473f.png",
+        summary=[
+            "Inflitration/Elimination",
+            "Elusive midrange archer",
+            "Assassinate from stealth",
+        ],
+    )
+    WORDEN = Mech(
+        name="worden",
+        corp=Corps.IPSN,
+        source=Sources.SULDAN,
+        image_path="https://i.gyazo.com/9972ca9bfe7a0e40d2f789526ff128f2.png",
+        summary=[
+            "Overwhelming Fire-support Artillery",
+            "Long range suppression fire",
+            "The best defense",
+            "Stupid number of bullets",
+        ],
+    )
+    COMET = Mech(
+        name="comet",
+        corp=Corps.SSC,
+        source=Sources.SULDAN,
+        image_path="https://img.itch.zone/aW1hZ2UvODc3NzY1LzQ5Mzk4MjkucG5n/original/%2FD8UyO.png",
+        summary=[
+            "High SPeed Air Intercept/Support",
+            "Aerial gunship",
+            "Smart weapons",
+            "Lock on to everything",
+        ],
+    )
+    EFREET = Mech(
+        name="efreet",
+        corp=Corps.HORUS,
+        image_path="https://i.gyazo.com/5622a14616fd0bea8126cf6f110e0df4.jpg",
+        summary=[
+            "Hypermobile close-protection/Rapid response",
+            "Close range teleporting defender",
+            "Space manipulation",
+        ],
+    )
+    AGRIPPA = Mech(
+        name="agrippa",
+        corp=Corps.HA,
+        image_path="https://i.gyazo.com/cc891096eedab824f8116776d1bc2081.png",
+        summary=[
+            "Defensive Construction/Support",
+            "Combat engineer - Build structures like bridges and traps",
+            "Repair allies",
+            "Be a crane",
+            "Extremely versatile helper drone",
         ],
     )
     # endregion
