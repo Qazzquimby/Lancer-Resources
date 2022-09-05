@@ -21,6 +21,7 @@ class Corps:
     MFECANE = "MFECANE"
     GRIMM = "G&S - Grimm & Sons"
     C_H = "C&H - Chandrasekhar & Herschel Ltd."
+    INTERCORP = "Intercorp"
 
 
 CORPS: list[str] = list_content(Corps)
@@ -31,6 +32,7 @@ class Authors:
     NHP_SHAKA = "NHP-SHAKA"
     DELILAH = "Delilah Worthy"
     KAI_TAVE = "Kai Tave"
+    ITERPOINT = "Interpoint Station"
 
 
 AUTHORS: list[str] = list_content(Authors)
@@ -78,6 +80,11 @@ class Sources:
         name="Field Guide to Suldan",
         author=Authors.KAI_TAVE,
         url="https://kaitave.itch.io/field-guide-to-suldan",
+    )
+    INTERCORP = Source(
+        name="Intercorp",
+        author=Authors.ITERPOINT,
+        url="https://interpoint-station.itch.io/intercorp",
     )
 
 
@@ -909,6 +916,98 @@ class Mechs:
             "Extremely versatile helper drone",
         ],
     )
+    # endregion
+
+    # region Interpoint
+    ACASTUS = Mech(
+        name="acastus",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk2MjYucG5n/original/g%2Bjg7F.png",
+        summary=[
+            "Vicious close combat",
+            "Destroy and regenerate your weapons for profit",
+            "So many blades",
+        ],
+    )
+    ARGUS = Mech(
+        name="argus",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU1NTY3NDIucG5n/original/boifhT.png",
+        summary=[
+            "Sniper with a 'Bloodhound' drone",
+            "Pet class teamwork",
+            "Walk around on stilts",
+        ],
+    )
+    ATLANTA = Mech(
+        name="atlanta",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk1MDAucG5n/original/%2FoL3ZF.png",
+        summary=[
+            "Time manipulation",
+            "Be in multiple places at once",
+            "Replay actions you took",
+            "Rewind people",
+        ],
+    )
+    CORONUS = Mech(
+        name="coronus",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk1ODMucG5n/original/ydzH6g.png",
+        summary=[
+            "Luck manipulation",
+            "Play casino mini-games in combat",
+            "Pushing your luck and making risky plays",
+        ],
+    )
+    HERACLES = Mech(
+        name="heracles",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk0NzIucG5n/original/n%2FLHAw.png",
+        summary=[
+            "Highly flexible, toggling powerful systems on and off",
+            "Each turn, pick one stat to be good at",
+            "Heat attacks",
+        ],
+    )
+    NESTOR = Mech(
+        name="nestor",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU0MzYzNjQucG5n/original/tm2TA0.png",
+        summary=[
+            "Durable frontline all-rounder",
+            "Many small tactical options",
+        ],
+    )
+    POLLUX = Mech(
+        name="pollux",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU0MzYzNjMucG5n/original/nSeIyl.png",
+        summary=[
+            "Melt everything around you",
+            "Tank heat",
+            "Powered by a tiny star",
+        ],
+    )
+    ORPHEUS = Mech(
+        name="orpheus",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzYxNjk5NjkucG5n/original/5h%2BexB.png",
+        summary=[
+            "Jockey other mechs and buff/debuff them",
+        ],
+    )
+    THESEUS = Mech(
+        name="theseus",
+        corp=Corps.INTERCORP,
+        image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk0ODAucG5n/original/huJi17.png",
+        summary=[
+            "Area denial and support",
+            "Spread hard cover crystals",
+            "Detonate crystals to damage enemies and shield allies",
+        ],
+    )
+
     # endregion
 
 

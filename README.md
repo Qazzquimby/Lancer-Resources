@@ -2,9 +2,12 @@
 
 <summary>All Mechs</summary>
 
+- [Acastus](#acastus)
 - [Agrippa](#agrippa)
 - [Amadlozi](#amadlozi)
 - [Anansi](#anansi)
+- [Argus](#argus)
+- [Atlanta](#atlanta)
 - [Atlas](#atlas)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
@@ -16,6 +19,7 @@
 - [Cetshwayo](#cetshwayo)
 - [Charioteer](#charioteer)
 - [Comet](#comet)
+- [Coronus](#coronus)
 - [Death's head](#deaths-head)
 - [Dorothy](#dorothy)
 - [Drake](#drake)
@@ -29,6 +33,7 @@
 - [Goblin](#goblin)
 - [Gorgon](#gorgon)
 - [Grootslang](#grootslang)
+- [Heracles](#heracles)
 - [Hydra](#hydra)
 - [Ibutho](#ibutho)
 - [Iskander](#iskander)
@@ -50,10 +55,13 @@
 - [Mourning_cloak](#mourning_cloak)
 - [Napoleon](#napoleon)
 - [Nelson](#nelson)
+- [Nestor](#nestor)
 - [Orchis](#orchis)
 - [Orlando](#orlando)
+- [Orpheus](#orpheus)
 - [Pegasus](#pegasus)
 - [Pesilat](#pesilat)
+- [Pollux](#pollux)
 - [Raleigh](#raleigh)
 - [Retiarius](#retiarius)
 - [Sabreur](#sabreur)
@@ -65,6 +73,7 @@
 - [Sunzi](#sunzi)
 - [Swallowtail](#swallowtail)
 - [Swallowtail_ranger](#swallowtail_ranger)
+- [Theseus](#theseus)
 - [Tokugawa](#tokugawa)
 - [Tortuga](#tortuga)
 - [Vlad](#vlad)
@@ -158,6 +167,19 @@
 - [Zheng](#zheng)
 </details>
 <details>
+<summary>Intercorp</summary>
+
+- [Acastus](#acastus)
+- [Argus](#argus)
+- [Atlanta](#atlanta)
+- [Coronus](#coronus)
+- [Heracles](#heracles)
+- [Nestor](#nestor)
+- [Orpheus](#orpheus)
+- [Pollux](#pollux)
+- [Theseus](#theseus)
+</details>
+<details>
 <summary>MFECANE</summary>
 
 - [Amadlozi](#amadlozi)
@@ -193,11 +215,15 @@
 <details>
 <summary>Source(name='Core Book', author='Massif Press', url='https://massif-press.itch.io/corebook-pdf-free')</summary>
 
+- [Acastus](#acastus)
 - [Agrippa](#agrippa)
+- [Argus](#argus)
+- [Atlanta](#atlanta)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
 - [Black_witch](#black_witch)
 - [Blackbeard](#blackbeard)
+- [Coronus](#coronus)
 - [Death's head](#deaths-head)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
@@ -206,6 +232,7 @@
 - [Genghis](#genghis)
 - [Goblin](#goblin)
 - [Gorgon](#gorgon)
+- [Heracles](#heracles)
 - [Hydra](#hydra)
 - [Iskander](#iskander)
 - [Lancaster](#lancaster)
@@ -216,12 +243,16 @@
 - [Mourning_cloak](#mourning_cloak)
 - [Napoleon](#napoleon)
 - [Nelson](#nelson)
+- [Nestor](#nestor)
+- [Orpheus](#orpheus)
 - [Pegasus](#pegasus)
+- [Pollux](#pollux)
 - [Raleigh](#raleigh)
 - [Saladin](#saladin)
 - [Sherman](#sherman)
 - [Swallowtail](#swallowtail)
 - [Swallowtail_ranger](#swallowtail_ranger)
+- [Theseus](#theseus)
 - [Tokugawa](#tokugawa)
 - [Tortuga](#tortuga)
 - [Vlad](#vlad)
@@ -271,6 +302,10 @@
 - [Volk](#volk)
 </details>
 <details>
+<summary>Source(name='Intercorp', author='Interpoint Station', url='https://interpoint-station.itch.io/intercorp')</summary>
+
+</details>
+<details>
 <summary>Source(name='Long Rim', author='Massif Press', url='https://massif-press.itch.io/the-long-rim')</summary>
 
 - [Atlas](#atlas)
@@ -311,6 +346,10 @@
 - [Volk](#volk)
 </details>
 <details>
+<summary>Interpoint Station</summary>
+
+</details>
+<details>
 <summary>Kai Tave</summary>
 
 - [Charioteer](#charioteer)
@@ -327,7 +366,10 @@
 <details>
 <summary>Massif Press</summary>
 
+- [Acastus](#acastus)
 - [Agrippa](#agrippa)
+- [Argus](#argus)
+- [Atlanta](#atlanta)
 - [Atlas](#atlas)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
@@ -335,6 +377,7 @@
 - [Blackbeard](#blackbeard)
 - [Calendula](#calendula)
 - [Caliban](#caliban)
+- [Coronus](#coronus)
 - [Death's head](#deaths-head)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
@@ -346,6 +389,7 @@
 - [Genghis worldkiller](#genghis-worldkiller)
 - [Goblin](#goblin)
 - [Gorgon](#gorgon)
+- [Heracles](#heracles)
 - [Hydra](#hydra)
 - [Iskander](#iskander)
 - [Kidd](#kidd)
@@ -359,8 +403,11 @@
 - [Mourning_cloak](#mourning_cloak)
 - [Napoleon](#napoleon)
 - [Nelson](#nelson)
+- [Nestor](#nestor)
 - [Orchis](#orchis)
+- [Orpheus](#orpheus)
 - [Pegasus](#pegasus)
+- [Pollux](#pollux)
 - [Raleigh](#raleigh)
 - [Sagarmatha](#sagarmatha)
 - [Saladin](#saladin)
@@ -368,6 +415,7 @@
 - [Sunzi](#sunzi)
 - [Swallowtail](#swallowtail)
 - [Swallowtail_ranger](#swallowtail_ranger)
+- [Theseus](#theseus)
 - [Tokugawa](#tokugawa)
 - [Tortuga](#tortuga)
 - [Vlad](#vlad)
@@ -382,6 +430,23 @@
 - [Grootslang](#grootslang)
 - [Ibutho](#ibutho)
 </details>
+</details>
+
+-------
+### Acastus
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Vicious close combat
+
+- Destroy and regenerate your weapons for profit
+
+- So many blades
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk2MjYucG5n/original/g%2Bjg7F.png" width="500"/>
+
 </details>
 
 -------
@@ -442,6 +507,42 @@ Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah 
 - Spread spiderweb traps and fire on people who touch them
 
 <img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ1MDcuanBn/original/npwuJJ.jpg" width="500"/>
+
+</details>
+
+-------
+### Argus
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Sniper with a 'Bloodhound' drone
+
+- Pet class teamwork
+
+- Walk around on stilts
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU1NTY3NDIucG5n/original/boifhT.png" width="500"/>
+
+</details>
+
+-------
+### Atlanta
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Time manipulation
+
+- Be in multiple places at once
+
+- Replay actions you took
+
+- Rewind people
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk1MDAucG5n/original/%2FoL3ZF.png" width="500"/>
 
 </details>
 
@@ -777,6 +878,23 @@ Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), 
 
 #### Mechanic Brewery, Lancer Homebrew
 - https://www.youtube.com/watch?v=8dA0uplxt8U&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=32
+</details>
+
+-------
+### Coronus
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Luck manipulation
+
+- Play casino mini-games in combat
+
+- Pushing your luck and making risky plays
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk1ODMucG5n/original/ydzH6g.png" width="500"/>
+
 </details>
 
 -------
@@ -1218,6 +1336,23 @@ Source: [Field Guide to Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide),
 
 #### Mechanic Brewery, Lancer Homebrew
 - https://www.youtube.com/watch?v=QqMeB7cy_FI&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=39&t=35s
+</details>
+
+-------
+### Heracles
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Highly flexible, toggling powerful systems on and off
+
+- Each turn, pick one stat to be good at
+
+- Heat attacks
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk0NzIucG5n/original/n%2FLHAw.png" width="500"/>
+
 </details>
 
 -------
@@ -1794,6 +1929,21 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 </details>
 
 -------
+### Nestor
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Durable frontline all-rounder
+
+- Many small tactical options
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU0MzYzNjQucG5n/original/tm2TA0.png" width="500"/>
+
+</details>
+
+-------
 ### Orchis
 
 Corp: SSC - Smith Shimano Corpro
@@ -1828,6 +1978,19 @@ Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah 
 - Uncontrolled wild movement
 
 <img src="https://i.pinimg.com/originals/e4/72/93/e47293978e2956008ea5f642721b63a9.jpg" width="500"/>
+
+</details>
+
+-------
+### Orpheus
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Jockey other mechs and buff/debuff them
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzYxNjk5NjkucG5n/original/5h%2BexB.png" width="500"/>
 
 </details>
 
@@ -1877,6 +2040,23 @@ Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), 
 
 #### Mechanic Brewery, Lancer Homebrew
 - https://www.youtube.com/watch?v=exwhZsMK560&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=23
+</details>
+
+-------
+### Pollux
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Melt everything around you
+
+- Tank heat
+
+- Powered by a tiny star
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU0MzYzNjMucG5n/original/nSeIyl.png" width="500"/>
+
 </details>
 
 -------
@@ -2184,6 +2364,23 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=dPh19Z_jj8I&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=39&
+</details>
+
+-------
+### Theseus
+
+Corp: Intercorp
+
+Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+
+- Area denial and support
+
+- Spread hard cover crystals
+
+- Detonate crystals to damage enemies and shield allies
+
+<img src="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk0ODAucG5n/original/huJi17.png" width="500"/>
+
 </details>
 
 -------
