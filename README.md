@@ -215,15 +215,11 @@
 <details>
 <summary>Source(name='Core Book', author='Massif Press', url='https://massif-press.itch.io/corebook-pdf-free')</summary>
 
-- [Acastus](#acastus)
 - [Agrippa](#agrippa)
-- [Argus](#argus)
-- [Atlanta](#atlanta)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
 - [Black_witch](#black_witch)
 - [Blackbeard](#blackbeard)
-- [Coronus](#coronus)
 - [Death's head](#deaths-head)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
@@ -232,7 +228,6 @@
 - [Genghis](#genghis)
 - [Goblin](#goblin)
 - [Gorgon](#gorgon)
-- [Heracles](#heracles)
 - [Hydra](#hydra)
 - [Iskander](#iskander)
 - [Lancaster](#lancaster)
@@ -243,16 +238,12 @@
 - [Mourning_cloak](#mourning_cloak)
 - [Napoleon](#napoleon)
 - [Nelson](#nelson)
-- [Nestor](#nestor)
-- [Orpheus](#orpheus)
 - [Pegasus](#pegasus)
-- [Pollux](#pollux)
 - [Raleigh](#raleigh)
 - [Saladin](#saladin)
 - [Sherman](#sherman)
 - [Swallowtail](#swallowtail)
 - [Swallowtail_ranger](#swallowtail_ranger)
-- [Theseus](#theseus)
 - [Tokugawa](#tokugawa)
 - [Tortuga](#tortuga)
 - [Vlad](#vlad)
@@ -304,6 +295,15 @@
 <details>
 <summary>Source(name='Intercorp', author='Interpoint Station', url='https://interpoint-station.itch.io/intercorp')</summary>
 
+- [Acastus](#acastus)
+- [Argus](#argus)
+- [Atlanta](#atlanta)
+- [Coronus](#coronus)
+- [Heracles](#heracles)
+- [Nestor](#nestor)
+- [Orpheus](#orpheus)
+- [Pollux](#pollux)
+- [Theseus](#theseus)
 </details>
 <details>
 <summary>Source(name='Long Rim', author='Massif Press', url='https://massif-press.itch.io/the-long-rim')</summary>
@@ -348,6 +348,15 @@
 <details>
 <summary>Interpoint Station</summary>
 
+- [Acastus](#acastus)
+- [Argus](#argus)
+- [Atlanta](#atlanta)
+- [Coronus](#coronus)
+- [Heracles](#heracles)
+- [Nestor](#nestor)
+- [Orpheus](#orpheus)
+- [Pollux](#pollux)
+- [Theseus](#theseus)
 </details>
 <details>
 <summary>Kai Tave</summary>
@@ -366,10 +375,7 @@
 <details>
 <summary>Massif Press</summary>
 
-- [Acastus](#acastus)
 - [Agrippa](#agrippa)
-- [Argus](#argus)
-- [Atlanta](#atlanta)
 - [Atlas](#atlas)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
@@ -377,7 +383,6 @@
 - [Blackbeard](#blackbeard)
 - [Calendula](#calendula)
 - [Caliban](#caliban)
-- [Coronus](#coronus)
 - [Death's head](#deaths-head)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
@@ -389,7 +394,6 @@
 - [Genghis worldkiller](#genghis-worldkiller)
 - [Goblin](#goblin)
 - [Gorgon](#gorgon)
-- [Heracles](#heracles)
 - [Hydra](#hydra)
 - [Iskander](#iskander)
 - [Kidd](#kidd)
@@ -403,11 +407,8 @@
 - [Mourning_cloak](#mourning_cloak)
 - [Napoleon](#napoleon)
 - [Nelson](#nelson)
-- [Nestor](#nestor)
 - [Orchis](#orchis)
-- [Orpheus](#orpheus)
 - [Pegasus](#pegasus)
-- [Pollux](#pollux)
 - [Raleigh](#raleigh)
 - [Sagarmatha](#sagarmatha)
 - [Saladin](#saladin)
@@ -415,7 +416,6 @@
 - [Sunzi](#sunzi)
 - [Swallowtail](#swallowtail)
 - [Swallowtail_ranger](#swallowtail_ranger)
-- [Theseus](#theseus)
 - [Tokugawa](#tokugawa)
 - [Tortuga](#tortuga)
 - [Vlad](#vlad)
@@ -437,7 +437,7 @@
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Vicious close combat
 
@@ -515,7 +515,7 @@ Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah 
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Sniper with a 'Bloodhound' drone
 
@@ -532,7 +532,7 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Time manipulation
 
@@ -885,7 +885,7 @@ Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), 
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Luck manipulation
 
@@ -1343,7 +1343,7 @@ Source: [Field Guide to Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide),
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Highly flexible, toggling powerful systems on and off
 
@@ -1933,7 +1933,7 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Durable frontline all-rounder
 
@@ -1986,7 +1986,7 @@ Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah 
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Jockey other mechs and buff/debuff them
 
@@ -2047,7 +2047,7 @@ Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), 
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Melt everything around you
 
@@ -2371,7 +2371,7 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 Corp: Intercorp
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint Station 
 
 - Area denial and support
 

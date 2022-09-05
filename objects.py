@@ -922,6 +922,7 @@ class Mechs:
     ACASTUS = Mech(
         name="acastus",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk2MjYucG5n/original/g%2Bjg7F.png",
         summary=[
             "Vicious close combat",
@@ -932,6 +933,7 @@ class Mechs:
     ARGUS = Mech(
         name="argus",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU1NTY3NDIucG5n/original/boifhT.png",
         summary=[
             "Sniper with a 'Bloodhound' drone",
@@ -942,6 +944,7 @@ class Mechs:
     ATLANTA = Mech(
         name="atlanta",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk1MDAucG5n/original/%2FoL3ZF.png",
         summary=[
             "Time manipulation",
@@ -953,6 +956,7 @@ class Mechs:
     CORONUS = Mech(
         name="coronus",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk1ODMucG5n/original/ydzH6g.png",
         summary=[
             "Luck manipulation",
@@ -963,6 +967,7 @@ class Mechs:
     HERACLES = Mech(
         name="heracles",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk0NzIucG5n/original/n%2FLHAw.png",
         summary=[
             "Highly flexible, toggling powerful systems on and off",
@@ -973,6 +978,7 @@ class Mechs:
     NESTOR = Mech(
         name="nestor",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU0MzYzNjQucG5n/original/tm2TA0.png",
         summary=[
             "Durable frontline all-rounder",
@@ -982,6 +988,7 @@ class Mechs:
     POLLUX = Mech(
         name="pollux",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzU0MzYzNjMucG5n/original/nSeIyl.png",
         summary=[
             "Melt everything around you",
@@ -992,6 +999,7 @@ class Mechs:
     ORPHEUS = Mech(
         name="orpheus",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3LzYxNjk5NjkucG5n/original/5h%2BexB.png",
         summary=[
             "Jockey other mechs and buff/debuff them",
@@ -1000,6 +1008,7 @@ class Mechs:
     THESEUS = Mech(
         name="theseus",
         corp=Corps.INTERCORP,
+        source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk0ODAucG5n/original/huJi17.png",
         summary=[
             "Area denial and support",
