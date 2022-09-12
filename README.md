@@ -2733,6 +2733,18 @@ Source: [Grimm & Sons](https://nightmareworks.itch.io/grimmandsons), by Delilah 
 
 <img src="https://img.itch.zone/aW1hZ2UvODc1MzAwLzQ5MjQ0OTQuanBn/original/W4D8f9.jpg" width="500"/>
 
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/ca1594f2c70f634d200752986e28bb6a/5366032220d7eb4c-9e/s1280x1920/fbed762b977752fdac1e2bca2bdb6b591c9bb234.pnj' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/615476498745458688/fenris-a-commission-for-a-pilots-blackbeard-for)
+
+<img src='https://64.media.tumblr.com/859aaca210fd99d92fbd86db585d1d22/bad869ca9ff041ad-96/s500x750/b30fddbd7ab8f77beb3df40fbc9bc636bfd3df2d.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/189695356025/mech-hheldrin-pilot-rota-commission-for)
+
 </details>
 
 -------
@@ -2773,18 +2785,6 @@ Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), 
 
 #### Mechanic Brewery, Lancer Homebrew
 - https://www.youtube.com/watch?v=K_VJq45CtYo&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=31
-<details>
-<summary>Images</summary>
-
-##### miscellaneous
-<img src='https://64.media.tumblr.com/ca1594f2c70f634d200752986e28bb6a/5366032220d7eb4c-9e/s1280x1920/fbed762b977752fdac1e2bca2bdb6b591c9bb234.pnj' width='400'>
-
-[Source](https://gentrigger.tumblr.com/post/615476498745458688/fenris-a-commission-for-a-pilots-blackbeard-for)
-
-<img src='https://64.media.tumblr.com/859aaca210fd99d92fbd86db585d1d22/bad869ca9ff041ad-96/s500x750/b30fddbd7ab8f77beb3df40fbc9bc636bfd3df2d.png' width='400'>
-
-[Source](https://gentrigger.tumblr.com/post/189695356025/mech-hheldrin-pilot-rota-commission-for)
-
 </details>
 
 -------

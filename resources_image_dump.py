@@ -333,7 +333,7 @@ IMAGES_DUMP = ResourceGroup(
                 path="https://pbs.twimg.com/media/E2wFcCVXwAM7KVk?format=jpg&name=4096x4096",
             ),
         ],
-        Mechs.WORDEN: [
+        Mechs.VOLK: [
             Image(
                 path="https://64.media.tumblr.com/ca1594f2c70f634d200752986e28bb6a/5366032220d7eb4c-9e/s1280x1920/fbed762b977752fdac1e2bca2bdb6b591c9bb234.pnj",
                 source="https://gentrigger.tumblr.com/post/615476498745458688/fenris-a-commission-for-a-pilots-blackbeard-for",
