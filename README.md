@@ -580,6 +580,19 @@ Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+##### miscellaneous
+<img src='https://64.media.tumblr.com/d086492d8a516f3f68feb872c2ce26cc/83ae21a13fea1bf1-2a/s1280x1920/9017a7c930cca9f3b089b6591c37109d2f7f8f0a.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/686057909575090176/all-of-the-player-mechs-for-my-current-lancer-game#notes)
+
+<img src='https://64.media.tumblr.com/bd9238b9d4ed94209d4469ad7486428b/f80aef141460641a-fb/s500x750/5f75b3fca5ae0443550debc85b1982566a185c43.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/190526552790/callsign-banchou-mech-mac-the-knife)
+
+<img src='https://64.media.tumblr.com/ff2cb827135bc3552942c8cbff4d1a64/79f4605774502c9e-ac/s400x600/177ed4dfa0e1f2a314af0ea1ee45534e9e71a25d.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/188510099195/graya-the-runic-commission-for-xiakha-for-a)
+
 </details>
 
 -------
@@ -610,9 +623,17 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 [Source](https://imgur.com/a/Ek5GSwa)
 
 ##### miscellaneous
+<img src='https://64.media.tumblr.com/4afa2f4919490c1cc4e9436d5ca808f6/d45c623ae12ee7b4-e5/s1280x1920/07007a499ac507de58b71e197d9ed104b08cff09.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/680013756630171649/a-commission-for-negativevalence-of-a-pair-of?is_related_post=1#notes)
+
 <img src='https://cdnb.artstation.com/p/assets/images/images/042/590/651/large/theotime-gm-warlock-web-marked.jpg?1634913024' width='400'>
 
 [Source](https://theogm.artstation.com/projects/zO2N5w?album_id=5224111)
+
+<img src='https://64.media.tumblr.com/a2ee60341a781abe43004cd89bfd2dd1/fadf2f75e0611d22-76/s640x960/382cc903aad1b76c1aa3b193b78fc03d9ca8ed74.pnj' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/633880005884116992/commission-for-sleepyshaman-for-their-players)
 
 </details>
 
@@ -649,6 +670,10 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://pbs.twimg.com/media/FS66HOPWAAAGOZ7?format=jpg&name=4096x4096' width='400'>
 
 [Source](https://twitter.com/ShadeFish1/status/1526362574350127104?s=20&t=3XgB7A50VHP-wPRwWshRrA)
+
+<img src='https://64.media.tumblr.com/2261b2b61a2b602e90aff4792e148df4/83ae21a13fea1bf1-73/s1280x1920/4a844381a6d9811cbf367d3d155f7c182c22d1aa.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/686057909575090176/all-of-the-player-mechs-for-my-current-lancer-game#notes)
 
 <img src='https://cdnb.artstation.com/p/assets/images/images/027/409/213/large/theotime-gm-t-boe-sigfried-color-web-02.jpg?1591454560' width='400'>
 
@@ -732,6 +757,10 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://cdna.artstation.com/p/assets/images/images/035/137/912/large/theotime-gm-honeyblood-web.jpg?1614189552' width='400'>
 
 [Source](https://theogm.artstation.com/projects/ZGZB8x?album_id=5224111)
+
+<img src='https://64.media.tumblr.com/ca1594f2c70f634d200752986e28bb6a/5366032220d7eb4c-9e/s1280x1920/fbed762b977752fdac1e2bca2bdb6b591c9bb234.pnj' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/615476498745458688/fenris-a-commission-for-a-pilots-blackbeard-for)
 
 </details>
 
@@ -978,9 +1007,25 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://theogm.artstation.com/projects/DxrJnG)
 
+<img src='https://64.media.tumblr.com/fb4487566c8cfbd0ef170d9b47b8155f/83ae21a13fea1bf1-5f/s1280x1920/9b0963568b1b7a4514e9c7b82965af1ce6ec40ae.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/686057909575090176/all-of-the-player-mechs-for-my-current-lancer-game#notes)
+
 <img src='https://cdnb.artstation.com/p/assets/images/images/028/499/661/large/theotime-gm-bear-drake-bg-web.jpg?1594662162' width='400'>
 
 [Source](https://theogm.artstation.com/projects/3dq10o?album_id=5224111)
+
+<img src='https://64.media.tumblr.com/1096ac33af42eff7c5e0aea54cf10730/098fe549157297c7-a3/s2048x3072/56d210b3f8e54d1e4dbd57a92fba81fd333309a2.pnj' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/686057517989642241/a-commission-off-of-twitter-of-a-ktbdom-inspired)
+
+<img src='https://64.media.tumblr.com/2750bdb23bbc6a8efaceae82317162e9/09f8ca5dcf96a206-82/s1280x1920/d71c122ed015f0c5a3f83b9d38ffd91a1deb71ef.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/683151100751364096/avi-callsign-dilettante-ips-n-drake-lancer)
+
+<img src='https://64.media.tumblr.com/dafe3b6e9d5eb2cae596238188ae941f/157dee283aafe314-f2/s500x750/7f74252b765b6ca3cf86345764c68b4f5984e1d2.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/615542193491427329/sup-gamers-finally-got-the-designs-for-the-pilots)
 
 </details>
 
@@ -1014,6 +1059,11 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://i.imgur.com/3ViAeQ5.jpeg' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/9d5f6cf2dc2f1755f7c7126f8d79b79a/c148271a052055b7-b0/s500x750/07174c7c5a41a3986f1489466705d9032b567e87.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/189695369565/hazel-star-hunter-modified-ssc-dusk-wing)
 
 </details>
 
@@ -1080,6 +1130,14 @@ Source: [No Room for a Wallflower](https://massif-press.itch.io/no-room-for-a-wa
 - https://www.youtube.com/watch?v=nYZrPByvGcM&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=40&
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=QQYPXWRbzLg&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=13
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/d1431d115f025023a5f42413fc35f835/ec76d959dbf1d4eb-25/s1280x1920/cf35aefc558d3dbc57fdd927c97feaab426e4033.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/683554906831028224/a-commission-from-twitter-of-the-clients-players)
+
 </details>
 
 -------
@@ -1231,6 +1289,11 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+##### miscellaneous
+<img src='https://64.media.tumblr.com/70803b21c7c72b6eff9903cb0b470b9d/3aa4ab0d75812a20-00/s2048x3072/f044a5f8bd0b75baf7b57bb98f9c1da09db127ae.pnj' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/684754091862278144/a-horus-themed-genghis-i-am-calling-agni-kind)
+
 </details>
 
 -------
@@ -1277,6 +1340,14 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 - https://www.youtube.com/watch?v=5WuK1yrWGRY&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=15
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=i0k8IteO44E&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=24
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/e1d553e5e7353adb991e631cdfb388a4/tumblr_plhm1xf8ts1qgwtzgo1_500.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/182088864995/modified-goblin-commission-for-a-players)
+
 </details>
 
 -------
@@ -1318,6 +1389,10 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://cdnb.artstation.com/p/assets/images/images/042/591/061/large/theotime-gm-witheringgaze-web-watermark.jpg?1634913932' width='400'>
 
 [Source](https://theogm.artstation.com/projects/rAbY05?album_id=5224111)
+
+<img src='https://64.media.tumblr.com/157a013650bbff8b070e8397873696de/9f78a9e705e8157a-76/s1280x1920/ebe03a804189898c234d34b31f7ba2ccdebf80a9.pnj' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/611885787161755648/call-sign-one-love-pilot-1l-0v-3-mech-illegal)
 
 </details>
 
@@ -1383,6 +1458,14 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://pbs.twimg.com/media/FS66E4PWYAASMu_?format=jpg&name=4096x4096' width='400'>
 
 [Source](https://twitter.com/ShadeFish1/status/1526362574350127104?s=20&t=3XgB7A50VHP-wPRwWshRrA)
+
+<img src='https://64.media.tumblr.com/0c9ab7e15b32936285033229ff18f5d8/678735dcf678e3b0-0e/s500x750/fbf2c1dbde3df4cd262c77707f588a096b66533d.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/189380326335/callsign-salvage-horus-hydra-ransomware)
+
+<img src='https://64.media.tumblr.com/7192cd26adf98cce49cb15967bc939a6/cd54c799356ed9d5-cf/s500x750/28aab2189b3f934ebd5d728f712c5db2fb3a5454.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/189159854415/pilot-sanzang-mech-i-am-not-a-demon-mech)
 
 </details>
 
@@ -1454,6 +1537,15 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://i.imgur.com/7HVUvhe.jpeg' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/0e4fa19d2944a40ab4c54208b33c8944/9886819bb8d0e9ef-76/s500x750/dc2c2df3716009bb57b9b00822dfa3efe975f4c2.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/189695382260/pilot-hairpin-mech-clerical-error-a)
+
+<img src='https://64.media.tumblr.com/aea9ed6740b570bb826ca82e2864556b/fa8d156b50700275-7b/s500x750/b2cfc0602e8f230848759357d51efdfd4ae332f3.png' width='400'>
+
+[Source](https://64.media.tumblr.com/aea9ed6740b570bb826ca82e2864556b/fa8d156b50700275-7b/s500x750/b2cfc0602e8f230848759357d51efdfd4ae332f3.png)
 
 </details>
 
@@ -1590,6 +1682,14 @@ Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press
 - https://www.youtube.com/watch?v=ylndROGoXXI&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=34
 #### Lancer Custom Werks, lancer builds
 - https://www.youtube.com/watch?v=0THcOe5LwAE&list=PLOnXWQrYlGSAgita8M5UU5oexBAh2C99L&index=36
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/4b583325a224c81ec2f2032ac3201bb0/tumblr_pyre9zYsNH1qgwtzgo1_500.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/188089450790/pugnacious-photon-gnoll-commission-for)
+
 </details>
 
 -------
@@ -1622,6 +1722,11 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://i.imgur.com/43kMUoM.jpeg' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/8d2c4e42f06392506f4fe07e62b05ef9/f05f6f983f722d5d-26/s500x750/6d44e167d3fb6a47d236d857c57a2c82a9887a87.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/189695342080/pilot-apollo-j-nox-callsign-chief-chief)
 
 </details>
 
@@ -1762,6 +1867,10 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://theogm.artstation.com/projects/A9ABe5?album_id=5224111)
 
+<img src='https://64.media.tumblr.com/ae85668512b65047ab781131f371a1d2/ec76d959dbf1d4eb-39/s1280x1920/f227b31710071d06b17a8fa8c614fd6d401efe23.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/683554906831028224/a-commission-from-twitter-of-the-clients-players)
+
 </details>
 
 -------
@@ -1826,6 +1935,14 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://pbs.twimg.com/media/FV5iOurWAAMEY_o?format=jpg&name=4096x4096' width='400'>
 
 [Source](https://twitter.com/ShadeFish1/status/1539776426886430720?s=20&t=ZM_19zR4z5xevMEoxCOPRg)
+
+<img src='https://64.media.tumblr.com/6d576f39fcad391abeab012688cc7a13/83ae21a13fea1bf1-1a/s1280x1920/6cdd2e3f9564ddfe263a186a3823bd66f7738bae.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/686057909575090176/all-of-the-player-mechs-for-my-current-lancer-game#notes)
+
+<img src='https://64.media.tumblr.com/601ab106836d0e4ceab62064c04f975a/62f0792dc9833caa-fe/s500x750/51bac71fac6a4874a4e291ff345b01414bd58cd4.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/618035208486322176/lancerrpg-mech-commission-for-xiakha-for-their)
 
 </details>
 
@@ -1922,9 +2039,17 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://theogm.artstation.com/projects/8XqzGK?album_id=5224111)
 
+<img src='https://cdnb.artstation.com/p/assets/images/images/026/564/691/large/theotime-galmiche-marchofrobots-22.jpg?1589126440' width='400'>
+
+[Source](https://theogm.artstation.com/projects/N51P5d?album_id=5224111)
+
 <img src='https://cdna.artstation.com/p/assets/images/images/027/409/116/large/theotime-gm-commission-b-s-colored-web.jpg?1591454260' width='400'>
 
 [Source](https://theogm.artstation.com/projects/q9L9ky?album_id=5224111)
+
+<img src='https://64.media.tumblr.com/0390c491c7f413b83717b2c810b27641/cefce4d98bc655fe-68/s500x750/d9d6ac55cc93ffc6e933650dee9c3c5300ead161.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/617410189660913664/lancerrpg-mech-commission-for-meckamecha-a)
 
 </details>
 
@@ -1960,6 +2085,14 @@ Source: [Field Guide: The Karrakin Trade Baronies](https://massif-press.itch.io/
 
 #### Trashtalk on Lancer, Mech Overviews
 - https://www.youtube.com/watch?v=OCME2FhXdLw&list=PLOnXWQrYlGSDt2WL5TdRgfMEw9kzP_-XP&index=43
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/d0c80cb1386be058bffcf3c59c5ede10/83ae21a13fea1bf1-29/s1280x1920/b9321e0ed10a4163ec27a7a160cd5fd30f429180.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/686057909575090176/all-of-the-player-mechs-for-my-current-lancer-game#notes)
+
 </details>
 
 -------
@@ -2020,6 +2153,11 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://i.imgur.com/825EqVz.jpeg' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/c4acc6f710020a8042bc3d8d2fdca6d7/533efeceb3f1e35b-94/s1280x1920/ae660c6e1567579e77b9333b0ade4e360bcc901e.pnj' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/634066953889333248/lancerrpg-commission-for-zombiemike-for-their)
 
 </details>
 
@@ -2094,6 +2232,18 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://cdna.artstation.com/p/assets/images/images/026/564/266/large/theotime-galmiche-marchofrobots-18.jpg?1589125797' width='400'>
 
 [Source](https://theogm.artstation.com/projects/DxrJnG)
+
+<img src='https://64.media.tumblr.com/facbc6c631f7f9250228dcfa7044ea73/ec76d959dbf1d4eb-b4/s1280x1920/df0d94a145561af32e68cd3fd55c03e0f80879d0.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/683554906831028224/a-commission-from-twitter-of-the-clients-players)
+
+<img src='https://64.media.tumblr.com/9d874bd2f120588e0840e86bf9cb0ed9/ec76d959dbf1d4eb-5d/s1280x1920/1677517da98f30a5ddaecd78e670592ba7429f3d.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/683554906831028224/a-commission-from-twitter-of-the-clients-players)
+
+<img src='https://64.media.tumblr.com/c4acc6f710020a8042bc3d8d2fdca6d7/533efeceb3f1e35b-94/s1280x1920/ae660c6e1567579e77b9333b0ade4e360bcc901e.pnj' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/634066953889333248/lancerrpg-commission-for-zombiemike-for-their)
 
 </details>
 
@@ -2223,6 +2373,10 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://theogm.artstation.com/projects/qAqzGD?album_id=5224111)
 
+<img src='https://cdna.artstation.com/p/assets/images/images/026/824/932/large/jan-kruner-lancer-saladin-fortress1d.jpg?1589831446' width='400'>
+
+[Source](https://www.artstation.com/artwork/lVga4a)
+
 </details>
 
 -------
@@ -2277,6 +2431,15 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+##### miscellaneous
+<img src='https://64.media.tumblr.com/eea9efef04e818b95c0db83cb1f9399b/f3d3bd283de8101d-ba/s1280x1920/2697a8781a42c4d8a667360a7a21303c8928db0b.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/683083791970025472/a-pair-of-commissions-for-an-upcoming-lancer?is_related_post=1)
+
+<img src='https://64.media.tumblr.com/9e2b505d2e1e3fbaa66ca6b1940250d0/9d6107ff0e09a276-73/s500x750/009b14324e72f9e76022df400c7d4900c39bc8e9.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/611161087352651776/ira-morne-and-one-hot-friend-commission-for)
+
 </details>
 
 -------
@@ -2306,6 +2469,11 @@ Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press
 <img src='https://i.imgur.com/oaCT8fL.jpeg' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/aea9ed6740b570bb826ca82e2864556b/fa8d156b50700275-7b/s500x750/b2cfc0602e8f230848759357d51efdfd4ae332f3.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/188907770970/caravela-8ball-lancer-mech-commission-for-an)
 
 </details>
 
@@ -2343,9 +2511,21 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 [Source](https://imgur.com/a/Ek5GSwa)
 
 ##### miscellaneous
+<img src='https://64.media.tumblr.com/b44c9c83f1cf26247644905f955e5999/ec76d959dbf1d4eb-11/s1280x1920/e76777247d7aa10c1ea6e245c7c1d4d52fcfa891.png    ' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/683554906831028224/a-commission-from-twitter-of-the-clients-players)
+
 <img src='https://cdna.artstation.com/p/assets/images/images/029/678/810/large/theotime-gm-athena-swallowtail-web.jpg?1598315334' width='400'>
 
 [Source](https://theogm.artstation.com/projects/Xna6Vy?album_id=5224111)
+
+<img src='https://64.media.tumblr.com/688f17a43ce2a4349118f584f0829cb4/cb73197f91c09b2d-94/s1280x1920/09836deac253703bee7a84656b27a6156178f383.png  ' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/665559271285686272/commish-fo-discountatlatl-for-their-lancer-ttrpg)
+
+<img src='https://64.media.tumblr.com/82fd86f2aacc0806deaad1b80d28b507/6a8c2779d35581ea-ec/s500x750/1e664e2369f210443f0f24704168a5bc42bc2062.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/189714316120/pilot-aurora-mech-cosmic-filter-commission)
 
 </details>
 
@@ -2426,6 +2606,10 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 <img src='https://cdnb.artstation.com/p/assets/images/images/026/565/041/large/theotime-galmiche-marchofrobots-19.jpg?1589127024' width='400'>
 
 [Source](https://theogm.artstation.com/projects/8XqzGK?album_id=5224111)
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/026/565/041/large/theotime-galmiche-marchofrobots-19.jpg?1589127024' width='400'>
+
+[Source](https://theogm.artstation.com/projects/N51P5d?album_id=5224111)
 
 <img src='https://pbs.twimg.com/media/FP2UlOyWYAAHiEf?format=jpg&name=large' width='400'>
 
@@ -2527,6 +2711,11 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 [Source](https://imgur.com/a/Ek5GSwa)
 
+##### miscellaneous
+<img src='https://64.media.tumblr.com/79790b6113078004e8f15b18954cedb4/d45c623ae12ee7b4-60/s400x600/99b3a03d5c7d715326ff636bca35796357253876.png' width='400'>
+
+[Source](https://shadefish.tumblr.com/post/680013756630171649/a-commission-for-negativevalence-of-a-pair-of?is_related_post=1#notes)
+
 </details>
 
 -------
@@ -2584,6 +2773,18 @@ Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), 
 
 #### Mechanic Brewery, Lancer Homebrew
 - https://www.youtube.com/watch?v=K_VJq45CtYo&list=PLOnXWQrYlGSAp3ElGgduDHtkh2lTTileB&index=31
+<details>
+<summary>Images</summary>
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/ca1594f2c70f634d200752986e28bb6a/5366032220d7eb4c-9e/s1280x1920/fbed762b977752fdac1e2bca2bdb6b591c9bb234.pnj' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/615476498745458688/fenris-a-commission-for-a-pilots-blackbeard-for)
+
+<img src='https://64.media.tumblr.com/859aaca210fd99d92fbd86db585d1d22/bad869ca9ff041ad-96/s500x750/b30fddbd7ab8f77beb3df40fbc9bc636bfd3df2d.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/189695356025/mech-hheldrin-pilot-rota-commission-for)
+
 </details>
 
 -------
@@ -2614,5 +2815,10 @@ Source: [Long Rim](https://massif-press.itch.io/the-long-rim), by Massif Press
 <img src='https://i.imgur.com/UZyIGbq.jpeg' width='400'>
 
 [Source](https://imgur.com/a/Ek5GSwa)
+
+##### miscellaneous
+<img src='https://64.media.tumblr.com/cb1f48b2986bf24fb5a7dd68233fc4a9/b46255c18bd3d7ab-66/s500x750/2ec78edcbbf9c6cd5e34164ce233f2e04073c4eb.png' width='400'>
+
+[Source](https://gentrigger.tumblr.com/post/615487815382401024/another-finished-commission-for-a-lancerrpg-mech)
 
 </details>

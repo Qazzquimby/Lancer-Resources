@@ -2,7 +2,8 @@ from collections import defaultdict
 from pathlib import Path
 
 from objects import CORPS, SOURCES, AUTHORS, Mech, MECHS
-from resources import Image, MechResource, RESOURCE_GROUPS, _is_image_group
+from resources import RESOURCE_GROUPS, _is_image_group
+from resource_classes import Image, MechResource
 
 
 def _generate_mech_readme_from_group_name_to_content(
