@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 
 from objects import Mech, Mechs
+from resources_image_dump import IMAGES_DUMP
 
 
 @dataclass
@@ -277,215 +278,59 @@ RESOURCE_GROUPS: list[ResourceGroup] = [
         )
     ),
     ResourceGroup(
-        resources={
-            Mechs.EVEREST: [
-                Image(
-                    source="tfinnbarr",
-                    path="https://media.discordapp.net/attachments/561000253608820737/1003517167683256391/image0.jpg?width=567&height=580",
-                ),
-                Image(
-                    source="errent",
-                    path="https://media.discordapp.net/attachments/645137498577698833/1002091640573394954/Form.png?width=557&height=580",
-                ),
-                Image(
-                    source="No Man's Sky",
-                    path="https://media.discordapp.net/attachments/566317602834743296/999502221232312430/20220721031822_1.jpg?width=1030&height=580",
-                ),
-                Image(
-                    source="Pirate",
-                    path="https://media.discordapp.net/attachments/561000253608820737/975588387731943424/Fast_Eddy.png?width=638&height=580",
-                ),
-                Image(
-                    source="https://twitter.com/LymphOwned/status/1521525215305551874",
-                    path="https://pbs.twimg.com/media/FR2KvMFXoAI89BT?format=png&name=900x900",
-                ),
-                Image(
-                    source="13 Sentinels",
-                    path="https://media.discordapp.net/attachments/430234654784749568/938943150972620820/2nd_Generation_Sentinel.jpg?width=535&height=580",
-                ),
-                *[
-                    Image(
-                        source="https://twitter.com/ShadeFish1/status/1487533768206389251?s=20&t=D6_Z8Ul8QhBqX5JDCmZn-A",
-                        path=path,
-                    )
-                    for path in [
-                        "https://pbs.twimg.com/media/FKTGt5VWYAUYEBv?format=jpg&name=4096x4096",
-                        "https://pbs.twimg.com/media/FKTGw1oXIAUfiJz?format=jpg&name=4096x4096",
-                        "https://pbs.twimg.com/media/FKTGw1sXwAQ_NXg?format=jpg&name=4096x4096",
-                        "https://pbs.twimg.com/media/FKTGw1rWYAQcys8?format=jpg&name=4096x4096",
-                    ]
+        resources=get_image_resources_with_source(
+            source="https://shadefish.tumblr.com/post/683554906831028224/a-commission-from-twitter-of-the-clients-players",
+            mechs_to_paths={
+                Mechs.RALEIGH: [
+                    "https://64.media.tumblr.com/facbc6c631f7f9250228dcfa7044ea73/ec76d959dbf1d4eb-b4/s1280x1920/df0d94a145561af32e68cd3fd55c03e0f80879d0.png",
+                    "https://64.media.tumblr.com/9d874bd2f120588e0840e86bf9cb0ed9/ec76d959dbf1d4eb-5d/s1280x1920/1677517da98f30a5ddaecd78e670592ba7429f3d.png",
                 ],
-                Image(
-                    source="Oshlet",
-                    path="https://media.discordapp.net/attachments/561000253608820737/928023915576569926/SSC_Everest.png?width=973&height=580",
-                ),
-                Image(
-                    source="Oshlet",
-                    path="https://media.discordapp.net/attachments/561000253608820737/928023915983437844/Baronies_Everest.png?width=639&height=580",
-                ),
-                *[
-                    Image(
-                        source="https://twitter.com/ShadeFish1/status/1478463660087468041?s=20",
-                        path=path,
-                    )
-                    for path in [
-                        "https://pbs.twimg.com/media/FISOUuBWUAARQUP?format=jpg&name=4096x4096",
-                        "https://pbs.twimg.com/media/FISOYVyXsAEKYjt?format=jpg&name=4096x4096",
-                        "https://pbs.twimg.com/media/FISOZ76X0AYaM8k?format=jpg&name=4096x4096",
-                    ]
-                ],
-                Image(
-                    source="JP",
-                    path="https://media.discordapp.net/attachments/561000253608820737/902592109163479070/IMG_20211026_121625_184.jpg?width=580&height=580",
-                ),
-                Image(
-                    source="https://twitter.com/artofjunn/status/1177912739366223872",
-                    path="https://pbs.twimg.com/media/EFZQf9wXsAI8ltt?format=jpg&name=medium",
-                ),
-                Image(
-                    source="https://twitter.com/SkyCrimeDraws/status/1450928540040503296",
-                    path="https://pbs.twimg.com/media/FCK7fsJXEAM1Hg9?format=jpg&name=large",
-                ),
-                Image(
-                    source="Sky Crime",
-                    path="https://media.discordapp.net/attachments/561000253608820737/893718308904394802/unknown.png?width=580&height=580",
-                ),
-                Image(
-                    source="https://twitter.com/ShadeFish1/status/1435734286439784449?s=20",
-                    path="https://pbs.twimg.com/media/E-zAVHJXEAUUvSd?format=jpg&name=large",
-                ),
-                Image(
-                    path="https://media.discordapp.net/attachments/561000253608820737/854595327889506304/unknown.png?width=417&height=580",
-                ),
-                Image(
-                    source="https://twitter.com/LymphOwned/status/1401159860906037249",
-                    path="https://pbs.twimg.com/media/E3HrJPnXwAErCC8?format=jpg&name=medium",
-                ),
-            ],
-            Mechs.SAGARMATHA: [
-                Image(
-                    source="https://twitter.com/LymphOwned/status/1522259408029421568",
-                    path="https://pbs.twimg.com/media/FSAmLJPXMAEiTpc?format=jpg&name=large",
-                ),
-                Image(
-                    source="https://twitter.com/ShadeFish1/status/1478463660087468041?s=20",
-                    path="https://pbs.twimg.com/media/FISOd4mX0AMp-kI?format=jpg&name=4096x4096",
-                ),
-                Image(
-                    source="https://twitter.com/LymphOwned/status/1398992705456427009",
-                    path="https://pbs.twimg.com/media/E2o35z5XIAAb9-e?format=jpg&name=medium",
-                ),
-                Image(
-                    source="kaffeezombie",
-                    path="https://media.discordapp.net/attachments/561000253608820737/842344434054070282/sketchbook_scribbles2c.png?width=571&height=580",
-                ),
-            ],
-            Mechs.BALOR: [
-                Image(
-                    path="https://cdnb.artstation.com/p/assets/images/images/042/590/651/large/theotime-gm-warlock-web-marked.jpg?1634913024",
-                    source="https://theogm.artstation.com/projects/zO2N5w?album_id=5224111",
-                )
-            ],
-            Mechs.BARBAROSSA: [
-                Image(
-                    path="https://cdnb.artstation.com/p/assets/images/images/027/409/213/large/theotime-gm-t-boe-sigfried-color-web-02.jpg?1591454560",
-                    source="https://theogm.artstation.com/projects/9mwmdR?album_id=5224111",
-                )
-            ],
-            Mechs.BLACKBEARD: [
-                Image(
-                    path="https://cdna.artstation.com/p/assets/images/images/035/137/912/large/theotime-gm-honeyblood-web.jpg?1614189552",
-                    source="https://theogm.artstation.com/projects/ZGZB8x?album_id=5224111",
-                )
-            ],
-            Mechs.BLACK_WITCH: [
-                Image(
-                    path="https://cdnb.artstation.com/p/assets/images/images/042/590/651/large/theotime-gm-warlock-web-marked.jpg?1634913024",
-                    source="https://theogm.artstation.com/projects/zO2N5w?album_id=5224111",
-                )
-            ],
-            Mechs.DRAKE: [
-                Image(
-                    path="https://cdnb.artstation.com/p/assets/images/images/028/499/661/large/theotime-gm-bear-drake-bg-web.jpg?1594662162",
-                    source="https://theogm.artstation.com/projects/3dq10o?album_id=5224111",
-                )
-            ],
-            Mechs.GORGON: [
-                Image(
-                    path="https://cdnb.artstation.com/p/assets/images/images/028/191/345/large/theotime-gm-preacher-web.jpg?1593725386",
-                    source="https://theogm.artstation.com/projects/R33XXA?album_id=5224111",
-                ),
-                Image(
-                    path="https://cdnb.artstation.com/p/assets/images/images/042/591/061/large/theotime-gm-witheringgaze-web-watermark.jpg?1634913932",
-                    source="https://theogm.artstation.com/projects/rAbY05?album_id=5224111",
-                ),
-            ],
-            Mechs.NELSON: [
-                Image(
-                    path="https://cdna.artstation.com/p/assets/images/images/027/409/116/large/theotime-gm-commission-b-s-colored-web.jpg?1591454260",
-                    source="https://theogm.artstation.com/projects/q9L9ky?album_id=5224111",
-                )
-            ],
-            Mechs.SWALLOWTAIL: [
-                Image(
-                    path="https://cdna.artstation.com/p/assets/images/images/029/678/810/large/theotime-gm-athena-swallowtail-web.jpg?1598315334",
-                    source="https://theogm.artstation.com/projects/Xna6Vy?album_id=5224111",
-                )
-            ],
-            Mechs.TOKUGAWA: [
-                Image(
-                    source="https://twitter.com/EMFields_Art/status/1512528795080671233?s=20&t=RY4_6qI9V2Vk1NuT0wlWBg",
-                    path="https://pbs.twimg.com/media/FP2UlOyWYAAHiEf?format=jpg&name=large",
-                ),
-                Image(
-                    source="https://twitter.com/ShadeFish1/status/1549188245770178560?s=20&t=eJWLumciYJeQQdLn7ToTWw",
-                    path="https://pbs.twimg.com/media/FX_R5SwXgAIhRdw?format=jpg&name=4096x4096",
-                ),
-                Image(path="https://pbs.twimg.com/media/EUEw6RTWsAENuUt.jpg:large"),
-                Image(path="https://pbs.twimg.com/media/EdEHbFEXoAMYNJz.jpg:large"),
-                Image(
-                    path="https://cdn.discordapp.com/attachments/561000253608820737/768162242797371452/ha_Tokugawa.png"
-                ),
-                Image(
-                    path="https://cdn.discordapp.com/attachments/561000253608820737/830512277572419584/toku_kait.png"
-                ),
-                Image(
-                    path="https://cdn.discordapp.com/attachments/561000253608820737/831894740714258482/toku4.jpg"
-                ),
-                Image(
-                    path="https://cdn.discordapp.com/attachments/645137498577698833/838970049175355433/hellhounbd1.png"
-                ),
-                Image(
-                    path="https://cdn.discordapp.com/attachments/561000253608820737/845398230950477864/TOKUGAWA_REColoR.png"
-                ),
-            ],
-            Mechs.MOURNING_CLOAK: [
-                Image(
-                    path="https://cdn.discordapp.com/attachments/561000253608820737/831894740714258482/toku4.jpg"
-                ),
-                Image(
-                    path="https://cdnb.artstation.com/p/assets/images/images/042/589/797/large/theotime-gm-custom-mc-web-watermark.jpg?1634911204",
-                    source="https://theogm.artstation.com/projects/w6DwJX?album_id=5224111",
-                ),
-            ],
-            Mechs.CALIBAN: [
-                Image(
-                    source="https://twitter.com/LymphOwned/status/1564342981804670981",
-                    path="https://pbs.twimg.com/media/FbWouPTWAAIB6ZJ?format=jpg&name=large",
-                )
-            ],
-            Mechs.IBUTHO: [
-                Image(
-                    source="https://www.reddit.com/r/LancerRPG/comments/jdi3hy/the_mfecane_ibutho_the_frontier_pattern_in_the/",
-                    path="https://preview.redd.it/qvv1mol8fvt51.jpg?width=640&crop=smart&auto=webp&s=eaabf675ab5b4048c8fc073dc2e9c667a7fa9a98",
-                ),
-                Image(
-                    source="NHP-SHAKA",
-                    path="https://pbs.twimg.com/media/E2wFcCVXwAM7KVk?format=jpg&name=4096x4096",
-                ),
-            ],
-        },
+                Mechs.ENKIDU: "https://64.media.tumblr.com/d1431d115f025023a5f42413fc35f835/ec76d959dbf1d4eb-25/s1280x1920/cf35aefc558d3dbc57fdd927c97feaab426e4033.png",
+                Mechs.METALMARK: "https://64.media.tumblr.com/ae85668512b65047ab781131f371a1d2/ec76d959dbf1d4eb-39/s1280x1920/f227b31710071d06b17a8fa8c614fd6d401efe23.png",
+                Mechs.SWALLOWTAIL: "https://64.media.tumblr.com/b44c9c83f1cf26247644905f955e5999/ec76d959dbf1d4eb-11/s1280x1920/e76777247d7aa10c1ea6e245c7c1d4d52fcfa891.png    ",
+            },
+        )
     ),
+    ResourceGroup(
+        resources=get_image_resources_with_source(
+            source="https://shadefish.tumblr.com/post/680013756630171649/a-commission-for-negativevalence-of-a-pair-of?is_related_post=1#notes",
+            mechs_to_paths={
+                Mechs.VLAD: "https://64.media.tumblr.com/79790b6113078004e8f15b18954cedb4/d45c623ae12ee7b4-60/s400x600/99b3a03d5c7d715326ff636bca35796357253876.png",
+                Mechs.BALOR: "https://64.media.tumblr.com/4afa2f4919490c1cc4e9436d5ca808f6/d45c623ae12ee7b4-e5/s1280x1920/07007a499ac507de58b71e197d9ed104b08cff09.png",
+            },
+        )
+    ),
+    ResourceGroup(
+        resources=get_image_resources_with_source(
+            source="https://shadefish.tumblr.com/post/686057909575090176/all-of-the-player-mechs-for-my-current-lancer-game#notes",
+            mechs_to_paths={
+                Mechs.DRAKE: "https://64.media.tumblr.com/fb4487566c8cfbd0ef170d9b47b8155f/83ae21a13fea1bf1-5f/s1280x1920/9b0963568b1b7a4514e9c7b82965af1ce6ec40ae.png",
+                Mechs.BARBAROSSA: "https://64.media.tumblr.com/2261b2b61a2b602e90aff4792e148df4/83ae21a13fea1bf1-73/s1280x1920/4a844381a6d9811cbf367d3d155f7c182c22d1aa.png",
+                Mechs.MONARCH: "https://64.media.tumblr.com/6d576f39fcad391abeab012688cc7a13/83ae21a13fea1bf1-1a/s1280x1920/6cdd2e3f9564ddfe263a186a3823bd66f7738bae.png",
+                Mechs.ATLAS: "https://64.media.tumblr.com/d086492d8a516f3f68feb872c2ce26cc/83ae21a13fea1bf1-2a/s1280x1920/9017a7c930cca9f3b089b6591c37109d2f7f8f0a.png",
+                Mechs.ORCHIS: "https://64.media.tumblr.com/d0c80cb1386be058bffcf3c59c5ede10/83ae21a13fea1bf1-29/s1280x1920/b9321e0ed10a4163ec27a7a160cd5fd30f429180.png",
+            },
+        )
+    ),
+    ResourceGroup(
+        resources=get_image_resources_with_source(
+            source="https://theogm.artstation.com/projects/N51P5d?album_id=5224111",
+            mechs_to_paths={
+                Mechs.NELSON: "https://cdnb.artstation.com/p/assets/images/images/026/564/691/large/theotime-galmiche-marchofrobots-22.jpg?1589126440",
+                Mechs.TOKUGAWA: "https://cdnb.artstation.com/p/assets/images/images/026/565/041/large/theotime-galmiche-marchofrobots-19.jpg?1589127024",
+            },
+        )
+    ),
+    ResourceGroup(
+        resources=get_image_resources_with_source(
+            source="https://gentrigger.tumblr.com/post/634066953889333248/lancerrpg-commission-for-zombiemike-for-their",
+            mechs_to_paths={
+                Mechs.RALEIGH: "https://64.media.tumblr.com/c4acc6f710020a8042bc3d8d2fdca6d7/533efeceb3f1e35b-94/s1280x1920/ae660c6e1567579e77b9333b0ade4e360bcc901e.pnj",
+                Mechs.PEGASUS: "https://64.media.tumblr.com/c4acc6f710020a8042bc3d8d2fdca6d7/533efeceb3f1e35b-94/s1280x1920/ae660c6e1567579e77b9333b0ade4e360bcc901e.pnj",
+            },
+        )
+    ),
+    IMAGES_DUMP,
 ]
 
 
