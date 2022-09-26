@@ -44,6 +44,9 @@ class Source:
     author: str
     url: str
 
+    def __str__(self):
+        return f"{self.name} by {self.author}"
+
 
 class Sources:
     CORE = Source(

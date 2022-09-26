@@ -213,7 +213,7 @@
 <summary>Mechs by Source</summary>
 
 <details>
-<summary>Source(name='Core Book', author='Massif Press', url='https://massif-press.itch.io/corebook-pdf-free')</summary>
+<summary>[Core Book](https://massif-press.itch.io/corebook-pdf-free) by Massif Press</summary>
 
 - [Agrippa](#agrippa)
 - [Balor](#balor)
@@ -249,7 +249,7 @@
 - [Vlad](#vlad)
 </details>
 <details>
-<summary>Source(name='Field Guide to Mfecane', author='NHP-SHAKA', url='https://nhp-shaka.itch.io/mfecane-field-guide')</summary>
+<summary>[Field Guide to Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide) by NHP-SHAKA</summary>
 
 - [Amadlozi](#amadlozi)
 - [Cetshwayo](#cetshwayo)
@@ -257,7 +257,7 @@
 - [Ibutho](#ibutho)
 </details>
 <details>
-<summary>Source(name='Field Guide to Suldan', author='Kai Tave', url='https://kaitave.itch.io/field-guide-to-suldan')</summary>
+<summary>[Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan) by Kai Tave</summary>
 
 - [Charioteer](#charioteer)
 - [Comet](#comet)
@@ -271,7 +271,7 @@
 - [Worden](#worden)
 </details>
 <details>
-<summary>Source(name='Field Guide: The Karrakin Trade Baronies', author='Massif Press', url='https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies')</summary>
+<summary>[Field Guide: The Karrakin Trade Baronies](https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies) by Massif Press</summary>
 
 - [Calendula](#calendula)
 - [Emperor](#emperor)
@@ -279,7 +279,7 @@
 - [White_witch](#white_witch)
 </details>
 <details>
-<summary>Source(name='Grimm & Sons', author='Delilah Worthy', url='https://nightmareworks.itch.io/grimmandsons')</summary>
+<summary>[Grimm & Sons](https://nightmareworks.itch.io/grimmandsons) by Delilah Worthy</summary>
 
 - [Anansi](#anansi)
 - [Bunyan](#bunyan)
@@ -293,7 +293,7 @@
 - [Volk](#volk)
 </details>
 <details>
-<summary>Source(name='Intercorp', author='Interpoint Station', url='https://interpoint-station.itch.io/intercorp')</summary>
+<summary>[Intercorp](https://interpoint-station.itch.io/intercorp) by Interpoint Station</summary>
 
 - [Acastus](#acastus)
 - [Argus](#argus)
@@ -306,7 +306,7 @@
 - [Theseus](#theseus)
 </details>
 <details>
-<summary>Source(name='Long Rim', author='Massif Press', url='https://massif-press.itch.io/the-long-rim')</summary>
+<summary>[Long Rim](https://massif-press.itch.io/the-long-rim) by Massif Press</summary>
 
 - [Atlas](#atlas)
 - [Caliban](#caliban)
@@ -316,7 +316,7 @@
 - [Zheng](#zheng)
 </details>
 <details>
-<summary>Source(name='No Room for a Wallflower', author='Massif Press', url='https://massif-press.itch.io/no-room-for-a-wallflower-act-1')</summary>
+<summary>[No Room for a Wallflower](https://massif-press.itch.io/no-room-for-a-wallflower-act-1) by Massif Press</summary>
 
 - [Enkidu](#enkidu)
 - [Genghis worldkiller](#genghis-worldkiller)
