@@ -900,6 +900,7 @@ class Mechs:
     EFREET = Mech(
         name="efreet",
         corp=Corps.HORUS,
+        source=Sources.SULDAN,
         image_path="https://i.gyazo.com/5622a14616fd0bea8126cf6f110e0df4.jpg",
         summary=[
             "Hypermobile close-protection/Rapid response",
@@ -910,6 +911,7 @@ class Mechs:
     AGRIPPA = Mech(
         name="agrippa",
         corp=Corps.HA,
+        source=Sources.SULDAN,
         image_path="https://i.gyazo.com/cc891096eedab824f8116776d1bc2081.png",
         summary=[
             "Defensive Construction/Support",

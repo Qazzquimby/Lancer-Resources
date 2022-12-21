@@ -213,9 +213,8 @@
 <summary>Mechs by Source</summary>
 
 <details>
-<summary>[Core Book](https://massif-press.itch.io/corebook-pdf-free) by Massif Press</summary>
+<summary>Core Book by Massif Press</summary>
 
-- [Agrippa](#agrippa)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
 - [Black_witch](#black_witch)
@@ -223,7 +222,6 @@
 - [Death's head](#deaths-head)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
-- [Efreet](#efreet)
 - [Everest](#everest)
 - [Genghis](#genghis)
 - [Goblin](#goblin)
@@ -249,7 +247,7 @@
 - [Vlad](#vlad)
 </details>
 <details>
-<summary>[Field Guide to Mfecane](https://nhp-shaka.itch.io/mfecane-field-guide) by NHP-SHAKA</summary>
+<summary>Field Guide to Mfecane by NHP-SHAKA</summary>
 
 - [Amadlozi](#amadlozi)
 - [Cetshwayo](#cetshwayo)
@@ -257,10 +255,12 @@
 - [Ibutho](#ibutho)
 </details>
 <details>
-<summary>[Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan) by Kai Tave</summary>
+<summary>Field Guide to Suldan by Kai Tave</summary>
 
+- [Agrippa](#agrippa)
 - [Charioteer](#charioteer)
 - [Comet](#comet)
+- [Efreet](#efreet)
 - [Kalista](#kalista)
 - [Kallarani](#kallarani)
 - [Matador](#matador)
@@ -271,7 +271,7 @@
 - [Worden](#worden)
 </details>
 <details>
-<summary>[Field Guide: The Karrakin Trade Baronies](https://massif-press.itch.io/field-guide-the-karrakin-trade-baronies) by Massif Press</summary>
+<summary>Field Guide: The Karrakin Trade Baronies by Massif Press</summary>
 
 - [Calendula](#calendula)
 - [Emperor](#emperor)
@@ -279,7 +279,7 @@
 - [White_witch](#white_witch)
 </details>
 <details>
-<summary>[Grimm & Sons](https://nightmareworks.itch.io/grimmandsons) by Delilah Worthy</summary>
+<summary>Grimm & Sons by Delilah Worthy</summary>
 
 - [Anansi](#anansi)
 - [Bunyan](#bunyan)
@@ -293,7 +293,7 @@
 - [Volk](#volk)
 </details>
 <details>
-<summary>[Intercorp](https://interpoint-station.itch.io/intercorp) by Interpoint Station</summary>
+<summary>Intercorp by Interpoint Station</summary>
 
 - [Acastus](#acastus)
 - [Argus](#argus)
@@ -306,7 +306,7 @@
 - [Theseus](#theseus)
 </details>
 <details>
-<summary>[Long Rim](https://massif-press.itch.io/the-long-rim) by Massif Press</summary>
+<summary>Long Rim by Massif Press</summary>
 
 - [Atlas](#atlas)
 - [Caliban](#caliban)
@@ -316,7 +316,7 @@
 - [Zheng](#zheng)
 </details>
 <details>
-<summary>[No Room for a Wallflower](https://massif-press.itch.io/no-room-for-a-wallflower-act-1) by Massif Press</summary>
+<summary>No Room for a Wallflower by Massif Press</summary>
 
 - [Enkidu](#enkidu)
 - [Genghis worldkiller](#genghis-worldkiller)
@@ -361,8 +361,10 @@
 <details>
 <summary>Kai Tave</summary>
 
+- [Agrippa](#agrippa)
 - [Charioteer](#charioteer)
 - [Comet](#comet)
+- [Efreet](#efreet)
 - [Kalista](#kalista)
 - [Kallarani](#kallarani)
 - [Matador](#matador)
@@ -375,7 +377,6 @@
 <details>
 <summary>Massif Press</summary>
 
-- [Agrippa](#agrippa)
 - [Atlas](#atlas)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
@@ -386,7 +387,6 @@
 - [Death's head](#deaths-head)
 - [Drake](#drake)
 - [Dusk_wing](#dusk_wing)
-- [Efreet](#efreet)
 - [Emperor](#emperor)
 - [Enkidu](#enkidu)
 - [Everest](#everest)
@@ -454,7 +454,7 @@ Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint
 
 Corp: HA - Harisson Armory
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
 
 - Defensive Construction/Support
 
@@ -1072,7 +1072,7 @@ Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif P
 
 Corp: HORUS
 
-Source: [Core Book](https://massif-press.itch.io/corebook-pdf-free), by Massif Press 
+Source: [Field Guide to Suldan](https://kaitave.itch.io/field-guide-to-suldan), by Kai Tave 
 
 - Hypermobile close-protection/Rapid response
 
