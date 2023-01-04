@@ -946,8 +946,8 @@ class Mechs:
             "Walk around on stilts",
         ],
     )
-    ATLANTA = Mech(
-        name="atlanta",
+    ATALANTA = Mech(
+        name="atalanta",
         corp=Corps.INTERCORP,
         source=Sources.INTERCORP,
         image_path="https://img.itch.zone/aW1hZ2UvOTU4NjM3Lzk1Mzk1MDAucG5n/original/%2FoL3ZF.png",

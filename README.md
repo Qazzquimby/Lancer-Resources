@@ -7,7 +7,7 @@
 - [Amadlozi](#amadlozi)
 - [Anansi](#anansi)
 - [Argus](#argus)
-- [Atlanta](#atlanta)
+- [Atalanta](#atalanta)
 - [Atlas](#atlas)
 - [Balor](#balor)
 - [Barbarossa](#barbarossa)
@@ -171,7 +171,7 @@
 
 - [Acastus](#acastus)
 - [Argus](#argus)
-- [Atlanta](#atlanta)
+- [Atalanta](#atalanta)
 - [Coronus](#coronus)
 - [Heracles](#heracles)
 - [Nestor](#nestor)
@@ -297,7 +297,7 @@
 
 - [Acastus](#acastus)
 - [Argus](#argus)
-- [Atlanta](#atlanta)
+- [Atalanta](#atalanta)
 - [Coronus](#coronus)
 - [Heracles](#heracles)
 - [Nestor](#nestor)
@@ -350,7 +350,7 @@
 
 - [Acastus](#acastus)
 - [Argus](#argus)
-- [Atlanta](#atlanta)
+- [Atalanta](#atalanta)
 - [Coronus](#coronus)
 - [Heracles](#heracles)
 - [Nestor](#nestor)
@@ -528,7 +528,7 @@ Source: [Intercorp](https://interpoint-station.itch.io/intercorp), by Interpoint
 </details>
 
 -------
-### Atlanta
+### Atalanta
 
 Corp: Intercorp
 
